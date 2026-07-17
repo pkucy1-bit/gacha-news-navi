@@ -174,7 +174,7 @@ footer { text-align:center; color:var(--sub); font-size:.74rem; padding:30px 16p
 
 FOOTER = """</main>
 <footer>
-<p>掲載している商品情報は各メーカー公式サイトの公開情報をもとに毎日自動収集しています。</p>
+<p>掲載している商品情報は各メーカー公式サイトの公開情報をもとにしています。</p>
 <p>商品名・画像等の権利は各メーカーに帰属します。正確な発売情報は各公式サイトをご確認ください。</p>
 </footer>
 </body>
@@ -485,8 +485,7 @@ def build_index(items, cfg, news=None):
     # --- 業界ニュースタブ（プレスリリース・ニュース横断） ---
     parts.append('<section class="tab-panel" id="tab-news" style="display:none">')
     parts.append("<h2>業界ニュース・新商品発表</h2>")
-    parts.append("<p class='count-note'>公式サイト未対応メーカーの新商品情報も、"
-                 "プレスリリース・ニュース経由で自動収集しています。</p>")
+    parts.append("<p class='count-note'>各メーカーの新商品発表・プレスリリースをまとめています。</p>")
     if news:
         parts.append('<ul class="news-list">')
         for n in news[:50]:
