@@ -121,15 +121,24 @@ def parse_item(html: str, slug: str) -> dict:
 
 
 def is_placeholder(img: Image.Image) -> bool:
-    """「準備中」等のプレースホルダー画像を判定 (色数が極端に少ない画像)"""
+    """「準備中」等のプレースホルダー画像を判定"""
     im = img.copy()
     im.thumbnail((64, 64))
-    colors = im.getcolors(maxcolors=64 * 64)
-    if colors:
-        colors.sort(reverse=True)
-        total = sum(c for c, _ in colors)
-        if sum(c for c, _ in colors[:3]) / total > 0.92:
-            return True
+    px = list(im.getdata())
+    if not px:
+        return True
+    # ほぼグレースケール(彩度なし)の画像はプレースホルダーとみなす
+    sats = sorted(max(p) - min(p) for p in px)
+    mean_sat = sum(sats) / len(sats)
+    p95 = sats[int(len(sats) * 0.95)]
+    if mean_sat < 8 and p95 < 24:
+        return True
+    # 量子化して色数が極端に少ない画像 (JPEGノイズを吸収)
+    q = im.quantize(16).convert("RGB")
+    colors = sorted(q.getcolors(64 * 64) or [], reverse=True)
+    total = sum(c for c, _ in colors)
+    if total and sum(c for c, _ in colors[:2]) / total > 0.95:
+        return True
     stat = ImageStat.Stat(im)
     return max(stat.stddev) < 12  # ほぼ単色
 
