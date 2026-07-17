@@ -12,6 +12,7 @@
 """
 import html
 import json
+import re
 import shutil
 import urllib.parse
 from collections import defaultdict
@@ -64,6 +65,15 @@ def e(s):
 def is_new(it):
     cut = (date.today() - timedelta(days=NEW_DAYS)).isoformat()
     return (it.get("first_seen") or "") >= cut
+
+
+# 画像なし・「画像準備中」プレースホルダーの判定
+PLACEHOLDER_RE = re.compile(r"noimage|no_image|now_?printing|preparing|準備中|dummy|placeholder", re.I)
+
+
+def has_real_image(it):
+    img = it.get("image")
+    return bool(img) and not PLACEHOLDER_RE.search(img)
 
 
 # ---------------------------------------------------------------- CSS
@@ -422,9 +432,11 @@ SEARCH_JS = """
 
 def build_index(items, cfg, news=None):
     news = news or []
-    new_items = [it for it in items if is_new(it)][:30]
+    # 新着タブ: 画像なし・画像準備中の商品は表示しない（他タブ・検索には表示される）
+    new_items = [it for it in items if is_new(it) and has_real_image(it)][:30]
     this_month = date.today().strftime("%Y-%m")
-    month_now = [it for it in items if it.get("release") == this_month][:30]
+    month_now = [it for it in items
+                 if it.get("release") == this_month and has_real_image(it)][:30]
 
     by_month = defaultdict(list)
     for it in items:
