@@ -32,26 +32,13 @@ jobs:
       - name: Generate site
         run: python scraper/generate.py
 
-      - name: Instagram投稿生成の準備 (フォント+ライブラリ)
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq fonts-noto-cjk
-          pip install --quiet pillow requests beautifulsoup4
-
-      - name: Instagram投稿を生成
-        run: python tools/generate_posts.py --items-json data/items.json --out posts
-
-      - name: 投稿をサイトに含める
-        run: |
-          mkdir -p site/posts
-          cp -r posts/. site/posts/
-
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/items.json posts
+          git add data/items.json
           git diff --cached --quiet || git commit -m "chore: update items $(date +%F)"
+          # 実行中に別コミットが入っても競合しないようリベースしてから push
           git pull --rebase origin main
           git push
 
