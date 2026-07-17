@@ -34,7 +34,9 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageStat
+
+JST = datetime.timezone(datetime.timedelta(hours=9))
 
 SITE_BASE = "https://pkucy1-bit.github.io/gacha-news-navi/"
 SITE_NAME = "ガチャ新作ナビ"
@@ -118,6 +120,20 @@ def parse_item(html: str, slug: str) -> dict:
     }
 
 
+def is_placeholder(img: Image.Image) -> bool:
+    """「準備中」等のプレースホルダー画像を判定 (色数が極端に少ない画像)"""
+    im = img.copy()
+    im.thumbnail((64, 64))
+    colors = im.getcolors(maxcolors=64 * 64)
+    if colors:
+        colors.sort(reverse=True)
+        total = sum(c for c, _ in colors)
+        if sum(c for c, _ in colors[:3]) / total > 0.92:
+            return True
+    stat = ImageStat.Stat(im)
+    return max(stat.stddev) < 12  # ほぼ単色
+
+
 def fetch_image(url: str) -> Image.Image | None:
     if not url or "no-image" in url.lower():
         return None
@@ -125,7 +141,11 @@ def fetch_image(url: str) -> Image.Image | None:
         r = requests.get(url, timeout=60,
                          headers={"User-Agent": "Mozilla/5.0 (post-generator)"})
         r.raise_for_status()
-        return Image.open(io.BytesIO(r.content)).convert("RGB")
+        img = Image.open(io.BytesIO(r.content)).convert("RGB")
+        if is_placeholder(img):
+            print(f"  プレースホルダー画像のためスキップ: {url}")
+            return None
+        return img
     except Exception as e:
         print(f"  画像取得失敗: {url} ({e})")
         return None
@@ -334,7 +354,7 @@ def make_caption(items: list[dict], date_str: str) -> str:
 
 def prune_old(out_dir: Path):
     """KEEP_DAYSより古い生成フォルダを削除してリポジトリの肥大化を防ぐ"""
-    cutoff = datetime.date.today() - datetime.timedelta(days=KEEP_DAYS)
+    cutoff = datetime.datetime.now(JST).date() - datetime.timedelta(days=KEEP_DAYS)
     for p in out_dir.iterdir():
         if p.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", p.name):
             try:
@@ -387,7 +407,7 @@ async function copyCap(name, btn){{
 # ---------- 組み立て ----------
 def build_carousel(items: list[dict], images: dict, out_dir: Path,
                    font_path: str):
-    today = datetime.date.today()
+    today = datetime.datetime.now(JST).date()
     wd = "月火水木金土日"[today.weekday()]
     date_str = f"{today.month}月{today.day}日({wd})"
     set_dir = out_dir / today.strftime("%Y-%m-%d")
