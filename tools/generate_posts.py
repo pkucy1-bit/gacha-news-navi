@@ -618,8 +618,19 @@ def build_carousel(items, images, out_dir: Path, F: Fonts):
                         is_last=(v == n_slides - 1)).save(
             set_dir / f"{v + 2:02d}_page{v + 1}.png", optimize=True)
     make_cta(F).save(set_dir / f"{n_slides + 2:02d}_cta.png", optimize=True)
-    (set_dir / "caption.txt").write_text(make_caption(items, date_str),
-                                         encoding="utf-8")
+    caption = make_caption(items, date_str)
+    (set_dir / "caption.txt").write_text(caption, encoding="utf-8")
+
+    # GAS等の外部投稿ツール用マニフェスト
+    files = sorted(set_dir.glob("*.png"))
+    manifest = {
+        "date": set_dir.name,
+        "images": [f"{SITE_BASE}posts/{set_dir.name}/{f.name}"
+                   for f in files],
+        "caption": caption,
+    }
+    (out_dir / "latest.json").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"生成完了: {set_dir} (表紙+{n_slides}枚+CTA)")
 
 
