@@ -1,0 +1,57 @@
+name: tiktok-post
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 毎日 18:00 JST
+  workflow_dispatch:       # 手動実行も可能
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tiktok-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install --quiet requests
+
+      - name: トークンを復号
+        env:
+          TIKTOK_TOKEN_KEY: ${{ secrets.TIKTOK_TOKEN_KEY }}
+        run: |
+          if [ ! -f tiktok_token.enc ]; then
+            echo "::error::tiktok_token.enc がありません。ローカルで認可してコミットしてください。"
+            exit 1
+          fi
+          openssl enc -d -aes-256-cbc -pbkdf2 -in tiktok_token.enc -out tiktok_token.json -pass env:TIKTOK_TOKEN_KEY
+
+      - name: TikTokへ投稿
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+        run: python tools/tiktok_post.py
+
+      - name: 更新されたトークンを再暗号化してコミット
+        if: always()
+        env:
+          TIKTOK_TOKEN_KEY: ${{ secrets.TIKTOK_TOKEN_KEY }}
+        run: |
+          if [ -f tiktok_token.json ]; then
+            openssl enc -aes-256-cbc -pbkdf2 -in tiktok_token.json -out tiktok_token.enc -pass env:TIKTOK_TOKEN_KEY
+            rm tiktok_token.json
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tiktok_token.enc data/tiktok_last_posted.txt 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "chore: TikTokトークン/投稿状態を更新"
+          git pull --rebase origin main
+          git push
