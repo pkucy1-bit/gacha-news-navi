@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 21 * * *"   # 毎日 6:00 JST
   workflow_dispatch:        # 手動実行も可能
+  push:
+    paths:
+      - "static/**"         # 静的ページ追加・変更時も再ビルド
 
 permissions:
   contents: write
@@ -45,6 +48,10 @@ jobs:
         run: |
           mkdir -p site/posts
           cp -r posts/. site/posts/
+
+      - name: 静的ファイルをサイトに含める (TikTok連携ページ等)
+        run: |
+          if [ -d static ]; then cp -r static/. site/; fi
 
       - name: Commit updated data
         run: |
