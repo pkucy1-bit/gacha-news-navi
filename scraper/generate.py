@@ -457,16 +457,16 @@ def build_index(items, cfg, news=None):
 <div class="grid" id="search-grid"></div></div>
 <div id="browse">""")
 
-    # --- 新着タブ ---
+    # --- 新着タブ（今月発売 → 新着アイテム の順） ---
     parts.append('<section class="tab-panel" id="tab-new">')
-    if new_items:
-        parts.append("<h2>新着アイテム</h2><div class='grid'>")
-        parts += [card(it, cfg) for it in new_items]
-        parts.append("</div>")
     if month_now:
         y, mo = this_month.split("-")
         parts.append(f"<h2>今月（{y}年{int(mo)}月）発売</h2><div class='grid'>")
         parts += [card(it, cfg) for it in month_now]
+        parts.append("</div>")
+    if new_items:
+        parts.append("<h2>新着アイテム</h2><div class='grid'>")
+        parts += [card(it, cfg) for it in new_items]
         parts.append("</div>")
     if not new_items and not month_now:
         parts.append('<p class="noresult">新着情報は次回更新時に反映されます。</p>')
