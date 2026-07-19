@@ -27,7 +27,7 @@ LATEST_JSON = os.path.join(ROOT, "site", "posts", "latest.json")  # ビルド済
 LATEST_JSON_URL = "https://pkucy1-bit.github.io/gacha-news-navi/posts/latest.json"
 MAX_IMAGES = 35
 TITLE_LIMIT = 90
-CAPTION_LIMIT = 4000
+CAPTION_LIMIT = 3900  # 上限4000(UTF-16換算)に対して安全マージンを取る
 API_BASE = "https://open.tiktokapis.com"
 
 
@@ -84,15 +84,26 @@ def fetch_manifest():
     return res.json()
 
 
+def utf16_len(s):
+    """TikTokの文字数制限はUTF-16単位(絵文字は2文字扱い)のため専用で数える。"""
+    return len(s.encode("utf-16-le")) // 2
+
+
+def trim_utf16(s, limit):
+    while utf16_len(s) > limit and s:
+        s = s[:-50] if len(s) > 50 else s[:-1]
+    return s
+
+
 def trim_caption(caption, limit=CAPTION_LIMIT):
-    if len(caption) <= limit:
+    if utf16_len(caption) <= limit:
         return caption
     lines = caption.rstrip().split("\n")
     tags = lines[-1] if lines[-1].startswith("#") else ""
-    body_limit = limit - (len(tags) + 2 if tags else 0)
+    body_limit = limit - (utf16_len(tags) + 2 if tags else 0)
     body = "\n".join(lines[:-1] if tags else lines)
-    if len(body) > body_limit:
-        body = body[: body_limit - 1].rstrip() + "…"
+    if utf16_len(body) > body_limit:
+        body = trim_utf16(body, body_limit - 1).rstrip() + "…"
     return body + ("\n\n" + tags if tags else "")
 
 
@@ -100,7 +111,7 @@ def make_title(caption, date):
     first = caption.strip().split("\n")[0].strip()
     if not first:
         first = f"{date} の新作ガチャまとめ"
-    return first[:TITLE_LIMIT]
+    return trim_utf16(first, TITLE_LIMIT)
 
 
 def already_posted(date):
