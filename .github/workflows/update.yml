@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - "static/**"         # 静的ページ追加・変更時も再ビルド
+      - "tools/**"
 
 permissions:
   contents: write
@@ -52,6 +53,17 @@ jobs:
       - name: 静的ファイルをサイトに含める (TikTok連携ページ等)
         run: |
           if [ -d static ]; then cp -r static/. site/; fi
+
+      - name: TikTok用にJPEG版の投稿画像を生成 (写真投稿APIはPNG非対応)
+        run: |
+          python - << 'EOF'
+          from pathlib import Path
+          from PIL import Image
+          for p in Path("site/posts").rglob("*.png"):
+              img = Image.open(p).convert("RGB")
+              img.save(p.with_suffix(".jpg"), "JPEG", quality=92)
+          print("converted:", len(list(Path("site/posts").rglob("*.jpg"))))
+          EOF
 
       - name: Commit updated data
         run: |

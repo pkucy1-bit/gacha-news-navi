@@ -210,6 +210,9 @@ def main():
     if len(images) > MAX_IMAGES:
         images = images[: MAX_IMAGES - 1] + [images[-1]]
 
+    # TikTok写真投稿はPNG非対応のため、ビルド時に生成したJPEG版のURLを使う
+    images = [u[:-4] + ".jpg" if u.lower().endswith(".png") else u for u in images]
+
     token = get_access_token()
     privacy = choose_privacy(token)
 
