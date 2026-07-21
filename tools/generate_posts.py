@@ -391,31 +391,50 @@ def paste_polaroid(canvas, img, cx, cy, size, angle):
     canvas.alpha_composite(rot, (px, py))
 
 
+def scroll_arrow(canvas, d, cx, cy, r):
+    """右スワイプを促す丸囲みの矢印"""
+    d.ellipse([sc(cx - r), sc(cy - r), sc(cx + r), sc(cy + r)],
+              fill=CORAL)
+    a = r * 0.42
+    d.line([sc(cx - a), sc(cy), sc(cx + a * 0.5), sc(cy)], fill="#FFFFFF",
+           width=sc(r * 0.16))
+    d.polygon([(sc(cx + a * 0.9), sc(cy)),
+               (sc(cx - a * 0.05), sc(cy - a * 0.75)),
+               (sc(cx - a * 0.05), sc(cy + a * 0.75))], fill="#FFFFFF")
+
+
 # ---------- スライド ----------
-def make_cover(items, images, n_items, F, date_str):
+def make_cover(items, images, n_items, F, date_str, month, edition):
     canvas = new_canvas()
     d = ImageDraw.Draw(canvas)
     rnd = random.Random(11)
-    confetti(d, rnd, 16, (120, 1000), avoid=(55, 115, 1025, 1005))
+    confetti(d, rnd, 16, (120, 1000), avoid=(55, 95, 1025, 1000))
 
     brand_lockup(canvas, d, F, W / 2, 64)
-    card(canvas, (70, 130, W - 70, 905), radius=34)
+    card(canvas, (70, 130, W - 70, 992), radius=34)
 
     # 日付チップ
-    pill(canvas, d, W / 2, 205, f"{date_str} の新作情報", F.b(36), CORAL,
+    pill(canvas, d, W / 2, 210, f"{date_str} の新作情報", F.b(36), CORAL,
          "#FFFFFF", pad_x=34, pad_y=14)
 
-    # タイトル
-    sticker_text(d, W / 2, 330, "新作ガチャ", F.b(124), CORAL, NAVY, off=7)
-    n_f = F.b(150)
-    u_f = F.b(72)
-    n_txt = str(n_items)
-    n_w = d.textlength(n_txt, font=n_f) / S
-    u_w = d.textlength("種 登場", font=u_f) / S
-    x0 = W / 2 - (n_w + 16 + u_w) / 2
-    sticker_text(d, x0 + n_w / 2, 490, n_txt, n_f, NAVY, "#C9DCD4", off=6)
-    d.text((sc(x0 + n_w + 16), sc(515)), "種 登場", font=u_f, fill=NAVY,
-           anchor="lm")
+    # メインタイトル: 『7月ガチャガチャ』最新情報 → 第N弾
+    sticker_text(d, W / 2, 320, f"『{month}月ガチャガチャ』", F.b(78), NAVY,
+                 "#C9DCD4", off=5)
+    info_f = F.b(96)
+    info_txt = "最新情報"
+    iw = d.textlength(info_txt, font=info_f) / S
+    ar = 46
+    gap = 26
+    x0 = W / 2 - (iw + gap + ar * 2) / 2
+    sticker_text(d, x0 + iw / 2, 430, info_txt, info_f, CORAL, NAVY, off=6)
+    scroll_arrow(canvas, d, x0 + iw + gap + ar, 430, ar)
+
+    # 第N弾
+    ed_f = F.b(110)
+    ed_txt = f"第{edition}弾"
+    sticker_text(d, W / 2, 560, ed_txt, ed_f, NAVY, "#C9DCD4", off=6)
+    pill(canvas, d, W / 2, 660, f"新作 {n_items}種を一挙紹介", F.b(38), TEAL,
+         "#FFFFFF", pad_x=34, pad_y=14)
 
     # 商品サムネイル (ポラロイド風)
     thumbs = [images[i["slug"]] for i in items if images.get(i["slug"])][:4]
@@ -423,12 +442,11 @@ def make_cover(items, images, n_items, F, date_str):
           4: [255, 475, 665, 850]}.get(len(thumbs), [])
     angles = [-5, 3, -3, 5]
     for i, (t, x) in enumerate(zip(thumbs, xs)):
-        paste_polaroid(canvas, t, x, 725, 175, angles[i % 4])
+        paste_polaroid(canvas, t, x, 830, 168, angles[i % 4])
 
-    pill(canvas, d, W / 2, 952, "毎日 朝6時 更新", F.b(30), TEAL, "#FFFFFF",
-         pad_x=30, pad_y=11)
-    d.text((sc(W / 2), sc(1018)), SITE_URL_SHORT, font=F.r(26), fill=GRAY,
-           anchor="mm")
+    # 右スワイプ案内
+    d.text((sc(W / 2), sc(958)), "スワイプして新作をチェック ▶▶", font=F.b(34),
+           fill=CORAL, anchor="mm")
     return finish(canvas)
 
 
@@ -609,9 +627,20 @@ def build_carousel(items, images, out_dir: Path, F: Fonts):
     set_dir = out_dir / today.strftime("%Y-%m-%d")
     set_dir.mkdir(parents=True, exist_ok=True)
 
+    # 「第N弾」= その月の何回目の投稿か (月ごとにカウントを保存)
+    ed_file = out_dir / "_editions.json"
+    editions = json.loads(ed_file.read_text()) if ed_file.exists() else {}
+    ym = today.strftime("%Y-%m")
+    if editions.get("_last_date") != set_dir.name:
+        editions[ym] = editions.get(ym, 0) + 1
+        editions["_last_date"] = set_dir.name
+        ed_file.write_text(json.dumps(editions, ensure_ascii=False, indent=1),
+                           encoding="utf-8")
+    edition = editions[ym]
+
     n_slides = math.ceil(len(items) / PER_SLIDE)
-    make_cover(items, images, len(items), F, date_str).save(
-        set_dir / "01_cover.png", optimize=True)
+    make_cover(items, images, len(items), F, date_str, today.month,
+               edition).save(set_dir / "01_cover.png", optimize=True)
     for v in range(n_slides):
         chunk = items[v * PER_SLIDE:(v + 1) * PER_SLIDE]
         make_grid_slide(chunk, images, v + 1, n_slides, F,
