@@ -1,5 +1,46 @@
 [
  {
+  "id": "bandai-4570118183750000",
+  "maker": "バンダイ",
+  "name": "名探偵プリキュア！ なりきりプリキュア３",
+  "price": 300,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4570118183750000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000253547_1.jpg",
+  "release_text": "2026年7月 第4週",
+  "release": "2026-07",
+  "variety": "全6種",
+  "age": "3才以上",
+  "description": "『名探偵プリキュア！』のなりきりプリキュアシリーズ第3弾！\nキュアエクレールのトップオブリリーフレグランスやプリキットミラールーペが登場！\nプリキュアたちになりきって遊んでね！",
+  "first_seen": "2026-07-21"
+ },
+ {
+  "id": "bandai-4570118183774000",
+  "maker": "バンダイ",
+  "name": "名探偵プリキュア！ プリキュアマコトジュエルコレクション３",
+  "price": 300,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4570118183774000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000253546_1.jpg",
+  "release_text": "2026年7月 第4週",
+  "release": "2026-07",
+  "variety": "全4種",
+  "age": "3才以上",
+  "description": "『名探偵プリキュア！』のおもちゃと一緒に遊べるプリキュアマコトジュエル第3弾！\nおもちゃと連動させるとプリキュアたちの音声が聞こえるよ！\nガシャポンオリジナルデザインもラインナップ！たくさん集めてね♡",
+  "first_seen": "2026-07-21"
+ },
+ {
+  "id": "gnews-c307e2c0a83198c0",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "ガシャポン「ポケットステーション どこでもいっしょミニチュアチャーム」が再登場。7月第3週に発売（GAME Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMzBiVWkzWFVRYkp6SmI0VXdFWEtRbk8zNFM1VzFzTzJXNi1mYVJDbVk2dXNERmxaQ0tIejBnWU1PZ0hYem5UM3pNaDFMTG9FQXlKaDFXS2x1R2c2SDNxTEN4czhIQjQ3TkhYa0o3ZE9WQTBXUTE1RVZheElmYXc?oc=5",
+  "date": "Sat, 18 Jul 2026 15:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-21"
+ },
+ {
   "id": "gnews-79d444f1fd78d7a2",
   "kind": "news",
   "maker": "Dtimes",
