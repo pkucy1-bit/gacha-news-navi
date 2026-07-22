@@ -591,6 +591,49 @@ def write_gallery(out_dir: Path):
         blocks.append(f'''<div class="set"><h2>{s_.name}</h2>
 <div class="strip">{imgs}</div>
 <button onclick="copyCap('{s_.name}', this)">キャプションをコピー</button></div>''')
+    # クリップボード/画像保存のスクリプト (JSはf-string外で定義しbrace衝突を回避)
+    script = """
+async function copyCap(name, btn){
+  const t = await (await fetch(name + '/caption.txt')).text();
+  await navigator.clipboard.writeText(t);
+  btn.textContent = 'コピーしました!';
+  setTimeout(()=>btn.textContent='キャプションをコピー', 1500);
+}
+
+// --- 画像一括保存 ---
+async function saveAll(btn){
+  const set  = btn.closest('.set');
+  const date = (set.querySelector('h2')?.textContent || '').trim();
+  const imgs = [...set.querySelectorAll('.strip img')];
+  if(!imgs.length) return;
+  const orig = btn.textContent;
+  btn.disabled = true;
+  for(let i=0; i<imgs.length; i++){
+    btn.textContent = `保存中… ${i+1}/${imgs.length}`;
+    try{
+      const blob = await (await fetch(imgs[i].src)).blob();
+      const url  = URL.createObjectURL(blob);
+      const base = imgs[i].getAttribute('src').split('/').pop();
+      const a = document.createElement('a');
+      a.href = url; a.download = date ? `${date}_${base}` : base;
+      document.body.appendChild(a); a.click(); a.remove();
+      URL.revokeObjectURL(url);
+      await new Promise(r=>setTimeout(r,400));
+    }catch(e){ console.error(e); }
+  }
+  btn.textContent = '保存しました ✓';
+  setTimeout(()=>{ btn.textContent=orig; btn.disabled=false; }, 2000);
+}
+
+// 各 set に「画像を一括保存」ボタンを自動追加
+document.querySelectorAll('.set').forEach(set=>{
+  const b = document.createElement('button');
+  b.className = 'save';
+  b.textContent = '画像を一括保存';
+  b.onclick = () => saveAll(b);
+  set.appendChild(b);
+});
+"""
     html = f"""<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
@@ -604,18 +647,13 @@ box-shadow:0 2px 8px rgba(34,56,79,.12)}}
 .strip img{{height:300px;border-radius:8px}}
 button{{margin-top:10px;padding:10px 16px;border:none;border-radius:8px;
 background:{CORAL};color:#fff;font-size:14px;cursor:pointer}}
+button.save{{background:{NAVY};margin-left:8px}}
+button:disabled{{opacity:.6;cursor:default}}
 </style></head><body>
 <h1>Instagram投稿 生成結果</h1>
 <p>画像を長押し(右クリック)で保存 → Instagramでカルーセル投稿してください。</p>
 {"".join(blocks)}
-<script>
-async function copyCap(name, btn){{
-  const t = await (await fetch(name + '/caption.txt')).text();
-  await navigator.clipboard.writeText(t);
-  btn.textContent = 'コピーしました!';
-  setTimeout(()=>btn.textContent='キャプションをコピー', 1500);
-}}
-</script></body></html>"""
+<script>{script}</script></body></html>"""
     (out_dir / "index.html").write_text(html, encoding="utf-8")
 
 
