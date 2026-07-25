@@ -368,7 +368,7 @@ def fit_paste(canvas, img, box):
     canvas.paste(im, (bx0 + (bw - im.width) // 2, by0 + (bh - im.height) // 2))
 
 
-def fill_paste(canvas, img, box, max_up=2.4):
+def fill_paste(canvas, img, box, max_up=3.0):
     """box に収まる最大サイズで配置。小さい画像は max_up 倍まで拡大する
     (max_up は2倍スーパーサンプリング空間での倍率 = 最終出力では max_up/2 倍)"""
     bx0, by0, bx1, by1 = [sc(v) for v in box]
@@ -498,12 +498,12 @@ def make_item_slide(item, image, page, total_pages, F, is_last):
     d.line([sc(40), sc(118), sc(W - 40), sc(118)], fill=LINE, width=sc(2))
 
     # メインカード
-    m, top, bottom = 40, 150, 1004
+    m, top, bottom = 40, 140, 1008
     card(canvas, (m, top, W - m, bottom), radius=24)
 
     # 商品画像 (大きく)
     if image:
-        fill_paste(canvas, image, (m + 30, top + 46, W - m - 30, top + 612))
+        fill_paste(canvas, image, (m + 30, top + 34, W - m - 30, top + 674))
 
     # 番号バッジ
     col = BADGE_COLORS[(page - 1) % 4]
@@ -514,20 +514,20 @@ def make_item_slide(item, image, page, total_pages, F, is_last):
            anchor="mm")
 
     # 区切り線
-    dy = top + 636
+    dy = top + 696
     d.line([sc(m + 30), sc(dy), sc(W - m - 30), sc(dy)], fill=LINE,
            width=sc(2))
 
     # 商品名 (最大2行)
-    tf = F.b(42)
+    tf = F.b(38)
     lines = wrap_text(d, item["title"], tf, W - 2 * m - 68, max_lines=2)
-    ty = dy + 52
+    ty = dy + 40
     for ln in lines:
         d.text((sc(m + 34), sc(ty)), ln, font=tf, fill=NAVY, anchor="lm")
-        ty += 58
+        ty += 48
 
     # メーカー / 価格 / 発売時期 のピル (商品名の行数に合わせて配置)
-    mf = F.b(28)
+    mf = F.b(26)
     x = m + 34
     limit_x = W - m - 34
     for txt, pcol in [(item["maker"], TEAL),
@@ -540,7 +540,7 @@ def make_item_slide(item, image, page, total_pages, F, is_last):
         if x + wdt > limit_x:
             break
         pfg = NAVY if pcol == YELLOW else "#FFFFFF"
-        pill(canvas, d, x + wdt / 2, ty + 2, txt, mf, pcol, pfg, pad_x=26,
+        pill(canvas, d, x + wdt / 2, ty, txt, mf, pcol, pfg, pad_x=26,
              pad_y=11)
         x += wdt + 14
 
@@ -714,6 +714,8 @@ def build_carousel(items, images, out_dir: Path, F: Fonts):
     date_str = f"{today.month}月{today.day}日({wd})"
     set_dir = out_dir / today.strftime("%Y-%m-%d")
     set_dir.mkdir(parents=True, exist_ok=True)
+    for stale in list(set_dir.glob("*.png")) + list(set_dir.glob("*.jpg")):
+        stale.unlink()   # 同じ日に作り直した際の古い枚数の残骸を削除
 
     # 「第N弾」= その月の何回目の投稿か (月ごとにカウントを保存)
     ed_file = out_dir / "_editions.json"
