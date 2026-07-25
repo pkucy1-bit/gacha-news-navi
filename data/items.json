@@ -1,5 +1,64 @@
 [
  {
+  "id": "bandai-4582769979637000",
+  "maker": "バンダイ",
+  "name": "日曜劇場『VIVANT』 まちぼうけ",
+  "price": 500,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582769979637000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255276_1.jpg",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "日曜劇場『VIVANT』のまちぼうけが登場！",
+  "first_seen": "2026-07-25"
+ },
+ {
+  "id": "gnews-7022df6a280c6036",
+  "kind": "news",
+  "maker": "Hobby JAPAN Web",
+  "name": "HGウルトラマン最新作は『ウルトラマンガイア』より「新たなる戦い」をフィーチャー！さらにウルトラマンテオやブラックギラスもラインナップ！【ガシャポン®最新情報】",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wNnAxZXFWZFI0dUJKcGVqdmtLMGR5bEdKNE5wRXpnYmJvTWN0T1BYaTZRQmlWYy03OUpPTHlXVHg3bEpVbWJaNA?oc=5",
+  "date": "Sat, 25 Jul 2026 00:35:16",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-25"
+ },
+ {
+  "id": "gnews-5f9c8e9db1f42605",
+  "kind": "news",
+  "maker": "PR TIMES",
+  "name": "【ガチャガチャの森・Pon限定！】パ・リーグ6球団 応援バットキーホルダーの販売のお知らせ",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVHZnNWRVdEZKUkFUQXU0MllvV00tbXRGemJuYm5CRktaTFd4dWRZU2lYWWRIOHg5T3ltaE9JMGZ6dkFWRno1M25iNW9idU5rUkd0OG03dXZnWTdQdFhwZHIzUmpNSUxCcmc?oc=5",
+  "date": "Fri, 24 Jul 2026 09:05:32",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-25"
+ },
+ {
+  "id": "gnews-9a22b8c4170dc29c",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "カプセルトイ「北海道日本ハムファイターズ 歴代ヘルメットコレクション」が7月24日より順次発売（HOBBY Watch）",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObkhXRUlHOWJidmEyMm56M3hRZ0lCRS1TTnNQLXNISXc1Wkh2U0gyb2RjM1BtOGtSWDRPT21IUjlqZHNHWlBzV1JiM0l0bUFPaHlKVkVZbFBiUG9NMC1vRTUtMFJqVXMzYUZGYUpyQWJyUTZnNDNrQkNRVExkbm5yaGpJeGlIcE5QbHZ1dmJn?oc=5",
+  "date": "Thu, 23 Jul 2026 08:18:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-25"
+ },
+ {
+  "id": "gnews-c00c4f53ae633d92",
+  "kind": "news",
+  "maker": "PR TIMES",
+  "name": "「はらぺこあおむし」の絵本型ポーチに注目！バラエティー豊かなトートバッグ＆ポーチコレクションがカプセルトイに登場！",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mUlJtMEZxNTQ4ZHhSa2IteFN2Z0lVNTRhT0x6dFpkdlNuVTdJMEVJVTg5V0U0SXFrdW9nczE2bWVFOUZwTEphYURWN0dVQnU2cDNCM1NYeExRbjQzelhVZnJ6NkxBT3JwTEE?oc=5",
+  "date": "Tue, 21 Jul 2026 03:00:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-25"
+ },
+ {
   "id": "bandai-4582769777059000",
   "maker": "バンダイ",
   "name": "NCT WISH つまんでつなげてますこっと",
@@ -290,7 +349,7 @@
   "id": "gnews-675fee495106a75c",
   "kind": "news",
   "maker": "PR TIMES",
-  "name": "【ガチャガチャの森・Pon限定！】パ・リーグ6球団 カラフルマルチチャームの販売のお知らせ",
+  "name": "【ガチャガチャの森・Pon限定！】パ・リーグ6球団 カラフルマルチチャームの販売のお知らせ | イエロー株式会社のプレスリリース",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVkpHVjh6SXk2S25rNjRWMlplVDFGOWFPT2s0UUVLQW5IUVNHVDJnWXNwWDhoV0hWc1Q1SS1zdldYR19HRHN0dGtKa0U1aGFNekREaW5zZDNNX0FkTGNRTHVXdDJFSzY5MXc?oc=5",
   "date": "Fri, 24 Jul 2026 09:05:32",
   "release": null,
