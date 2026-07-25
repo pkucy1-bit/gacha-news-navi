@@ -368,6 +368,18 @@ def fit_paste(canvas, img, box):
     canvas.paste(im, (bx0 + (bw - im.width) // 2, by0 + (bh - im.height) // 2))
 
 
+def fill_paste(canvas, img, box, max_up=2.4):
+    """box に収まる最大サイズで配置。小さい画像は max_up 倍まで拡大する
+    (max_up は2倍スーパーサンプリング空間での倍率 = 最終出力では max_up/2 倍)"""
+    bx0, by0, bx1, by1 = [sc(v) for v in box]
+    bw, bh = bx1 - bx0, by1 - by0
+    ratio = min(bw / img.width, bh / img.height, max_up)
+    nw = max(1, int(img.width * ratio))
+    nh = max(1, int(img.height * ratio))
+    im = img.resize((nw, nh), Image.LANCZOS)
+    canvas.paste(im, (bx0 + (bw - nw) // 2, by0 + (bh - nh) // 2))
+
+
 def paste_polaroid(canvas, img, cx, cy, size, angle):
     """白フチ+回転+影つきのサムネイル"""
     th = img.copy()
@@ -491,7 +503,7 @@ def make_item_slide(item, image, page, total_pages, F, is_last):
 
     # 商品画像 (大きく)
     if image:
-        fit_paste(canvas, image, (m + 30, top + 46, W - m - 30, top + 612))
+        fill_paste(canvas, image, (m + 30, top + 46, W - m - 30, top + 612))
 
     # 番号バッジ
     col = BADGE_COLORS[(page - 1) % 4]
