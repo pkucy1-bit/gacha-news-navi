@@ -9,7 +9,7 @@
 
 構成:
   1枚目   : 表紙 (日付 + 新作N種 + 商品写真)
-  2枚目〜 : 商品カード 2x2 (番号バッジ + 情報バー)
+  2枚目〜 : 商品カード 1商品1枚 (番号バッジ + 情報ピル)
   最終枚  : サイト誘導のCTAスライド
 
 出力:
@@ -58,8 +58,8 @@ BADGE_COLORS = [CORAL, TEAL, YELLOW, PURPLE]
 
 W = H = 1080
 S = 2                 # スーパーサンプリング倍率 (2160で描画→1080に縮小)
-PER_SLIDE = 4
-MAX_SLIDES = 18
+PER_SLIDE = 1
+MAX_SLIDES = 20
 KEEP_DAYS = 14
 
 BASE_HASHTAGS = [
@@ -450,7 +450,32 @@ def make_cover(items, images, n_items, F, date_str, month, edition):
     return finish(canvas)
 
 
-def make_grid_slide(items, images, page, total_pages, F, is_last):
+def wrap_text(d, text, fnt, max_w, max_lines=2):
+    """指定幅で折り返し、上限行数を超える分は末尾を…で省略"""
+    lines, cur = [], ""
+    truncated = False
+    for ch in text:
+        if d.textlength(cur + ch, font=fnt) <= sc(max_w):
+            cur += ch
+        else:
+            lines.append(cur)
+            cur = ch
+            if len(lines) >= max_lines:
+                truncated = True
+                break
+    if not truncated:
+        if cur:
+            lines.append(cur)
+        return lines[:max_lines] or [""]
+    last = lines[-1]
+    while last and d.textlength(last + "…", font=fnt) > sc(max_w):
+        last = last[:-1]
+    lines[-1] = last + "…"
+    return lines
+
+
+def make_item_slide(item, image, page, total_pages, F, is_last):
+    """1商品を1枚で大きく見せるスライド"""
     canvas = new_canvas()
     d = ImageDraw.Draw(canvas)
 
@@ -460,39 +485,52 @@ def make_grid_slide(items, images, page, total_pages, F, is_last):
          "#FFFFFF", pad_x=24, pad_y=9)
     d.line([sc(40), sc(118), sc(W - 40), sc(118)], fill=LINE, width=sc(2))
 
-    m, gap, top = 40, 24, 146
-    cell_w = (W - m * 2 - gap) / 2
-    cell_h = 424
-    for idx, item in enumerate(items):
-        r, c = divmod(idx, 2)
-        x0 = m + c * (cell_w + gap)
-        y0 = top + r * (cell_h + gap)
-        col = BADGE_COLORS[idx % 4]
-        card(canvas, (x0, y0, x0 + cell_w, y0 + cell_h), radius=18)
-        # 画像
-        im = images.get(item["slug"])
-        if im:
-            fit_paste(canvas, im, (x0 + 14, y0 + 26, x0 + cell_w - 14,
-                                   y0 + 306))
-        # 番号バッジ
-        num = (page - 1) * PER_SLIDE + idx + 1
-        fg = NAVY if col == YELLOW else "#FFFFFF"
-        bx = (x0 + 14, y0 - 14, x0 + 92, y0 + 26)
-        card(canvas, bx, radius=20, fill=col, shadow=False)
-        d.text((sc(x0 + 53), sc(y0 + 5)), f"{num:02d}", font=F.b(28),
-               fill=fg, anchor="mm")
-        # 情報バー
-        d.line([sc(x0 + 18), sc(y0 + 322), sc(x0 + cell_w - 18),
-                sc(y0 + 322)], fill=LINE, width=sc(2))
-        name = truncate(d, item["title"], F.b(27), cell_w - 40)
-        d.text((sc(x0 + 20), sc(y0 + 346)), name, font=F.b(27), fill=NAVY,
-               anchor="lm")
-        meta = " ・ ".join(x for x in [item["maker"],
-                                       item["price"].replace("（税込）", ""),
-                                       item["release"]] if x)
-        meta = truncate(d, meta, F.r(23), cell_w - 40)
-        d.text((sc(x0 + 20), sc(y0 + 384)), meta, font=F.r(23), fill=GRAY,
-               anchor="lm")
+    # メインカード
+    m, top, bottom = 40, 150, 1004
+    card(canvas, (m, top, W - m, bottom), radius=24)
+
+    # 商品画像 (大きく)
+    if image:
+        fit_paste(canvas, image, (m + 30, top + 46, W - m - 30, top + 612))
+
+    # 番号バッジ
+    col = BADGE_COLORS[(page - 1) % 4]
+    fg = NAVY if col == YELLOW else "#FFFFFF"
+    card(canvas, (m + 20, top - 24, m + 132, top + 32), radius=28, fill=col,
+         shadow=False)
+    d.text((sc(m + 76), sc(top + 4)), f"{page:02d}", font=F.b(36), fill=fg,
+           anchor="mm")
+
+    # 区切り線
+    dy = top + 636
+    d.line([sc(m + 30), sc(dy), sc(W - m - 30), sc(dy)], fill=LINE,
+           width=sc(2))
+
+    # 商品名 (最大2行)
+    tf = F.b(42)
+    lines = wrap_text(d, item["title"], tf, W - 2 * m - 68, max_lines=2)
+    ty = dy + 52
+    for ln in lines:
+        d.text((sc(m + 34), sc(ty)), ln, font=tf, fill=NAVY, anchor="lm")
+        ty += 58
+
+    # メーカー / 価格 / 発売時期 のピル (商品名の行数に合わせて配置)
+    mf = F.b(28)
+    x = m + 34
+    limit_x = W - m - 34
+    for txt, pcol in [(item["maker"], TEAL),
+                      (item["price"].replace("（税込）", ""), CORAL),
+                      (item["release"], PURPLE)]:
+        if not txt:
+            continue
+        txt = truncate(d, txt, mf, 330)
+        wdt = d.textlength(txt, font=mf) / S + 52
+        if x + wdt > limit_x:
+            break
+        pfg = NAVY if pcol == YELLOW else "#FFFFFF"
+        pill(canvas, d, x + wdt / 2, ty + 2, txt, mf, pcol, pfg, pad_x=26,
+             pad_y=11)
+        x += wdt + 14
 
     # フッター
     d.text((sc(40), sc(1046)), "画像: 各メーカー公式サイトより", font=F.r(20),
@@ -676,12 +714,11 @@ def build_carousel(items, images, out_dir: Path, F: Fonts):
                            encoding="utf-8")
     edition = editions[ym]
 
-    n_slides = math.ceil(len(items) / PER_SLIDE)
+    n_slides = len(items)
     make_cover(items, images, len(items), F, date_str, today.month,
                edition).save(set_dir / "01_cover.png", optimize=True)
-    for v in range(n_slides):
-        chunk = items[v * PER_SLIDE:(v + 1) * PER_SLIDE]
-        make_grid_slide(chunk, images, v + 1, n_slides, F,
+    for v, item in enumerate(items):
+        make_item_slide(item, images.get(item["slug"]), v + 1, n_slides, F,
                         is_last=(v == n_slides - 1)).save(
             set_dir / f"{v + 2:02d}_page{v + 1}.png", optimize=True)
     make_cta(F).save(set_dir / f"{n_slides + 2:02d}_cta.png", optimize=True)
