@@ -1,5 +1,86 @@
 [
  {
+  "id": "bandai-4582769832185000",
+  "maker": "バンダイ",
+  "name": "Dr.MORICKY toymini series めじるしアクセサリー",
+  "price": 300,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582769832185000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255292_1.jpg",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "日本を拠点に活躍するイラストレーター「Dr.MORICKY」のめじるしアクセサリーが新登場！この商品の為に描き下ろした特別デザインです！",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "id": "gnews-f36b0268726d68f7",
+  "kind": "news",
+  "maker": "ウォーカープラス",
+  "name": "セサミストリートの新作カプセルトイ！ミニがまぐちキーホルダーは小銭が入れられてガチャ活にも便利",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xWl84VThsMlY0bkJyZV9vRldxRWpUaW9ZOU9CSkpzZURFUWMzZTVvUWNYdlJ4dkhXbGlBSi1PX2x4dVhYX0x6aEtuLURyazF5Q01uZTZR0gFbQVVfeXFMTTFHcXF4SDN6OGhBMTZSd0tTWG1ESXdYUklOcmZPLUNXUzAyX2J5UzRhNENJUGl6UzZ2QmgtR3QzZmd6TE9iU0VwQy0xMnJGdVdPZnJUb2xhVGU0cw?oc=5",
+  "date": "Wed, 29 Jul 2026 07:27:58",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-29"
+ },
+ {
+  "id": "gnews-b57e0859c281d1df",
+  "kind": "news",
+  "maker": "食品産業新聞社ニュースWEB",
+  "name": "人気の「寿司ロボット」カプセルトイ第2弾、最新機種カラー加え全5種発売",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16cHo2OXNnc2w4ZjJsalI0ZFVtU2xGNUt1U3phZGh1bFlCa3VOUDRfRmJPMmdPcjNnRThSWThyM2hfLVVBM05hUlh5RQ?oc=5",
+  "date": "Wed, 29 Jul 2026 03:22:04",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-29"
+ },
+ {
+  "id": "gnews-bb90731b59bcdcd9",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「ちいかわ ミニチュアおめん」がカプセルトイで発売！ゴム紐・ボールチェーン付属の全5種、ぬいぐるみに着けて遊べる",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOeGR6dWNTVklIMG84U2RMLW41WENuNFFSdXhnR3lpTnM4RmtKaC10UEhyQzNwaExBcW5GbmFXNzZURy1KWGNZVlBQeExLbVRjQm0ySkcyZmZhbFRQMVJsRk5MUUlObWpVY0E?oc=5",
+  "date": "Fri, 24 Jul 2026 05:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-29"
+ },
+ {
+  "id": "gnews-bce1be21380f52ca",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「パンどろぼう」の時計付きフィギュアがガシャポン展開！色々なポーズで時間を教えてくれる、実用性バッチリな全3種",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USjNzYzZrR29JMlVIakg3WWN2MUpwQmdnZVNpcF8wdGdxQzFEM0h3THJWNkpaS2pmWG15TFlxWHJFYWk0MTgwdzZlV2JuZ0pnb2J0ekxQOVZ3d2JUNnR4NHlhbDlNMk81WUE?oc=5",
+  "date": "Wed, 29 Jul 2026 03:05:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-29"
+ },
+ {
+  "id": "gnews-038e68d8b64cb482",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「パペットスンスン」便利なトートバッグがカプセルトイで発売！パフェやドーナツなど全6種、A4サイズがすっぽり入る大きさ 1枚目の写真・画像",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MdDdKX0hpOEF3RjlDbXpVcXhQd2tRTjI2UEkyaHA0QUp5NHhDRmFWWWl1NnJtamVBY2FFY1oySWs1ME5YNjBMVGV6aDI3V1NFRlZjWHRuSmFJMWNuUVVoS2JoQmN3VkdTUTFxRUQ2dGZJZkJLei1CbVRR?oc=5",
+  "date": "Tue, 28 Jul 2026 10:10:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-29"
+ },
+ {
+  "id": "gnews-931f761a85616432",
+  "kind": "news",
+  "maker": "huffingtonpost.jp",
+  "name": "スタバの人気メニューが“カプセルトイ”に！ぬいぐるみチャームの登場に「絶対ほしい」の声続出",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IVi1CRTNINWlQVHhHa1FnbHJDV19fcXVIWkE4OVRDVEkwV2VITHZnX1BWdDdnY2t1YU5NNlVWOGtkRG5LcDgzUXlTYVpkTEdTUXlKWUtKN3RJRGJ4RHJFNWM2dWNQcllHOEVodTMxNWotVWR6TENyag?oc=5",
+  "date": "Tue, 28 Jul 2026 07:12:42",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-07-29"
+ },
+ {
   "id": "bandai-4570118185211000",
   "maker": "バンダイ",
   "name": "CRAZY RACCOON つまんでつなげてますこっと1",
@@ -175,7 +256,7 @@
  {
   "id": "gnews-17bf481a18666a69",
   "kind": "news",
-  "maker": "めざましmedia",
+  "maker": "mezamashi.media",
   "name": "スタバ初のカプセルトイがかわいすぎる！抹茶クリームフラペチーノやドーナツなど手のひらサイズのぬいぐるみチャームに 8月2日発売",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSdmk0UTNZa1pSOENwNGNUVWFHTk9DSUtDaXRHaFE0OThJS3RGcUtvVVRsdnNlT21KNS1OT2puTDZFQm83S3ZhaGhWUXdKRlJxeDBiZTljQjdXbTg?oc=5",
   "date": "Tue, 28 Jul 2026 03:56:00",
@@ -2433,7 +2514,7 @@
   "maker": "ドラゴンボールオフィシャルサイト",
   "name": "「HGドラゴンボール06 GOKU EDITION2」が発売決定!!2026年8月よりガシャポン®自販機シリーズから順次登場予定!!",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85SGtlVjNUUFk1T0V6YXlSZnVaY25Ka1pzb25KdklzNHBKS0NKN05vc3lUUThPSkVDaFZ3OWNRQ1Fsa0V3Ylc0V2xMOXUycTZkZ3FscDBZdFNtRjFsdHU4?oc=5",
-  "date": "Tue, 14 Jul 2026 20:04:48",
+  "date": "Tue, 14 Jul 2026 07:00:00",
   "release": "2026-08",
   "release_text": "2026年8月",
   "first_seen": "2026-07-17"
