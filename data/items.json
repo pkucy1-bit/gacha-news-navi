@@ -1,5 +1,466 @@
 [
  {
+  "id": "toyscabin-4589415443917",
+  "maker": "トイズキャビン",
+  "name": "初音ミク GTプロジェクト ボンネットメタルキーホルダー",
+  "price": 500,
+  "url": "https://toyscabin.com/product/20260803_1468.php",
+  "image": null,
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "toyscabin-4589415443924",
+  "maker": "トイズキャビン",
+  "name": "幸柴",
+  "price": 400,
+  "url": "https://toyscabin.com/product/20260803_1467.php",
+  "image": null,
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "toyscabin-4589415443788",
+  "maker": "トイズキャビン",
+  "name": "ゼンマイでうごく！トコトコ仕事猫",
+  "price": 400,
+  "url": "https://toyscabin.com/product/20260803_1466.php",
+  "image": null,
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "toyscabin-4589415443887",
+  "maker": "トイズキャビン",
+  "name": "1/64 サニートラックコレクション3",
+  "price": 500,
+  "url": "https://toyscabin.com/product/20260803_1465.php",
+  "image": null,
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "toyscabin-4589415443870",
+  "maker": "トイズキャビン",
+  "name": "カプセルカンヅメカVol.3トリカンメカ",
+  "price": 500,
+  "url": "https://toyscabin.com/product/20260803_1464.php",
+  "image": null,
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "toyscabin-20260803_1463",
+  "maker": "トイズキャビン",
+  "name": "めっちゃカメレオン　わっかチャーム",
+  "price": 300,
+  "url": "https://toyscabin.com/product/20260803_1463.php",
+  "image": null,
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "bandai-4582769995552000",
+  "maker": "バンダイ",
+  "name": "カーケシGP NISSANセレクション01",
+  "price": 400,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995552000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255528_1.jpg",
+  "release_text": "2026年9月未定",
+  "release": "2026-09",
+  "variety": "全24種",
+  "age": "6才以上",
+  "description": "あの“カーケシ”がガシャポンで登場！NISSANの人気車種をラインナップ！\n※2026年8月第4週より順次ガシャポンバンダイオフィシャルショップにて先行販売予定\nhttps://gashapon.jp/news/?p=14068",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "bandai-4582769995569000",
+  "maker": "バンダイ",
+  "name": "カーケシGP MAZDAセレクション01",
+  "price": 400,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995569000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255527_1.jpg",
+  "release_text": "2026年9月未定",
+  "release": "2026-09",
+  "variety": "全24種",
+  "age": "6才以上",
+  "description": "あの“カーケシ”がガシャポンで登場！MAZDAの人気車種をラインナップ！\n※2026年8月第4週より順次ガシャポンバンダイオフィシャルショップにて先行販売予定\nhttps://gashapon.jp/news/?p=14068",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "bandai-4570118184559000",
+  "maker": "バンダイ",
+  "name": "めじるしアクセサリー サンリオキャラクターズ～エモきゅん～2",
+  "price": 300,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4570118184559000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255245_1.jpg",
+  "release_text": "2026年8月 第5週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "おめめうるうるのエモ可愛い表情のサンリオキャラクターたちのめじるしアクセサリー第二弾！\nハートがカラフルで推し活にもピッタリ♡\n全国のガシャポンバンダイオフィシャルショップでは、2026年8月3日（月）より順次先行発売開始！\n※発売日時・販売方法は店舗により異なる場合がございます。\n※本商品は、初回発売後、複数回の出荷を予定しております。",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "bandai-4582769792953000",
+  "maker": "バンダイ",
+  "name": "IVE FROM STARSHIP ENTERTAINMENT WITH AMUSE ミニCDコレクション",
+  "price": 500,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582769792953000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255310_1.jpg",
+  "release_text": "2026年8月 第5週",
+  "release": "2026-08",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "2026年2月にリリースされた、IVE THE 2ND ALBUM <REVIVE+>のデザインを使用したガシャポンが新登場！\n小さなCDを模したマスコットチャームです！",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "bandai-4582770027235000",
+  "maker": "バンダイ",
+  "name": "クレヨンしんちゃん なつやすみマスコット",
+  "price": 300,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027235000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255230_1.jpg",
+  "release_text": "2026年8月 第4週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "しんちゃんたちの夏のワンシーンを再現したような、なつやすみフィギュアが登場★\n日焼けをして楽しんでいる姿がかわいらしいコレクションです。\n全国のガシャポンバンダイオフィシャルショップでは、2026年8月3日（月）より順次先行発売開始！\n※発売日時・販売方法は店舗により異なる場合がございます。",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "bandai-4582769867576000",
+  "maker": "バンダイ",
+  "name": "FIM’S CLUB つまんでつなげてますこっと でらっくす！",
+  "price": 400,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582769867576000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255302_1.jpg",
+  "release_text": "2026年8月 第4週",
+  "release": "2026-08",
+  "variety": "全10種",
+  "age": "15才以上",
+  "description": "世界で活躍する5人組グループLE SSERAFIMの公式キャラクターFIM’S CLUBがガシャポンに登場！\nつままれたデザインが可愛い「つまんでつなげてますこっと」を各キャラごとにボールチェーンとカニカンの2パターンで展開！たくさん集めてつなげよう！",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "bandai-4582769995163000",
+  "maker": "バンダイ",
+  "name": "たまごっち カラフルマルチチャーム２",
+  "price": 300,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995163000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255243_1.jpg",
+  "release_text": "2026年8月 第4週",
+  "release": "2026-08",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "マスコット部分とシリコンバンドの色がリンクしていて可愛い♪\n大人気のカラフルマルチチャームに第2弾が登場★\nシリコンバンドは長さ調節ができるため、バッグにつけたりコードまとめにつかったり・・使い方いろいろ！\nさらにシリコンバンドをとりはずしてマスコット部分だけをチャームとしても使えます★\n全国のガシャポンバンダイオフィシャルショップでは、2026年8月3日（月）より順次先行発売開始！\n※発売日時・販売方法は店舗により異なる場合がございます。\n※本商品は、初回発売後、複数回の出荷を予定しております。",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "bandai-4582770122169000",
+  "maker": "バンダイ",
+  "name": "【ガシャポンバンダイオフィシャルショップ限定】HG ONE PIECE 01 SPECIAL EDITION",
+  "price": 500,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770122169000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255188_1.jpg",
+  "release_text": "2026年8月 第1週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "2026年1月発売「HG ONE PIECE 01」のSpecial Color ver.。全種メタリック塗装を施した豪華仕様。\n全国のガシャポンバンダイオフィシャルショップでは、2026年8月3日（月）より順次発売開始！\n全国のガシャポンバンダイオフィシャルショップ、ガシャポンオフィシャルショップ@ASAKUSA限定で入荷予定です。\n※発売日時・販売方法は店舗により異なる場合がございます。",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "kitan-kamibukuroneko_flocky3",
+  "maker": "キタンクラブ",
+  "name": "紙袋に入った猫 フロッキー３",
+  "url": "https://kitan.jp/products/kamibukuroneko_flocky3/",
+  "image": "https://kitan.jp/wp-content/uploads/2026/07/kami_f3_DP.jpg",
+  "release": "2026-08",
+  "release_text": "2026年8月上旬",
+  "price": 300,
+  "variety": "全6種",
+  "description": "株式会社キタンクラブのカプセルトイ（ガチャガチャ）商品「紙袋に入った猫 フロッキー３」の商品詳細ページです。",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "stasto-obakeidorolantan",
+  "maker": "スタンド・ストーンズ",
+  "name": "オバケイドロ! ランタンコレクション",
+  "url": "https://stasto.co.jp/products_ss/obakeidorolantan/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/08/ObakeidoroRantan.jpg",
+  "release": "2026-08",
+  "release_text": "2026年08月発売",
+  "price": 400,
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "stasto-obakeidorofigre",
+  "maker": "スタンド・ストーンズ",
+  "name": "オバケイドロ! フィギュアコレクション",
+  "url": "https://stasto.co.jp/products_ss/obakeidorofigre/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/08/ObakeidoroFigure.jpg",
+  "release": "2026-08",
+  "release_text": "2026年08月発売",
+  "price": 400,
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2031",
+  "maker": "クオリア",
+  "name": "殻からの脱出。 マスコットフィギュア",
+  "url": "https://www.qualia-45.jp/product/view/2031",
+  "image": "https://www.qualia-45.jp/media/1/0/5/0/2/6/105026_255x296.jpg?t=1785730612",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2027",
+  "maker": "クオリア",
+  "name": "うさぎの餅つきんにく マスコットフィギュア",
+  "url": "https://www.qualia-45.jp/product/view/2027",
+  "image": "https://www.qualia-45.jp/media/1/0/5/0/0/3/105003_255x296.jpg?t=1785720246",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2025",
+  "maker": "クオリア",
+  "name": "恐竜のぬいぐるみ2",
+  "url": "https://www.qualia-45.jp/product/view/2025",
+  "image": "https://www.qualia-45.jp/media/1/0/5/0/0/1/105001_255x296.jpg?t=1785720075",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 300,
+  "variety": "全7種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2014",
+  "maker": "クオリア",
+  "name": "たべものあざらし ぬいぐるみ",
+  "url": "https://www.qualia-45.jp/product/view/2014",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/0/104990_255x296.jpg?t=1785718433",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2024",
+  "maker": "クオリア",
+  "name": "むぎゅっ鳥® マスコットボールチェーン",
+  "url": "https://www.qualia-45.jp/product/view/2024",
+  "image": "https://www.qualia-45.jp/media/1/0/5/0/0/0/105000_255x296.jpg?t=1785719818",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 300,
+  "variety": "全6種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2010",
+  "maker": "クオリア",
+  "name": "とけちゃうズ マスコットフィギュア 2",
+  "url": "https://www.qualia-45.jp/product/view/2010",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/8/5/104985_255x296.jpg?t=1785717961",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2009",
+  "maker": "クオリア",
+  "name": "シャカシャカフレンズ2 メンダコちゃんとクラゲちゃん",
+  "url": "https://www.qualia-45.jp/product/view/2009",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/8/4/104984_255x296.jpg?t=1785717920",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2006",
+  "maker": "クオリア",
+  "name": "バナナアニマルズ マスコットボールチェーン 5",
+  "url": "https://www.qualia-45.jp/product/view/2006",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/7/8/104978_255x296.jpg?t=1785717453",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2013",
+  "maker": "クオリア",
+  "name": "モクリー マスコットフィギュア",
+  "url": "https://www.qualia-45.jp/product/view/2013",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/8/9/104989_255x296.jpg?t=1785718371",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全4種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2012",
+  "maker": "クオリア",
+  "name": "おれたち袋麺 マスコットフィギュア 2",
+  "url": "https://www.qualia-45.jp/product/view/2012",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/8/8/104988_255x296.jpg?t=1785718303",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全7種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2018",
+  "maker": "クオリア",
+  "name": "ガナディ もこもこフェイスポーチ",
+  "url": "https://www.qualia-45.jp/product/view/2018",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/3/104993_255x296.jpg?t=1785718742",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2021",
+  "maker": "クオリア",
+  "name": "セサミストリート ベジタブルのぬいぐるみ",
+  "url": "https://www.qualia-45.jp/product/view/2021",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/6/104996_255x296.jpg?t=1785719050",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2016",
+  "maker": "クオリア",
+  "name": "青鬼 合皮ポーチ",
+  "url": "https://www.qualia-45.jp/product/view/2016",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/2/104992_255x296.jpg?t=1785718667",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2015",
+  "maker": "クオリア",
+  "name": "モンチッチ×ハローキティ　スクエアポーチ",
+  "url": "https://www.qualia-45.jp/product/view/2015",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/1/104991_255x296.jpg?t=1785718587",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 500,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2020",
+  "maker": "クオリア",
+  "name": "ピングーのぬいぐるみ３",
+  "url": "https://www.qualia-45.jp/product/view/2020",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/5/104995_255x296.jpg?t=1785719001",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 500,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2019",
+  "maker": "クオリア",
+  "name": "こびとづかん めじるしフレンズ２",
+  "url": "https://www.qualia-45.jp/product/view/2019",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/4/104994_255x296.jpg?t=1785718917",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全7種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2011",
+  "maker": "クオリア",
+  "name": "KONDO DAISUKE アートコレクション3",
+  "url": "https://www.qualia-45.jp/product/view/2011",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/8/7/104987_255x296.jpg?t=1785718139",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2028",
+  "maker": "クオリア",
+  "name": "セサミストリート　フェイス巾着",
+  "url": "https://www.qualia-45.jp/product/view/2028",
+  "image": "https://www.qualia-45.jp/media/1/0/5/0/0/4/105004_255x296.jpg?t=1785720326",
+  "release": "2025-10",
+  "release_text": "2025年10月",
+  "price": 400,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2023",
+  "maker": "クオリア",
+  "name": "川崎誠二の木彫りの動物たちマスコットフィギュア 2",
+  "url": "https://www.qualia-45.jp/product/view/2023",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/8/104998_255x296.jpg?t=1785719478",
+  "release": "2024-08",
+  "release_text": "2024年8月",
+  "price": 300,
+  "variety": "全7種",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "id": "qualia-2022",
+  "maker": "クオリア",
+  "name": "こびとづかんのぬいぐるみ",
+  "url": "https://www.qualia-45.jp/product/view/2022",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/9/7/104997_255x296.jpg?t=1785719249",
+  "release": "2024-03",
+  "release_text": "2024年3月",
+  "price": 500,
+  "variety": "全5種",
+  "first_seen": "2026-08-03"
+ },
+ {
   "id": "gnews-359e0c9a069c591c",
   "kind": "news",
   "maker": "All About ニュース",
@@ -1317,7 +1778,12 @@
   "category": "プレミアム",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769892271000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255327_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全3種",
+  "age": "15才以上",
+  "description": "日本中で見かけることが出来るアブラゼミの登場です。サイズも約105mmと大きくしたことで可動ギミックや複雑な模様まで余すことなく再現しました。"
  },
  {
   "id": "bandai-4582769911675000",
@@ -1327,7 +1793,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769911675000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255312_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "雑貨や文具で大人気の「COCO and Wondrous Gang」のCOCOちゃんたちを初立体化！ならぶんです。シリーズのフィギュアになりました♪"
  },
  {
   "id": "bandai-4582769935060000",
@@ -1337,7 +1808,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769935060000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255363_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全7種",
+  "age": "15才以上",
+  "description": "2006年日本テレビ系にて放送され大好評を博したアニメ『桜蘭高校ホスト部』から、おなまえなふだバッジが初登場！バッグやポーチに付けやすい仕様です♪"
  },
  {
   "id": "bandai-4582769935541000",
@@ -1347,7 +1823,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769935541000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255311_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "レトロ懐かしいぬいぐるみ「うめ吉」がフロッキーフィギュアになりました！ぬいぐるみのふわふわ質感をフロッキーで再現しています。"
  },
  {
   "id": "bandai-4582769935879000",
@@ -1357,7 +1838,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769935879000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255296_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "パワプロくんの頭がボブルヘッドの様に動く新シリーズ「ゆれるんです。」にパシフィック・リーグの6球団が大集合！"
  },
  {
   "id": "bandai-4582769936197000",
@@ -1367,7 +1853,12 @@
   "category": "フラット",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769936197000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255331_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "おジャ魔女どれみにょんのネイルシールが登場！お好みのシールを自由に組み合わせて、自分だけのオリジナルネイルを楽しめます！"
  },
  {
   "id": "bandai-4582769972416000",
@@ -1377,7 +1868,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769972416000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255279_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "フロッキーチャームより「Winnie the Pooh」が登場！各種ぬいぐるみっぽいデザインでちょこんとしているのが可愛い♡"
  },
  {
   "id": "bandai-4582769979002000",
@@ -1387,7 +1883,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769979002000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255277_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "ぷにぷにしたやわらかい触り心地のBIGフィギュアです。\nはぐれメタルは固めです。"
  },
  {
   "id": "bandai-4582769990748000",
@@ -1397,7 +1898,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769990748000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255244_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "カードキャプターさくらのめじるしアクセサリー第4弾です！ 傘の取っ手やペンなどいろいろな持ち物に“めじるし”をつけられる便利なカニカン付きチャーム！\n今回は作中で印象的な小物たちがめじるしになりました！"
  },
  {
   "id": "bandai-4582769995132000",
@@ -1407,7 +1913,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995132000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255306_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第1週",
+  "release": "2026-08",
+  "variety": "全6種",
+  "age": "6才以上",
+  "description": "2026年7月31日公開の『映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション』に登場するキャラクターたちがスイングマスコットになって登場！"
  },
  {
   "id": "bandai-4582769995446000",
@@ -1417,7 +1928,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995446000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255240_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全11種",
+  "age": "15才以上",
+  "description": "キンケシが到達した究極の形！第13弾。\nキンケシが豪華なダイキャストになって登場。"
  },
  {
   "id": "bandai-4582770015331000",
@@ -1427,7 +1943,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770015331000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255238_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全6種",
+  "age": "3才以上",
+  "description": "人気の楽器遊びができる「ハンディコンサート」の9弾が登場！ギターやマラカス、トランペット等バリエーションに富んだ楽器遊びが楽しめます♪スティックをしまうと顔型キーチェーンとして持ち歩きもできます！"
  },
  {
   "id": "bandai-4582770026962000",
@@ -1437,7 +1958,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770026962000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255234_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "2つ並べることでシーンが完成するスイングシリーズ！恋人同士や友達同士でペアで持ちたくなるデザイン♪"
  },
  {
   "id": "bandai-4582770026979000",
@@ -1447,7 +1973,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770026979000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255233_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "マルチに使えてかわいい「カラフルマルチチャーム」シリーズからディズニーキャラクターが登場！\nキャラクターマスコットと各小物のダブルチャームもかわいい！\n※本商品は、初回発売後、複数回の出荷を予定しております。"
  },
  {
   "id": "bandai-4582770027389000",
@@ -1457,7 +1988,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027389000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255229_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "スンスンたちの可愛くて実用的なミラーが登場！ いろんなデザインの全5種で集めたくなっちゃう。\n※本商品は、初回発売後、複数回の出荷を予定しております。"
  },
  {
   "id": "bandai-4582770027495000",
@@ -1467,7 +2003,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027495000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255227_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全10種",
+  "age": "15才以上",
+  "description": "大人気の“ギア5”ルフィが「つまんでつなげてますこっと」に登場！\n自由に大暴れするルフィをたくさん繋げて楽しめます！"
  },
  {
   "id": "bandai-4582770027532000",
@@ -1477,7 +2018,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027532000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255225_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "鬼滅の刃「ねむらせ隊」から第4弾が登場！すやすや眠る姿がかわいい♪"
  },
  {
   "id": "bandai-4582770027655000",
@@ -1487,7 +2033,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027655000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255305_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全23種",
+  "age": "15才以上",
+  "description": "『宇宙兄弟』のコミックスがミニチュアチャームになって登場！1～23巻をラインナップ！"
  },
  {
   "id": "bandai-4582770053944000",
@@ -1497,7 +2048,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770053944000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255220_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "大人気アニメ「銀河特急 ミルキー☆サブウェイ」がめじるしアクセサリーになって登場！集めてかわいい全6種です☆\n※本商品は、初回発売後、複数回の出荷を予定しております。"
  },
  {
   "id": "bandai-4582770053982000",
@@ -1507,7 +2063,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770053982000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255218_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "大人気たかはたまさおさんの木彫り作品第２弾！野球をしている熊さんたちがかわいいフィギュアシリーズです。（素材はPVCです。木製を再現した彩色を施しています。）"
  },
  {
   "id": "bandai-4582770054002000",
@@ -1517,7 +2078,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770054002000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255217_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "大人気キャラクター「ニャンちゅう」からフェイスぬいぐるみが登場です！くまはフワフワの生地を使用し触り心地も抜群！ボールチェーン付きで好きな場所に付けられます。"
  },
  {
   "id": "bandai-4582770055641000",
@@ -1527,7 +2093,12 @@
   "category": "プレミアム",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770055641000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255371_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "≪大好評につき、2026年1月に実現したスペシャルコラボレーションの第2弾がはやくも登場。≫\n『POWER KNUCKLE』は、ガシャポンが発信するハイクオリティな新しいデザイナーズフィギュアシリーズ。\n国内外で活躍するフィギュアアーティスト「TOUMA」の“拳”に特徴をもたせたアーティスティックなスタイルをPOP&COOLに立体化したアートトイブランドです。\n今回、2度目となる『仮面ライダーシリーズ』とのコラボで登場。\n全高約11cmの飾りやすくもボリューム感のあるサイズ感に、クリアパーツやメタリック彩色のこだわりを詰め込みました。\n更に肩や腕が回転できるギミック付き。\nこのプレミアムなコラボレーションをお見逃しなく。"
  },
  {
   "id": "bandai-4582770056020000",
@@ -1537,7 +2108,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770056020000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255204_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "劇場版 『チェンソーマン レゼ篇』からめじるしアクセサリー第1弾が登場です。\n傘の取っ手やペンなどいろいろな持ち物に“めじるし”をつけられる便利なカニカン付きチャーム！\n※本商品は、初回発売後、複数回の出荷を予定しております。"
  },
  {
   "id": "bandai-4582770056112000",
@@ -1547,7 +2123,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770056112000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255358_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "暑～い夏で猫ちゃんが溶けちゃった！？液体のようにとろけた猫ちゃんをクリア素材で再現！\n自由気ままな猫ちゃんのゆる～い見た目が可愛いフィギュアです。\n段ボールと金魚鉢のラインナップには別パーツが付属！"
  },
  {
   "id": "bandai-4582770069105000",
@@ -1557,7 +2138,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770069105000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255199_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "ウルトラマンとウルトラ怪獣になりきった可愛らしい猫たちのフィギュアコレクションの第2弾！\n身体部分（ウルトラマンはカラータイマー以外）にふわふわの「フロッキー加工」を施した、肌触りに癒されるフィギュアです。肉球など細部までこだわった至極の一品です。"
  },
  {
   "id": "bandai-4582770070590000",
@@ -1567,7 +2153,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770070590000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255196_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "イラストレーターのてらおかなつみさんが描かれるいぬたちが、フロッキー仕様のかわいいめじるしアクセサリーになりました！"
  },
  {
   "id": "bandai-4582770094435000",
@@ -1577,7 +2168,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770094435000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000255189_1.jpg",
-  "first_seen": "2026-08-01"
+  "first_seen": "2026-08-01",
+  "release_text": "2026年8月 第2週",
+  "release": "2026-08",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "「Disney」からアクリルブロックチャームが新登場！チャームとしての使用はもちろん、自立させて飾って楽しむこともできる商品です♪"
  },
  {
   "id": "gnews-8c209541c868ba76",
@@ -5732,7 +6328,7 @@
   "maker": "クオリア",
   "name": "拒否犬ストラップ２",
   "url": "https://www.qualia-45.jp/product/view/1970",
-  "image": "https://www.qualia-45.jp/media/1/0/3/7/3/6/103736_255x296.jpg?t=1784161947",
+  "image": "https://www.qualia-45.jp/media/1/0/4/9/8/6/104986_255x296.jpg?t=1785718079",
   "release": "2026-07",
   "release_text": "2026年7月",
   "price": 300,
