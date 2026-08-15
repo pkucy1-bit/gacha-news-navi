@@ -1,5 +1,75 @@
 [
  {
+  "id": "bandai-4582770140583000",
+  "maker": "バンダイ",
+  "name": "逆転バリバリバース バリバコイン GP 第1転",
+  "price": 400,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770140583000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000256153_1.jpg",
+  "release_text": "2026年9月未定",
+  "release": "2026-09",
+  "variety": "全6種",
+  "age": "6才以上",
+  "description": "裏返せ！その常識！\n「逆転バリバリバース」からガシャポン限定のバリバコインが登場！\nここだけでしか手に入らないバリバコインをGETしよう！",
+  "first_seen": "2026-08-15"
+ },
+ {
+  "id": "gnews-eb20f8a7edb6bfe3",
+  "kind": "news",
+  "maker": "プラメポータル",
+  "name": "【最新ガチャ情報】綿素材が気持ちいい！ 2026年8月発売「お文具といっしょ ガーゼタオルなのです。」全4種が見逃せない",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5YUtCZEVWNFN5cE55bm0wcjR3Q3RiNW43cXJPQUZqd3lxUW5iTWJBbFg5NlowdC1tYUZsVDVRNUJSczhFN1BHZUpPd3p1WWJnbmpscXdlR0JOcjczOHllREJoZVVjbTRzQjJXOEdSdnhBUjZDcGFESEtiTQ?oc=5",
+  "date": "Sat, 15 Aug 2026 12:35:00",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "first_seen": "2026-08-15"
+ },
+ {
+  "id": "gnews-622799d303c4adb9",
+  "kind": "news",
+  "maker": "All About ニュース",
+  "name": "2026年8月発売！ むにゅっと感触が心地いい「ブルブルくん むにゅっとぬいぐるみ」全5種が見逃せない【最新ガチャ情報】",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zTUVyNTBycXBVa3BUVGJ4bU1aRVJNb1FSYXdjU1V5SXplWXVsc3o5SUNfY3RNNG8zNDdCaXJNODFwNUVtMkhFSUJ0YTFfWURkM3pxZ2ctb19vQQ?oc=5",
+  "date": "Sat, 15 Aug 2026 01:00:00",
+  "release": "2026-08",
+  "release_text": "2026年8月",
+  "first_seen": "2026-08-15"
+ },
+ {
+  "id": "gnews-2df9347453566240",
+  "kind": "news",
+  "maker": "inside-games.jp",
+  "name": "「パンどろぼう」の時計付きフィギュアが、ガシャポンで発売！色々なポーズで時間を教えてくれる、実用性バッチリな全3種 1枚目の写真・画像 - inside",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ySEswaXRfN3REUV9sMTBLY19FOXhKb2M5VTI1bGIwREU4NHF5R2FGb3QtMWQzWWg2SnVUM2wxUmlaYTRWMnl4bjdfVXBvbWdVRngxRTIyU3RZSGNlQnF4alFiQmQ1WGVwTXFRTVNTNkUyQWlfN0dHQ1Bn?oc=5",
+  "date": "Fri, 14 Aug 2026 07:00:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-08-15"
+ },
+ {
+  "id": "gnews-9a26e33e00dcc136",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "ガシャポン「パワプロくん ゆれるんです。～セントラル・リーグ～」8月第2週発売！（HOBBY Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yYVE0c0dZU2NEcmJ1d3hndmtYUVZlSTBtV3J5Nld5RWlqbnRtU1JhVjlNeVdGN1NPaTcxTGV2aW02alYxUHB1S25hNWJsM3Z6ejJhVHFkcDZMcVVPTHBBdjVIZE9oVkhzR0FNSEZfZVBHeE5FRDNKbUVTdzcyQlU?oc=5",
+  "date": "Sun, 09 Aug 2026 15:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-08-15"
+ },
+ {
+  "id": "gnews-3c3d76b414aefd5a",
+  "kind": "news",
+  "maker": "Game*Spark",
+  "name": "『どうぶつの森』“木から落ちてくるアイテム”がカプセルトイに登場！各フルーツやベルぶくろ、おくすり付きのハチ巣まで全7種",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5SzFsMFp5UzFQcHlMUlRxa0FfVEtCeC1DdjlqOWJsdkZuRDhlOW5ZOTNhRzRMZjVya1FRcHpVR09mNHRQTjJoaGlHYWVSZWFFMlVlVHpLNThRUHFXSVNqXzJ0Q1lkUQ?oc=5",
+  "date": "Thu, 13 Aug 2026 03:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-08-15"
+ },
+ {
   "id": "gnews-400a560c46bc2e22",
   "kind": "news",
   "maker": "au Webポータル",
@@ -49,7 +119,7 @@
   "maker": "Yahoo!ニュース",
   "name": "カプセルトイ「ドラゴンクエスト ぷにぷにし隊」が8月第2週発売（GAME Watch）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UZVY4RGNFTmswandmWkVKNldUMDNqc0poYWpFbFk0am5XYzBQREtmMVFTMFR5ZlRCYkx5T3ROUDU2M0RjZ0o5b2NjZ2xrSUFBb1lyVHg1SVlyVkkyRFh0R1BtSXhyaUEtWkM0a25QakxHMVJhNzc5REFkTlVwcU0?oc=5",
-  "date": "Fri, 14 Aug 2026 15:08:42",
+  "date": "Fri, 14 Aug 2026 15:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-08-14"
@@ -57,8 +127,8 @@
  {
   "id": "gnews-d2a5a92c754db59f",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "「パンどろぼう」の時計付きフィギュアが、ガシャポンで発売！色々なポーズで時間を教えてくれる、実用性バッチリな全3種",
+  "maker": "inside-games.jp",
+  "name": "「パンどろぼう」の時計付きフィギュアが、ガシャポンで発売！色々なポーズで時間を教えてくれる、実用性バッチリな全3種 - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xNm84VkxOaDRzaDFvM2dKdG8zR3ZQRHBhUVZRWGhab21pb01UbUNadGVsT3RLbXA3a2dHM3NTSTlmeEJhOF9xN2twbkZLTnJ0VjJlS3BRWWhfSmcyNXU1QlJDcEkyVkJ0RkE?oc=5",
   "date": "Fri, 14 Aug 2026 07:00:03",
   "release": null,
@@ -431,8 +501,8 @@
  {
   "id": "gnews-cce7cd679f2075a3",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "「ガンダムカードゲーム」1周年記念弾カードチャームが、ガシャポンで8月第4週発売！ストフリやνガンダム、キラ・ヤマトなど全20種",
+  "maker": "inside-games.jp",
+  "name": "「ガンダムカードゲーム」1周年記念弾カードチャームが、ガシャポンで8月第4週発売！ストフリやνガンダム、キラ・ヤマトなど全20種 - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15bFRtdEVLYVBkUW13VXJRN2xSVU0yYWV0X3c5aFFKeE9RR0V3bWo3RFhDRjJ0aFRuY2psMmZjSXRPMmdaZnJaUmx6VmM0ZE1xdURFdVNpbTVodmtOREtBbmV5dEZnQlhkYVE?oc=5",
   "date": "Mon, 10 Aug 2026 03:25:02",
   "release": null,
@@ -1071,10 +1141,10 @@
  {
   "id": "gnews-f4cacd22e517089a",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "スティッチたちと小物のダブルチャームが可愛い！ガシャポン「“ディズニーキャラクター” カラフルマルチチャーム」が発売",
+  "maker": "inside-games.jp",
+  "name": "スティッチたちと小物のダブルチャームが可愛い！ガシャポン「“ディズニーキャラクター” カラフルマルチチャーム」が発売 - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3TnFtdFNObHFCakxIVlpCa0FHZmdPSWpXbi1FaWZmSFlJOGEwa1FuTEVRY2RDWFRzc25hQ0drY1pQcmh6RzFZVzVybTYxVElsYjlPbnYya19SSjRwelFMUUhha2UzUE9wYUE?oc=5",
-  "date": "Thu, 06 Aug 2026 07:00:03",
+  "date": "Thu, 06 Aug 2026 07:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-08-07"
@@ -1729,8 +1799,8 @@
  {
   "id": "gnews-60faf7d86aa6b221",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "全種メタリックの豪華仕様！「ワンピース」ガシャポンフィギュアが限定発売、モンキー・D・ルフィ（ギア5）など全4種",
+  "maker": "inside-games.jp",
+  "name": "全種メタリックの豪華仕様！「ワンピース」ガシャポンフィギュアが限定発売、モンキー・D・ルフィ（ギア5）など全4種 - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01MFJFQllXSmFIQVZjVlVtdGM4S29pQ2lyVFhwLUE5eUd0QzBSMXVMbkpGR2dwc2JaX1RGR09Ub1pCOVc5aUNoVlJyMlVSSkRMWkhvb3BldG5RZDYza0JBNjFnNDZFWmJtWlE?oc=5",
   "date": "Mon, 03 Aug 2026 07:00:00",
   "release": null,
@@ -4888,8 +4958,8 @@
  {
   "id": "gnews-eb6b15cb0c95d03b",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "「パペットスンスン」便利なトートバッグがカプセルトイで発売！パフェやドーナツなど全6種、A4サイズがすっぽり入る大きさ",
+  "maker": "inside-games.jp",
+  "name": "「パペットスンスン」便利なトートバッグがカプセルトイで発売！パフェやドーナツなど全6種、A4サイズがすっぽり入る大きさ - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFNXZEeTduc09UOGgtZjZ4cW1MVnRrekZVSi0xaUEySTZhTDdaSEUyVHVJamNZQ1ZtTjZWTDdsMjJBYjdxVlFDYkJoUXRGM1dfT0FaVWpyLUo0WFNXWElUdlRYZ1dJWHRwWVE?oc=5",
   "date": "Tue, 28 Jul 2026 07:00:00",
   "release": null,
