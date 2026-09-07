@@ -1,5 +1,31 @@
 [
  {
+  "id": "bushiroad-10048",
+  "maker": "ブシロードクリエイティブ",
+  "name": "カラフルピーチ　ぺたっとねじまきますこっと vol.4",
+  "url": "https://capsule.bushiroad-creative.com/product/10048/",
+  "image": "https://capsule.bushiroad-creative.com/wordpress/wp-content/uploads/2026/05/07111948/karapichi_PT_mascot_vol4_POP-640x640.jpg",
+  "release_text": "2026年9月下旬発売予定",
+  "release": "2026-09",
+  "price": 500,
+  "variety": "全6種",
+  "age": "15歳以上",
+  "first_seen": "2026-09-07"
+ },
+ {
+  "id": "bushiroad-10047",
+  "maker": "ブシロードクリエイティブ",
+  "name": "カラフルピーチ　ぺたっとねじまきますこっと vol.3",
+  "url": "https://capsule.bushiroad-creative.com/product/10047/",
+  "image": "https://capsule.bushiroad-creative.com/wordpress/wp-content/uploads/2026/05/07111909/karapichi_PT_mascot_vol3_POP-640x640.jpg",
+  "release_text": "2026年9月下旬発売予定",
+  "release": "2026-09",
+  "price": 500,
+  "variety": "全5種",
+  "age": "15歳以上",
+  "first_seen": "2026-09-07"
+ },
+ {
   "id": "bandai-4582770122442000",
   "maker": "バンダイ",
   "name": "仮面ライダーシリーズ ビジュアルアートコレクション",
