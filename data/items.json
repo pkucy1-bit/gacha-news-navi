@@ -1,11 +1,66 @@
 [
  {
+  "id": "gnews-bc8a68242a5d66ed",
+  "kind": "news",
+  "maker": "anan",
+  "name": "売り切れ注意！ 2026年下半期のカプセルトイ注目作",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01TlkyNkpHSWlnN1VBTkZfSlJQdFVzZ0NwaFQ1NEQtT2NoUWZ3NHlhSWw5OGJvQnc0WUNaUUZwdW9iUEF0ZksxS1psdGNIUVBBaDlaTjFMdFRtUXpjSF9F?oc=5",
+  "date": "Sun, 20 Sep 2026 03:30:13",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-20"
+ },
+ {
+  "id": "gnews-49972be17a57bbca",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "ガシャポン『星のカービィ』“プププなおかしやさん ”マスコットチャームが発売！アイシングクッキーデザインがお菓子風パッケージに入った全6種（インサイド）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtT2VIUVVxVGZfTWMyb19uQ3paVVJySmhJX3EzdTExZVpIUS0xSTZHT2F5WXNyZ0ladzc0Yk1vaE5KZnBERXY4VjNhZWZEb1VXd29rejJ5cnVROGlPbEd2SVlRdWc4N0Vwdk1EUk9QUFRLeFU4bU5Td1FabDNSdGs?oc=5",
+  "date": "Sun, 20 Sep 2026 00:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-20"
+ },
+ {
+  "id": "gnews-a1b130ae020849d1",
+  "kind": "news",
+  "maker": "GUNDAM Official Website",
+  "name": "ガシャポン「EXCEED MODEL TRINITY RX-78-2 ガンダム」9月第4週より順次発売！3種類を合体すると全高約20cmのバストアップモデルに！",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pSmcyV3IyS1oybHNOLWtzVTc3M05PanpsLWFwN1dvVTlwZHlQOGNsRl93ZllpYXVSNVVtYXY1a3F3OHdWN3lfRXV6aGZGZlVVeEtOckl3bHRNVmZDNkp2YUFhaTBQY0RY?oc=5",
+  "date": "Fri, 18 Sep 2026 05:38:24",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-20"
+ },
+ {
+  "id": "gnews-bc23c7034769cabc",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「ガンダム」1回1,500円の高級ガシャポン！コクピットまで作り込まれた「バストアップモデル」がメチャ凄い、内部にはアムロの姿も",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ya0FmY1JweVZzcVdhYmdrVktrQnB3bnFWM1NxbjdYV21lNG9PcEd0TEdBQWJ3empad3pfM2lfaXFEOVZSeGd1dXJ0aW94WWsxWVZ3Z2pMODVLSkFpNEEzTnJFMUE0NHRuZ2c?oc=5",
+  "date": "Sun, 20 Sep 2026 01:10:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-20"
+ },
+ {
+  "id": "gnews-3f44cb4f80dbcbe3",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「ガンダム」マウスシートコレクションがガシャポン展開！ガンダムとシャア専用ザクIIはじめ、各作品の主役・ライバル機から全8種",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaEpPcEZOUGNxMk1NbWJLdFRQX0lwOS04RTd2R0ttZzd3Z2thN2xURk9fVGRYcGRic3F1ZTVOTzkxdi1tQnVMQTVlXzRnUGdudW1aNTMyUFpzMjN0OURXSkFyd2VRQjFQRlE?oc=5",
+  "date": "Sun, 20 Sep 2026 00:00:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-20"
+ },
+ {
   "id": "gnews-6d204dc31605f8e8",
   "kind": "news",
   "maker": "Yahoo!ニュース",
   "name": "ハロが「νガンダム」や「ザクII」になりきる！全5機体を見事に再現したガシャポン「なりきりハロ」が発売（インサイド）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91Q0pYanRvWVh4OEtHVjZoclktbDd5cTdWUWFxbF9hVU9ITDZsT2hOQzZhaUx3TlE0VzBWMnRmLUNBQjFOWjhKX090eF9XTHB6aGtRSkdvQ1NmMmZpTzJpb1RHNGlZSVh3dmlqTjVZUGtXeXFFbGYtS0F1VWVnaUE?oc=5",
-  "date": "Sat, 19 Sep 2026 21:18:37",
+  "date": "Sat, 19 Sep 2026 21:10:03",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-19"
@@ -35,8 +90,8 @@
  {
   "id": "gnews-c93a52ec1edd1b7a",
   "kind": "news",
-  "maker": "横浜F・マリノス 公式サイト",
-  "name": "9/19（土）水戸戦 オフィシャルストア営業情報および今週の新商品発売のお知らせ",
+  "maker": "f-marinos.com",
+  "name": "9/19（土）水戸戦 オフィシャルストア営業情報および今週の新商品発売のお知らせ - f",
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Iclpyb01ST1JZWmtnaVlzcGpsUVZWbTA5NUNTTFZJVlYxYW1MRnRwWTR5eXY2SWdNX1ctRU52alNzbF9UZXVUQTlTSHM3U3J0U2pkSQ?oc=5",
   "date": "Tue, 15 Sep 2026 03:02:41",
   "release": null,
@@ -104,7 +159,7 @@
   "maker": "電撃ホビーウェブ",
   "name": "『ぷちきゅあ』のめじるしアクセサリー第2弾がガシャポンに再登場！ぷちきゅあこめこめやぷちきゅあだいふくなどチャームは全6種類！",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xQ2ctajFIMnNtRmxKTDBxOGlBbW92Y0NfQzVsbG1ZVW5rbUFERjNydWxPdEg4NjdmdndnVjM1SHFCanFyM1ZRZzdoTy1aZGg1?oc=5",
-  "date": "Thu, 17 Sep 2026 05:05:25",
+  "date": "Thu, 17 Sep 2026 05:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-19"
@@ -592,7 +647,7 @@
   "maker": "キャラグー",
   "name": "名探偵プリキュア！ カプセルラバーマスコット２｜プリキュアのガチャガチャ 発売日・価格・設置場所",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FRldDV0hOU0dZeE9keEdabkZReXJWS3ptaU50b0VIZk15bEdXekNXa2dpLXBpM0dkTjV1Ul9PbnJxZnkzRkNBR25BR3FvS0NKN2ZsNnQyUQ?oc=5",
-  "date": "Thu, 17 Sep 2026 02:22:44",
+  "date": "Sat, 19 Sep 2026 23:47:05",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-17"
@@ -1551,7 +1606,7 @@
   "maker": "インサイド",
   "name": "「踊り子クリノッペ」のカプセルトイが2026年12月に発売！大きさは約4cmと“実物大”",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3U4NkR4Njd4QUFKTklWVUVPcUtXTWVUTllVQ2xObG5uWml2R0dXd1pXU196Z0NYVTYxMmZhdDFPRlF0MW5KSEE0dE5CbE5POFcwMWhGaEhIQTNjS1VOTG5FZlVLaGFONzJsSm9oaW8zWm4zcEFuT1lBdkxnSko4S0NuZ2E?oc=5",
-  "date": "Wed, 09 Sep 2026 04:00:03",
+  "date": "Wed, 09 Sep 2026 07:00:00",
   "release": "2026-12",
   "release_text": "2026年12月",
   "first_seen": "2026-09-11"
@@ -1892,7 +1947,7 @@
   "maker": "ムーミン公式サイト | Moomin Official Website",
   "name": "【カプセルトイ】「ムーミン ストラップコレクション3」がカプセルトイに登場！9月中旬より発売！",
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VdjkyUUx0c1k4aWdwLWIxaUJvM3JTcVd0RmlHQ2ZTM2QtLWhMLUpYWkVIVEQ3eTRpUjJsRklROUdid01lRXVseWZVN1k1ckdFREN2d2tSTnpiNWhCVkNLb3BR?oc=5",
-  "date": "Thu, 10 Sep 2026 07:00:00",
+  "date": "Thu, 10 Sep 2026 03:02:06",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-10"
