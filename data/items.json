@@ -1,5 +1,126 @@
 [
  {
+  "id": "gnews-5050c5fc5a150659",
+  "kind": "news",
+  "maker": "tv-tokyo.co.jp",
+  "name": "【カプセルトイ新商品】「幸せお届け♪えんじぇるうさちゃんマーカーチャーム」が2026年9月中旬から発売！ - tv",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fRkpmMzFCNTduOHNjVGpwOWc0MnhCX0dGZlNNNVA3NHFXM2JRUEsydnpqd0xSU1VpR3RzWWRMTEk1T0x0cEh6Q1lrVUowX1lZSEFFWkN1OTdrdXNrUVpSWWFnTFVwdDZJX1kweWN3?oc=5",
+  "date": "Thu, 17 Sep 2026 07:00:00",
+  "release": "2026-09",
+  "release_text": "2026年9月",
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "prtimes-000143957-000000010",
+  "kind": "news",
+  "maker": "gray park（灰色メロン）",
+  "name": "大人気の目印マスコットに小さなホラーのアクセンを！人気のガチャガチャ「ホットドッグ・ヴァンパイア」が目印になって新登場！",
+  "url": "https://prtimes.jp/main/html/rd/p/000000010.000143957.html",
+  "date": "2026-09-22",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-55e988ea54ca8863",
+  "kind": "news",
+  "maker": "電撃ホビーウェブ",
+  "name": "最新型ソフビの発信基地！カプセルトイ「VAG」のシリーズ第48弾に「CREEPY BOY」「コタロウ」「KUUKUU」「ナメタン」が各5色展開で登場！",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xdGtsNTVBbVgtcnB0cUZaNjhETFZxZllfaEo5OFBSWHY4UzAxcXNIcW9lWGtDRFdDSVJJMUdfSlJJczZQRjRTTEdvM2hxMmJI?oc=5",
+  "date": "Tue, 22 Sep 2026 07:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-4c52c0d7901a1fff",
+  "kind": "news",
+  "maker": "マイナビニュース",
+  "name": "「HUNTER×HUNTER」メルエム&ネフェルピトーのリアルフィギュア「すわらせ隊りある3」、ガシャポンに登場!",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBScnNRUmpVRnNFdUFRRGdJcEl2M3NmNnBLT2Noc0hjdkFKZkRCbC1TNkJFUDdEcDFjVTZtNjFZaEJiOXU5WkdTN0pMQkxUNjhJZUk4bnpGenpaOGF5?oc=5",
+  "date": "Tue, 22 Sep 2026 09:46:31",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-d2994ec58083c6cb",
+  "kind": "news",
+  "maker": "玩具人 TOY PEOPLE",
+  "name": "BANDAI ガシャポン「ONE PIECE Log Collection ミニチュアチャーム」発売！DVDボックスを再現し、スリーブからパッケージを取り出せる仕様",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80dGx1aUtpeFo1b0RZUUNEbU01Y084ZkdLRVpiYUpkckpCM2NxMDlpaG1YQWFFRDRkWU91aUpMaWpCZ05yOUV3amYtWkxkQ1Fq?oc=5",
+  "date": "Tue, 22 Sep 2026 08:49:40",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-e142b05805c1553d",
+  "kind": "news",
+  "maker": "キャラグー",
+  "name": "仮面ライダーシリーズ ビジュアルアートコレクション｜仮面ライダーのガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xbXJoX2QwT1d3bm1TZ2dfcl9tWEgwaDdwWEtCSXZYeVl4Nk1oU2o0SEd3RkN1WDNTcEYtaHRtMHUwMTFfM2pSNjNQakdld29XYWE0c2FyTQ?oc=5",
+  "date": "Sun, 20 Sep 2026 23:44:48",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-33adb4811e4a2b4e",
+  "kind": "news",
+  "maker": "マイナビニュース",
+  "name": "【新作ガシャポン】「幽☆遊☆白書 めじるしアクセサリー」発売!",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OeHhIckdxSmdtbGc1cVhFTG50N1cwczlMSG1IWDJjOFBUZnRGM2FUZldxb182ZG9jZjM4ZVlUalVQRjRQNTlXM1gxMndjdkppTEE4eFhGb0VGZWhP?oc=5",
+  "date": "Tue, 22 Sep 2026 02:31:59",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-3867fd65a7bf8874",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「ガンダム」1回1,500円の高級ガシャポン！コクピットまで作り込まれた「バストアップモデル」がメチャ凄い、内部にはアムロの姿も",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3g0aEdQYlBWeHF6YlZOMUF2WUJfbDlVM1hWSkdTZ3hfaXVVQnJ5cEs3eHNoMUdMRVFkQXRLV3FuZ3UxcFgwcDIzTndPWUQxY0dGMWIwNXFwUV9BVXhwbmN2RlBGb0xCeC1EUWdWNnJzU0E1TWU1NHM5M29QbkZFUXl0VFA?oc=5",
+  "date": "Sun, 20 Sep 2026 01:10:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-77de82e7b165950d",
+  "kind": "news",
+  "maker": "マイナビニュース",
+  "name": "【新作ガシャポン】ワンピカードのギア5ルフィがフィギュアに!「ONE PIECE CARD GAME フィギュアコレクション2」発売!",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VSDViemN1aTZQbHRCQWYtNUhsMG1uc0NzakItLTN0OFl2bV93MDlGejRNQ3pYLWZ6MVNxZnduZ0ZEUjYwOFBBT01JOHRtWGhYMWZVOU5tMjJKeXZW?oc=5",
+  "date": "Tue, 22 Sep 2026 02:44:54",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-c3188fc412862f18",
+  "kind": "news",
+  "maker": "マイナビニュース",
+  "name": "【再販】「たまごっち スイングケース2」、ガシャポンバンダイオフィシャルショップ限定で登場!",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EY0dnRHhjT0FSZmdhZUlBUjN5WTZmU1laYm53Q1NlM3I4dEF2ankxVG1WUE9Lc3ZnOHJqUEF3OGtVeUU5cXNUclFJbFR2VHB1c0dWanNaZ1ZFbV83?oc=5",
+  "date": "Tue, 22 Sep 2026 01:24:55",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
+  "id": "gnews-36b2c01c38734db2",
+  "kind": "news",
+  "maker": "コラボカフェ",
+  "name": "シルバニアファミリー マルチクリップ カプセルトイ 12月より登場!",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeUtaRF9QZS1hWk41blZfSW9JV3Nza3BZUXdpVjFybkg3X0VzdmFKVEFla1FYbDJnSDB3NDlkT1E0TlBURVUwamN3d2hkQ0t0UzV1UDFhLUROQzJGZVUwQWd3ck9qTFBjY0M0QzBQVVlSQUtFOU5Femd5T0kzdlVkUS14elZLMDNud2tBNkpERQ?oc=5",
+  "date": "Tue, 22 Sep 2026 06:09:42",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-22"
+ },
+ {
   "id": "gnews-8a42d082356b7e3d",
   "kind": "news",
   "maker": "Yahoo!ニュース",
@@ -13,7 +134,7 @@
  {
   "id": "gnews-e45ee697934449c7",
   "kind": "news",
-  "maker": "news.mynavi.jp",
+  "maker": "マイナビニュース",
   "name": "【9月第4週】特撮最新ガシャポン、注目アイテムは? ウルトラ「まちぼうけ」第2弾、仮面ライダーの新たなアイテムも",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yS1EwbWhNT19IaTYwRkpqd1FoaDEtTXVkZThqaHpnVGNqQ3NHa29TVUF2eXFKaDhRUlhDTEY2a3NBUURXS0kxNzdiSDNHN1Q2blFTQmpNX09LUE1J?oc=5",
   "date": "Mon, 21 Sep 2026 06:05:01",
@@ -35,7 +156,7 @@
  {
   "id": "gnews-c450cc58472a540d",
   "kind": "news",
-  "maker": "news.mynavi.jp",
+  "maker": "マイナビニュース",
   "name": "【9月第4週】ガンダム最新ガシャポン、注目アイテムは? 1,500円の新世代カプセルレストイやモビルスーツアンサンブル15弾再販も",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1VUhKY1ZPNkdfMjdTSE1XLWV0c3BrZ3pjbHZWMXBPM0x3UmF5MzRHWHpnM1oxVEdSdWE2M1RWeTZkVzhXN1lXU0FrYldtVjJHTk8xWE8xZGQxS3NQ?oc=5",
   "date": "Mon, 21 Sep 2026 06:29:02",
@@ -46,8 +167,8 @@
  {
   "id": "gnews-b806de217e0064bf",
   "kind": "news",
-  "maker": "GUNDAM Official Website",
-  "name": "フラットガシャポン「ガンダムシリーズ マウスシートコレクション」9月第4週より順次発売！「ガンダム」「シャア専用ザクII」ほか全8種！",
+  "maker": "gundam-official.com",
+  "name": "フラットガシャポン「ガンダムシリーズ マウスシートコレクション」9月第4週より順次発売！「ガンダム」「シャア専用ザクII」ほか全8種！ - gundam",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83UHA3SGVzVXJ6XzdpRGJuUllzYzZtVHZWYnVHSmdtZnRwQ0ZMcXdoRUMtdVYzYjR3M04xVlFtNGZPQVZ1dW5wSHhqOEdnTnFTYndwX3pfVDBNcElOUEFMUzVXU1JTVXFf?oc=5",
   "date": "Fri, 18 Sep 2026 02:37:34",
   "release": null,
@@ -400,8 +521,8 @@
  {
   "id": "gnews-f346cd688a51f0bd",
   "kind": "news",
-  "maker": "s.inside-games.jp",
-  "name": "ホロライブの新作ガシャポン「フェアリースイング2」が9月第3週発売！妖精になった「星街すいせい」「宝鐘マリン」たち5人のスイングマスコット - s.inside",
+  "maker": "インサイド",
+  "name": "ホロライブの新作ガシャポン「フェアリースイング2」が9月第3週発売！妖精になった「星街すいせい」「宝鐘マリン」たち5人のスイングマスコット",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOczZzb3RKT3JMQTdQb0t1aHF1blRLY0QzZG9qSS1RMnJQN3J6TE5vQnlTSjNjOFAxWFV1T29qcHkxVlVvdTRVVEVrUHdrS0NLUFRUUWtDdDRLeHhuVDd0SmxvbzI2VEs0QlVRSmwtSWYzZXZKZjZ2WVBTWE5wdzZ3Njc1NA?oc=5",
   "date": "Wed, 16 Sep 2026 09:30:03",
   "release": null,
@@ -532,8 +653,8 @@
  {
   "id": "gnews-2dfd8c1e4d2e4e7e",
   "kind": "news",
-  "maker": "inside-games.jp",
-  "name": "「パペットスンスン」新作ガシャポンが素敵！スンスンたちのフィルム風写真シートが飛び出す、カメラ型マスコット全4種 - inside",
+  "maker": "インサイド",
+  "name": "「パペットスンスン」新作ガシャポンが素敵！スンスンたちのフィルム風写真シートが飛び出す、カメラ型マスコット全4種",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rMzhhTDlUd0MyRHlKMHdsUUZHR2ZmYVNTampjVVdLOTdPb1M0QjNRdkdkVkFJMXFINUdfMjJjRFhPS3BkT05iNlJXUEkyUEttY3pVamhjbTQ2R1lyLVZpYXNjZ2JNSDA3R1E?oc=5",
   "date": "Sun, 13 Sep 2026 07:00:00",
   "release": null,
@@ -589,7 +710,7 @@
  {
   "id": "gnews-cff1dee97fb3d9c1",
   "kind": "news",
-  "maker": "PR TIMES",
+  "maker": "prtimes.jp",
   "name": "【カプセルトイ新商品】「幸せお届け♪えんじぇるうさちゃんマーカーチャーム」が2026年9月中旬から発売！",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vNHpRY3hoZUl5WEM2eHl6QnR2LXV4ZkZkOWg0UHNuLVphbXYyQTd3dnVPd2JpZVI0dXQzcjhUU0M2N3dWMkJSRDRPSlp5UzY4NnF1REttQ0YydVotVVpUVGlXQ2tUcllqX3c?oc=5",
   "date": "Thu, 17 Sep 2026 00:55:18",
@@ -611,8 +732,8 @@
  {
   "id": "gnews-761325f629b3c630",
   "kind": "news",
-  "maker": "inside-games.jp",
-  "name": "背中に羽が生えたミニーが可愛すぎる！ガシャポン「ディズニーキャラクター エンジェルスイング」9月第4週発売、スティッチにチップ＆デールも全4種 - inside",
+  "maker": "インサイド",
+  "name": "背中に羽が生えたミニーが可愛すぎる！ガシャポン「ディズニーキャラクター エンジェルスイング」9月第4週発売、スティッチにチップ＆デールも全4種",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5b29jSWUxVnVnZERfa0QtRk0wS2JkeWxzcFpVOWRMREhoWGtBQkNUQ3piX2g4ZDFJWXczRjJsdUJCTFFUbW5GaklDMlFXcHhMM2dpMU1WMWNYa1RXYkx3YlpPUUlMZGxFUHc?oc=5",
   "date": "Thu, 17 Sep 2026 08:00:04",
   "release": null,
@@ -1439,7 +1560,7 @@
   "maker": "インサイド",
   "name": "「踊り子クリノッペ」のカプセルトイが2026年12月に発売！大きさは約4cmと“実物大”",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMW80dFJPZmg1MjhrbDZsakZtTmF3NDRVS01WSHIyQUZnMXdySlNSbzVXM0N6YXpiSWlNOWx5dlNQWnFGY2M1Z3lZN0hETGxreUpZbV8xWlM1MDdtdDNvUUdDeVBzSmdOeGRZWEw5dms0Sklra2c2QUJQUi15SzlPaHdDZw?oc=5",
-  "date": "Wed, 09 Sep 2026 04:00:03",
+  "date": "Wed, 09 Sep 2026 07:00:00",
   "release": "2026-12",
   "release_text": "2026年12月",
   "first_seen": "2026-09-13"
@@ -1737,8 +1858,8 @@
  {
   "id": "gnews-10b43cc9a08b2937",
   "kind": "news",
-  "maker": "s.inside-games.jp",
-  "name": "ガシャポン「mofusand ヘアコームチャーム」が9月第3週発売！ドーナツにゃんはじめ、どれも可愛いスイーツモチーフ全5種 - s.inside",
+  "maker": "インサイド",
+  "name": "ガシャポン「mofusand ヘアコームチャーム」が9月第3週発売！ドーナツにゃんはじめ、どれも可愛いスイーツモチーフ全5種",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTBJNThGLTViTjVBYXNwOExkUEQwQkM1VGZvckctWG5xQmNhaTRvTklNdjlRMGMwZ0l1VnJfRGY3RjNLcGxYTk9FM1VBemdZOGdXN1l3dlhBTklMVmZvTk52eFBnVHc3LTJDSGJwR0doTUtrSzNDN2VJNklJM1hVMw?oc=5",
   "date": "Thu, 10 Sep 2026 07:00:00",
   "release": null,
@@ -1880,8 +2001,8 @@
  {
   "id": "gnews-c807706b23d62cb1",
   "kind": "news",
-  "maker": "inside-games.jp",
-  "name": "ガシャポン「めじるしアクセサリー ガンプラくんII」が発売！デフォルメで可愛いグフプラくんやシャアズゴくんなど全5種類 - inside",
+  "maker": "インサイド",
+  "name": "ガシャポン「めじるしアクセサリー ガンプラくんII」が発売！デフォルメで可愛いグフプラくんやシャアズゴくんなど全5種類",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95N2hFTmNaQWg4d1ZoQkVNSzVmVXJ0dzJNaDl5Tm9mM0xXWXphUmFpNlg4aVVMMG9WLVZEMFNoX202TkRfMEtLSk9ZV0NpakQzT2FDWmhIV0ExUmgwbm1RQkVZdEZxUjAxR0E?oc=5",
   "date": "Sun, 06 Sep 2026 07:00:00",
   "release": null,
@@ -2021,7 +2142,7 @@
  {
   "id": "gnews-066c156870885c07",
   "kind": "news",
-  "maker": "moomin.co.jp",
+  "maker": "ムーミン公式サイト | Moomin Official Website",
   "name": "【カプセルトイ】「ムーミン ストラップコレクション3」がカプセルトイに登場！9月中旬より発売！",
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VdjkyUUx0c1k4aWdwLWIxaUJvM3JTcVd0RmlHQ2ZTM2QtLWhMLUpYWkVIVEQ3eTRpUjJsRklROUdid01lRXVseWZVN1k1ckdFREN2d2tSTnpiNWhCVkNLb3BR?oc=5",
   "date": "Thu, 10 Sep 2026 03:02:06",
@@ -3207,8 +3328,8 @@
  {
   "id": "gnews-62cbb59aff190174",
   "kind": "news",
-  "maker": "inside-games.jp",
-  "name": "『ポケモン』ゼニガメ、ヤドンの進化形がズラリ！ガシャポン「つまんでつなげてマスコット16」が10月発売 - inside",
+  "maker": "インサイド",
+  "name": "『ポケモン』ゼニガメ、ヤドンの進化形がズラリ！ガシャポン「つまんでつなげてマスコット16」が10月発売",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jRWN3SDZyMU55T1VIaXZfSDlfTkV2VjdXbEczWmpkcV9MY0JLM0lBNXd5OUI2SEt4czlJM0dPN3BCZGVLRFJZSnZoZmYyMURhX1pQejFrVkk0OEFNOVdxM1BJVktnd1VjS0E?oc=5",
   "date": "Thu, 03 Sep 2026 07:00:00",
   "release": null,
