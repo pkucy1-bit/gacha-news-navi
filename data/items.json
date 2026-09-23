@@ -1,5 +1,49 @@
 [
  {
+  "id": "gnews-2ab6d1d712d9b41e",
+  "kind": "news",
+  "maker": "玩具人 TOY PEOPLE",
+  "name": "ガシャポン「るかっぷ ミニチュアコレクション 鬼滅の刃」発売！炭治郎や禰豆子、善逸、伊之助が約4cmで登場",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15YnNMUUxGeHN0ckpSSDJULVRVaXpVQ0RwTEZRZm81aTlHSy1ja1JHT0VRLUM3c1piUC1hbzZVRE5WN2ZQOWozRVg1dmFJS0VU?oc=5",
+  "date": "Wed, 23 Sep 2026 12:01:09",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-23"
+ },
+ {
+  "id": "gnews-c6896ad6a6dd9e81",
+  "kind": "news",
+  "maker": "hobby.dengeki.com",
+  "name": "おくるみに包まれた姿が可愛い『桜蘭高校ホスト部』のガシャポンマスコットが再登場！カラフルなボールチェーン付きで全7種を収録！",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rNXRRNDJ3Q2hLQlZ6N3cyYzFFZFVuSUFQZlpVdmM5Z0tjTGE2VEdVSEFaZjA0Z1pmSnM0R3prZGF6MUNIRUY5dzlFNkUtSFZO?oc=5",
+  "date": "Wed, 23 Sep 2026 06:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-23"
+ },
+ {
+  "id": "gnews-3ef2b7a7834b5da7",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "ガシャポン「原神 スライム めじるしアクセサリー」9月第4週に再販（GAME Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1maGlUU1FrNkR5aVYwR1Y1dno4TEdVX1AxcTNCU3JsSmRsQlNYZTh3OVRfblJTVzI0czVseGVoNG9ORVRyWUhxSnJqZ25xQnFKamRDbENycWY2QTZTVm1RdG0zTkY5bUVpVkw1NnF6M3l1eWUybWV0c0hkYmhiNGM?oc=5",
+  "date": "Sat, 19 Sep 2026 15:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-23"
+ },
+ {
+  "id": "gnews-f351bff5e0dc0b09",
+  "kind": "news",
+  "maker": "朝日新聞",
+  "name": "人気キャラクター【mojojojo】「新作カプセルトイ」先行予約を開始。クリア仕様のフィギュア入りチャーム全8種を展開",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvbVFVNmozLUpZczlsVkxXakFDakVtcU44NWtHLXNvNXAwUDMyWlFzUHJPUWJacWEwVmIwTEtlYTd0aVA3REI2WEJwNnc3M0plS2hVQk5Gdw?oc=5",
+  "date": "Fri, 11 Sep 2026 07:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-23"
+ },
+ {
   "id": "gnews-5050c5fc5a150659",
   "kind": "news",
   "maker": "tv-tokyo.co.jp",
@@ -24,7 +68,7 @@
  {
   "id": "gnews-55e988ea54ca8863",
   "kind": "news",
-  "maker": "電撃ホビーウェブ",
+  "maker": "hobby.dengeki.com",
   "name": "最新型ソフビの発信基地！カプセルトイ「VAG」のシリーズ第48弾に「CREEPY BOY」「コタロウ」「KUUKUU」「ナメタン」が各5色展開で登場！",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xdGtsNTVBbVgtcnB0cUZaNjhETFZxZllfaEo5OFBSWHY4UzAxcXNIcW9lWGtDRFdDSVJJMUdfSlJJczZQRjRTTEdvM2hxMmJI?oc=5",
   "date": "Tue, 22 Sep 2026 07:00:00",
@@ -233,8 +277,8 @@
  {
   "id": "gnews-bc23c7034769cabc",
   "kind": "news",
-  "maker": "inside-games.jp",
-  "name": "「ガンダム」1回1,500円の高級ガシャポン！コクピットまで作り込まれた「バストアップモデル」がメチャ凄い、内部にはアムロの姿も - inside",
+  "maker": "インサイド",
+  "name": "「ガンダム」1回1,500円の高級ガシャポン！コクピットまで作り込まれた「バストアップモデル」がメチャ凄い、内部にはアムロの姿も",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ya0FmY1JweVZzcVdhYmdrVktrQnB3bnFWM1NxbjdYV21lNG9PcEd0TEdBQWJ3empad3pfM2lfaXFEOVZSeGd1dXJ0aW94WWsxWVZ3Z2pMODVLSkFpNEEzTnJFMUE0NHRuZ2c?oc=5",
   "date": "Sun, 20 Sep 2026 01:10:03",
   "release": null,
@@ -2670,7 +2714,7 @@
   "maker": "インサイド",
   "name": "”ブラック”な「サンリオキャラクターズ」ガシャポンチャームが発売！普段と違うハローキティやクロミたち全5種",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SOUdPR2szOUR4Vng2WU9tNDB0UnN3WGNXQzBCc0c5aE9BOVBCMUlWWUFqR2xHdkxtczZRS01UeWVELUQ3dkpFWHJJNGMwaWhuUXpZUzB5dXhfWjZtUUVZbEpjRVB6NTFxQmc?oc=5",
-  "date": "Sun, 06 Sep 2026 01:10:03",
+  "date": "Sun, 06 Sep 2026 07:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-08"
@@ -2997,7 +3041,7 @@
   "maker": "インサイド",
   "name": "「キュアエクレール」や「キュアアルカナ」も登場！新作ガシャポン「名探偵プリキュア！ 名探偵スイング2」が9月第3週より発売",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmhhMEhTcVRDX2tERWstdWY4bm1GSGNxNzk0ZUloR2pRTzFwOW9XTURqOElJQ3JlWUljZlBpRWRjTlY3czl3Z1owYlk0MjBDNllMV0ZSTGVCXzEwUC1KNmplRmtZcHdVWEVXR1FpRjJWczdXcDFMY0xvdXJ3Q0RUUU5Jdw?oc=5",
-  "date": "Tue, 01 Sep 2026 07:00:04",
+  "date": "Tue, 01 Sep 2026 07:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-05"
