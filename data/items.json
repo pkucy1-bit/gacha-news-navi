@@ -1,5 +1,104 @@
 [
  {
+  "id": "gnews-fa660ed32a0cd6a6",
+  "kind": "news",
+  "maker": "ドラゴンボールオフィシャルサイト",
+  "name": "「ドラゴンボール めじるしアクセサリー4」が発売開始！",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4TGotX0xCV1YwXzF4czd5b1pCcUExVmJDSl8zaWRTVlRPX1p2bEdVaHJCcGFtamd1eDdBdFE0cDRKWkhMV0hlZlFyaDFKd3p5Ynl1VzM2VlZrLURuTHNr?oc=5",
+  "date": "Sat, 26 Sep 2026 01:03:16",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
+  "id": "gnews-b68d03713df42308",
+  "kind": "news",
+  "maker": "コラボカフェ",
+  "name": "アイカツ! カラフルマルチチャーム カプセルトイ 10月より発売!",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX29uM1ZvdVZiV3BYNHBlcDlJVm4zQW9aQ2hfREJHM2NzZjRNWXZsWkcyWmN4am52M09BVVp5V0dGUlB4TURwOWRQQ1JMNGM4WDJOeWI4U1BiMUVQR2xyRkFCV2xsMVpjNmFJV204dlZrM3pYSUtmRFRndDlnTzh6NjZickxvejk0SjRkdVdWaw?oc=5",
+  "date": "Sat, 26 Sep 2026 03:24:51",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
+  "id": "gnews-d1d04b55fc030cc2",
+  "kind": "news",
+  "maker": "charagoo.jp",
+  "name": "おじゃる丸 ぬいぐるみおなまえホルダー｜おじゃる丸のガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pSkZ2M0RFWFVEV1ZFaXNBMVZIOU1yTUJHZXBKbHFRUTdkbE9yQTFUbTE4S2FscnBIVEVCbDZzcXdURVNXdjVnY1FvaGlocXIwMmxQa29ncw?oc=5",
+  "date": "Sat, 26 Sep 2026 01:02:45",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
+  "id": "gnews-8f2605ee93bede1b",
+  "kind": "news",
+  "maker": "charagoo.jp",
+  "name": "ミルモでポン ぬいぐるみポーチ｜ミルモでポンのガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YRVV5c05wdk1LdUlZMkwweExkM1hsRW1TZ19OUGtuZVhfUWtXV3pVQ1IxSkQxbU1uREJibnRQa0VDZlNGSEJkQ0h0NnVsclRwYndsUVdzQQ?oc=5",
+  "date": "Sat, 26 Sep 2026 01:02:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
+  "id": "gnews-4dae7da2458c247e",
+  "kind": "news",
+  "maker": "charagoo.jp",
+  "name": "ジュラシック・ワールド すってんころりんフィギュア｜恐竜のガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WREZwRXR6bTRNNUhfUEdid2xTMGV6RTZqQzlWTlFQalpxZWZ6eDRxTFBvYWNBWC1PMGw3S0dxckNpSEtrXzZBVUliV3lET2Zrbkt1S2MwMA?oc=5",
+  "date": "Sat, 26 Sep 2026 01:03:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
+  "id": "gnews-c7edab654a88d3cc",
+  "kind": "news",
+  "maker": "charagoo.jp",
+  "name": "モンチッチ めじるしマグカップチャーム｜モンチッチのガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lc2pVY1QtSVhoOTBFeXcwMHV3NFZZdHFJdjVQNVN1UE5QS3Byd2VXWGlrM3VnM1d6RWNadXBRS0VfLTJCb1kzS182TUhBUEFhaUE5WG9SSQ?oc=5",
+  "date": "Sat, 26 Sep 2026 01:02:35",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
+  "id": "gnews-72daf960f3868ac7",
+  "kind": "news",
+  "maker": "charagoo.jp",
+  "name": "カプキャラ クレヨンしんちゃん6｜クレヨンしんちゃんのガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WbHdZZElHQTRnejUycS1qblFNNU9PWU1QN09lRnotb05ZaFo1MHM0MGVwSDRpZS1YQVNiOUdTVmFpTnFJSHNpNjlPM2hENHFHOE0yaEZTRQ?oc=5",
+  "date": "Tue, 22 Sep 2026 23:44:57",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
+  "id": "gnews-acb2304577fb1642",
+  "kind": "news",
+  "maker": "charagoo.jp",
+  "name": "サンリオ ウサハナ アクリルキーホルダー｜ウサハナのガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nMlNPdHd3VnFxM1IyUUFjbEF2SHUxYTFKN0dKMkExNlk3ZS1BZHlHc19rZXR6SnJQbjltMlhuMGwtUlBFdFNGWFVlWmNwYlBKSFVJLV9rNA?oc=5",
+  "date": "Sat, 26 Sep 2026 01:03:51",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
+  "id": "gnews-b67822bdd921433e",
+  "kind": "news",
+  "maker": "charagoo.jp",
+  "name": "BARBAPAPA フィンガーパペット｜バーバパパのガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YSlowMzhsazVBMF9ad2JldzUyMFJWQ0VyUlhHaUhEM25jMnJ6cFVRT2VmLVZZcEpha0JnWWdDbFlJbnhHOVdLMGxZeFRMMlVuRUkwMmlqcw?oc=5",
+  "date": "Sat, 26 Sep 2026 01:02:12",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-26"
+ },
+ {
   "id": "bandai-4570118186362000",
   "maker": "バンダイ",
   "name": "RIIZE つまんでつなげてますこっと でらっくす! LITTLE RIIZE ver.",
@@ -54,8 +153,8 @@
  {
   "id": "gnews-2584165986376529",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "「映画ちいかわ」 ワンシーンをデスク上でも楽しめる！スマホを支える島二郎など「デスクトップフィギュア」全4種がカプセルトイ売り場にて発売",
+  "maker": "inside-games.jp",
+  "name": "「映画ちいかわ」 ワンシーンをデスク上でも楽しめる！スマホを支える島二郎など「デスクトップフィギュア」全4種がカプセルトイ売り場にて発売 - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kTWlVbGxlbzZycDdDR3ZiY01tRUlfVDQtQlhMaEYxTFFjTm5JWHJJQlRtdEQ3cmRXMW5iZFJZcFdZbkU1S0hIMlNScUpXNlNkNFdKNlRfYXRlMk90WkpDOXZ3UlBlLV9ER1E?oc=5",
   "date": "Fri, 25 Sep 2026 03:35:02",
   "release": null,
@@ -109,8 +208,8 @@
  {
   "id": "gnews-bf3e6b58be4cbafe",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "ガシャポン『星のカービィ』“プププなおかしやさん ”マスコットチャームが発売！アイシングクッキーデザインがお菓子風パッケージに入った全6種",
+  "maker": "inside-games.jp",
+  "name": "ガシャポン『星のカービィ』“プププなおかしやさん ”マスコットチャームが発売！アイシングクッキーデザインがお菓子風パッケージに入った全6種 - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03cUJZWnNGMkp5ck5VTUVvVjhkQzk2SHk0NXpzMnAtZlV2UnVkZXFQRVhWQzJPMlBTaTBObFBrVTlsUlZ0TTR5NU9MaHR6d2Ita3FDMWZvYk1pNXpJV0JSVHNvT2dFamIwYlE?oc=5",
   "date": "Sun, 20 Sep 2026 00:30:03",
   "release": null,
@@ -230,8 +329,8 @@
  {
   "id": "gnews-2109fc918ff7790d",
   "kind": "news",
-  "maker": "one-piece.com",
-  "name": "バンダイのガシャポン®で『From TV animation ONE PIECE ワンピの実ミクロ』ブリスターチャーム ONE PIECE BASE SHOP LIMITED Ver.が発売決定！ - one",
+  "maker": "ONE PIECE.com",
+  "name": "バンダイのガシャポン®で『From TV animation ONE PIECE ワンピの実ミクロ』ブリスターチャーム ONE PIECE BASE SHOP LIMITED Ver.が発売決定！",
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nVnBfaVkxcVluZ2hLeWVlUS1tbFYwN3dmZHpsQUoweXU0TlFyTFp3VTA3b3ZUVXBFUFRiR2hlTjd5a1JmV1hsZlotTm83RzdDWXV1akNB?oc=5",
   "date": "Thu, 24 Sep 2026 04:07:42",
   "release": null,
@@ -288,7 +387,7 @@
   "maker": "コラボカフェ",
   "name": "あほ毛クリップ カプセルトイ 全5種 9月24日より順次発売!",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNGVxRE51QWRPc0swaEgtdWdTcTFJWEVLWkpKb3owc3Y1WHFPNjRsdDlFQlZ6eF9jc2FzbHV0alBmOHc2LVpWVTNiMzJQZExzcHg1VUlyb083Y01DUlBxQTBleURwcFV0Q3c4R1Q4UE5yN052SndR?oc=5",
-  "date": "Thu, 24 Sep 2026 07:00:57",
+  "date": "Thu, 24 Sep 2026 07:22:57",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-24"
@@ -1158,8 +1257,8 @@
  {
   "id": "gnews-761325f629b3c630",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "背中に羽が生えたミニーが可愛すぎる！ガシャポン「ディズニーキャラクター エンジェルスイング」9月第4週発売、スティッチにチップ＆デールも全4種",
+  "maker": "inside-games.jp",
+  "name": "背中に羽が生えたミニーが可愛すぎる！ガシャポン「ディズニーキャラクター エンジェルスイング」9月第4週発売、スティッチにチップ＆デールも全4種 - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5b29jSWUxVnVnZERfa0QtRk0wS2JkeWxzcFpVOWRMREhoWGtBQkNUQ3piX2g4ZDFJWXczRjJsdUJCTFFUbW5GaklDMlFXcHhMM2dpMU1WMWNYa1RXYkx3YlpPUUlMZGxFUHc?oc=5",
   "date": "Thu, 17 Sep 2026 07:00:00",
   "release": null,
@@ -2427,8 +2526,8 @@
  {
   "id": "gnews-c807706b23d62cb1",
   "kind": "news",
-  "maker": "インサイド",
-  "name": "ガシャポン「めじるしアクセサリー ガンプラくんII」が発売！デフォルメで可愛いグフプラくんやシャアズゴくんなど全5種類",
+  "maker": "inside-games.jp",
+  "name": "ガシャポン「めじるしアクセサリー ガンプラくんII」が発売！デフォルメで可愛いグフプラくんやシャアズゴくんなど全5種類 - inside",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95N2hFTmNaQWg4d1ZoQkVNSzVmVXJ0dzJNaDl5Tm9mM0xXWXphUmFpNlg4aVVMMG9WLVZEMFNoX202TkRfMEtLSk9ZV0NpakQzT2FDWmhIV0ExUmgwbm1RQkVZdEZxUjAxR0E?oc=5",
   "date": "Sun, 06 Sep 2026 07:00:00",
   "release": null,
@@ -2568,7 +2667,7 @@
  {
   "id": "gnews-066c156870885c07",
   "kind": "news",
-  "maker": "ムーミン公式サイト | Moomin Official Website",
+  "maker": "ムーミン公式サイト",
   "name": "【カプセルトイ】「ムーミン ストラップコレクション3」がカプセルトイに登場！9月中旬より発売！",
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VdjkyUUx0c1k4aWdwLWIxaUJvM3JTcVd0RmlHQ2ZTM2QtLWhMLUpYWkVIVEQ3eTRpUjJsRklROUdid01lRXVseWZVN1k1ckdFREN2d2tSTnpiNWhCVkNLb3BR?oc=5",
   "date": "Thu, 10 Sep 2026 07:00:00",
@@ -3258,7 +3357,7 @@
   "maker": "インサイド",
   "name": "”ブラック”な「サンリオキャラクターズ」ガシャポンチャームが発売！普段と違うハローキティやクロミたち全5種",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFFyOVB4WUxEWEhvTFRKQW1fM1F0d0NwUm10VFRlTG5qa1hkeHJueS1lU0E0QlBRVEtHVzFDM0NfbHJ0SlozR05kbHJrZGptQVljZHhqbDFqVXYtUC1BSG5ldkwwemtpU21EakdJV0N6NklPSzlOaU9sMXlqYTdVVUl0YjI?oc=5",
-  "date": "Sun, 06 Sep 2026 01:10:03",
+  "date": "Sun, 06 Sep 2026 07:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-06"
