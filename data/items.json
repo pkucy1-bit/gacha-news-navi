@@ -1,5 +1,159 @@
 [
  {
+  "id": "stasto-kogigurashi",
+  "maker": "スタンド・ストーンズ",
+  "name": "こぎぐらし",
+  "url": "https://stasto.co.jp/products_ss/kogigurashi/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/Kogigurashi.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月発売",
+  "price": 300,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "stasto-kissafuruits",
+  "maker": "スタンド・ストーンズ",
+  "name": "喫茶フルーッめじるしマスコット",
+  "url": "https://stasto.co.jp/products_ss/kissafuruits/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/KissaFruits.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月発売",
+  "price": 400,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "stasto-marumie-2",
+  "maker": "スタンド・ストーンズ",
+  "name": "まるみえアクリルめじるしマスコット",
+  "url": "https://stasto.co.jp/products_ss/marumie-2/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/Marumie.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月発売",
+  "price": 300,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "stasto-teaparty",
+  "maker": "スタンド・ストーンズ",
+  "name": "ティーパーティーフラワークッキーサンドちゃん",
+  "url": "https://stasto.co.jp/products_ss/teaparty/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/Teaparty.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月発売",
+  "price": 300,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "stasto-nekoninegaiwo",
+  "maker": "スタンド・ストーンズ",
+  "name": "猫に願いを 流れ猫 めじるしますこっと",
+  "url": "https://stasto.co.jp/products_ss/nekoninegaiwo/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/NekoniNegaiwo.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月発売",
+  "price": 300,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "sota-arawi_keiichi2",
+  "maker": "SO-TA",
+  "name": "あらゐけいいちの立体",
+  "url": "https://www.so-ta.com/products_detail/capsuletoy/arawi_keiichi2/",
+  "image": "https://www.so-ta.com/wp-content/uploads/2026/09/img_araikeiichi2026.jpg",
+  "release": "2026-09",
+  "release_text": "2026年9月",
+  "price": 500,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "gnews-f78ade5b47b30c6d",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「映画ちいかわ」 デスクトップフィギュアが本日9月29日ガチャガチャの森で発売！船を漕ぐちいかわたち、背中を魅せる島二郎など全4種",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TUEhUNkI5MmtFQ0pMT01KUVNuUElYVlN3YXRWNjdPU0hZY2tfZlI3MVlVQXJ0a0poa1Nkd1dtMEgxT3dyXy16ODlMaEdFdGI0bmlhdk1udHFpOGhJb0xEclVZUkJmSFNnZEE?oc=5",
+  "date": "Tue, 29 Sep 2026 01:35:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "gnews-64051fb9a2a78699",
+  "kind": "news",
+  "maker": "news.yahoo.co.jp",
+  "name": "『どうぶつの森』“木から落ちてくるアイテム”がカプセルトイで発売！各フルーツやベルぶくろ、おくすり付きのハチ巣まで全7種",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2tHbjl5RjR3aFVrekZFVWRqa2hOb0FqS19WMDZKZThPQWo3dndPMFFlTFhvb0h2MkRWMUt4QWNtOXZvdlhpVVJMYlAtVWtpdjlCWk5yVW9pOE1CbXdqd1V2cnlSbUFESXBFZUF5VGhMMFRGbURObWR4Zk9YUWU1OHFSQXNZVXpRVUhyTTNB?oc=5",
+  "date": "Tue, 29 Sep 2026 02:45:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "gnews-b089194453bc5090",
+  "kind": "news",
+  "maker": "中日新聞Web",
+  "name": "戦国城跡地形と歴代掛川城主らの家紋をカプセルトイに 掛川市、通好みの10種発売",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtLWprN0lzRktWd3g2aDJ4WEJMc2FYbEVQbHlxd2hXRkVuWW9mUWQ4TWlNZVJFcGNxeHhReU9HNmNrYng2U0hGTEc3MlBFX2dFS3hpTA?oc=5",
+  "date": "Mon, 28 Sep 2026 20:05:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "gnews-a93fdd9e850b2145",
+  "kind": "news",
+  "maker": "4Gamer.net",
+  "name": "カプセルトイ「フルーツキーホルダーコレクション どうぶつの森」，Nintendo TOKYO/OSAKA/KYOTO/FUKUOKAでの一般販売を本日開始",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Tc29PRElDbGZGaGdzZ01ReXdjdjBjeU92VDdOWHVCc1d5SURSNGZzZmtmYjVzTW5HdHo3amhIczR4OUtudWJkUGZsVVpWZHBfanpMQ0FPWjBpWGkydUJ5YXlKTQ?oc=5",
+  "date": "Tue, 29 Sep 2026 07:02:26",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "gnews-2b7e4ab4ecb31789",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "『どうぶつの森』“木から落ちてくるアイテム”がカプセルトイで発売！各フルーツやベルぶくろ、おくすり付きのハチ巣まで全7種",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2amJfbi12LU5aUERWS3hjX2xPWU0xNFZxOU5WX1R4Tk1GcDg1a1RaNGhqWGo4bXVvVDJPUVg4SEwtRlJRWW94aXp2blUwSlc1R2JmMTUtbVdRcUVyWC1CODAwZ29EREtqMGc?oc=5",
+  "date": "Tue, 29 Sep 2026 02:45:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "gnews-47d302b617772c1c",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "大人気の「ちいかわ めじるしアクセサリー3」が10月に再販！雨カッパを着たハチワレ、古本屋など全5種",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPaUlRSFB1T2dlQ05tYTMzeXJRX3JXM1FhdkRFdG1zVFdILUxxc1E5MDZHb1pFM1U4WXZ0ZUdaN2FYSWF4d3N3NEFSTGlSVlNkLVZfaTI5QVJFT1g4SFJ0cW05aURBQWVJNWc?oc=5",
+  "date": "Mon, 28 Sep 2026 03:00:04",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "gnews-87c53db94cf3c06a",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「ちいかわ」耳に付けたリボンが可愛い！組み合わせて飾れる「フロッキードール」「カプセルステッキ」がガシャポン展開",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZV2xuTWVyR1hyNFdDWlc3ZS1qeUhEUHBiRzVwRU5aajZUZ1BCTUVfSFd1bEphMTFfUVh3THVZeGpNQ1RQNlhNanBiREp3MG5xWUswSWFaVGlTLU1mVm5LMkxOOTk2WGZ4MHc?oc=5",
+  "date": "Mon, 28 Sep 2026 09:10:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-30"
+ },
+ {
+  "id": "gnews-b4abd18ce313907c",
+  "kind": "news",
+  "maker": "コラボカフェ",
+  "name": "どうぶつの森 フルーツキーホルダーコレクション 9月29日発売!",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUMwdTN6RXNaNTlnbldqVkxwbHl0QUlRb25oMTFobHlTZkpTTUZValYyTkVqdVZ4b0NXQ3l6aDNFWkxMUEFDanlOMmRzXy1Wc0ZhSUt5UjlSTEpSc3ZDWmJpSjNXdXB3RC1Fb1BTNC1DeWJMbnpRanEtd2VLSThSZ1l6UU12NXptN0hvcHoxYlh1ajAxb2ZNQU5nS2ZTSGtxYWc?oc=5",
+  "date": "Tue, 29 Sep 2026 07:46:10",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-09-30"
+ },
+ {
   "id": "bandai-4582770068238000",
   "maker": "バンダイ",
   "name": "SKZOO フーディースタイルフィギュア",
@@ -80,7 +234,7 @@
   "maker": "手塚治虫 公式サイト",
   "name": "【新商品】カプセルトイ『ブラック・ジャック ピノコ ぬいぐるみポーチ』発売！",
   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YYUw3ZFlpek0tTW1IM2Z0eDJRWWF2bHhoZVBOYWJYSHNDZ3YycFhWeWE3Q0VudUdpaW5lSXVnRDJpYmtfZTZXY3JrZ2tWb0NzZThDUTlpWk5UOGp4S0E?oc=5",
-  "date": "Mon, 28 Sep 2026 01:44:27",
+  "date": "Tue, 29 Sep 2026 01:50:33",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-29"
@@ -110,7 +264,7 @@
  {
   "id": "gnews-30d6e13edd6a20ab",
   "kind": "news",
-  "maker": "Yahoo!ニュース",
+  "maker": "news.yahoo.co.jp",
   "name": "熱海にバンダイ公式ガシャポン専門店 新商品中心に310面を展開 (みんなの経済新聞ネットワーク)",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDZib1VrRWhWeGNscnNTQ1gwdFpIYmp6QVhwc01sUHV2ZjRYcEJYS0NuZGZUYW5oMEpPRUVIbDc2OVpBQkJZWHVwTFhvVHBwdDVNdFd6aGtkS1ZDcHB1SjJ0bXBNY1Jab3lKNzFBQlZ1cU01cHFlckVPRjExbUhwbVA3dzUtTWdJS3B3eU1R?oc=5",
   "date": "Sun, 27 Sep 2026 20:50:18",
@@ -154,8 +308,8 @@
  {
   "id": "gnews-81b212c205cc375f",
   "kind": "news",
-  "maker": "inside-games.jp",
-  "name": "モノトーンなハローキティ、ポムポムプリンたちがおしゃれ＆クール！「サンリオキャラクターズ」ガシャポンマスコット全5種が10月第2週発売 - inside",
+  "maker": "インサイド",
+  "name": "モノトーンなハローキティ、ポムポムプリンたちがおしゃれ＆クール！「サンリオキャラクターズ」ガシャポンマスコット全5種が10月第2週発売",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3STVHUTB5elk5WHZMUmd6S24zQTBicTF1T2lOZUdSbW9fd2FqUkROVnJmR3R4emMxQVRPMC1OSDlFVnM5UVdTYUloUjNLRDIwaUlBblZ2bDJrOUVJQi1NTEFhMG5NNW8ySXc?oc=5",
   "date": "Mon, 28 Sep 2026 02:30:03",
   "release": null,
@@ -242,7 +396,7 @@
  {
   "id": "gnews-dfda065f6818e816",
   "kind": "news",
-  "maker": "マイナビニュース",
+  "maker": "news.mynavi.jp",
   "name": "【ガシャポンくじ】プリキュアオールスターズが大集合!「プリキュアあそーと2026」発売!",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iNTY5Y1J6d2RHSDVncEpWNWs3NjkzNDRMOS1lemNJWE4xenBkdnN4LW5yTVBOblR0Zk1mSFNzNUFoZWd4NkdCWlB1eElRR1NIQ3VUU1JQYVpTYnZR?oc=5",
   "date": "Sun, 27 Sep 2026 03:15:29",
@@ -253,8 +407,8 @@
  {
   "id": "gnews-d69e46e36e65f062",
   "kind": "news",
-  "maker": "inside-games.jp",
-  "name": "ベリアルは\"ヤンキー座り\"！ガシャポン「まちぼうけ ウルトラマンの場合2」が発売、ティガなどれぞれ個性全開のポージング全4種 - inside",
+  "maker": "インサイド",
+  "name": "ベリアルは\"ヤンキー座り\"！ガシャポン「まちぼうけ ウルトラマンの場合2」が発売、ティガなどれぞれ個性全開のポージング全4種",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90YnlUeTJBdkhhY1lhNk5YZlU5QmtPcTE5VTBYRU1aNlVlRmItVGZpVjJDeWlWZ1gxNWg4azE0V2VMSDdLa3FXZm1fX2VOUEVhcGtwRHZFN1lhNDhBejBUaW41Y2g2SHE2NEE?oc=5",
   "date": "Thu, 24 Sep 2026 06:00:03",
   "release": null,
@@ -437,8 +591,8 @@
  {
   "id": "gnews-2584165986376529",
   "kind": "news",
-  "maker": "inside-games.jp",
-  "name": "「映画ちいかわ」 ワンシーンをデスク上でも楽しめる！スマホを支える島二郎など「デスクトップフィギュア」全4種がカプセルトイ売り場にて発売 - inside",
+  "maker": "インサイド",
+  "name": "「映画ちいかわ」 ワンシーンをデスク上でも楽しめる！スマホを支える島二郎など「デスクトップフィギュア」全4種がカプセルトイ売り場にて発売",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kTWlVbGxlbzZycDdDR3ZiY01tRUlfVDQtQlhMaEYxTFFjTm5JWHJJQlRtdEQ3cmRXMW5iZFJZcFdZbkU1S0hIMlNScUpXNlNkNFdKNlRfYXRlMk90WkpDOXZ3UlBlLV9ER1E?oc=5",
   "date": "Fri, 25 Sep 2026 03:35:02",
   "release": null,
@@ -495,7 +649,7 @@
   "maker": "インサイド",
   "name": "ガシャポン『星のカービィ』“プププなおかしやさん ”マスコットチャームが発売！アイシングクッキーデザインがお菓子風パッケージに入った全6種",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03cUJZWnNGMkp5ck5VTUVvVjhkQzk2SHk0NXpzMnAtZlV2UnVkZXFQRVhWQzJPMlBTaTBObFBrVTlsUlZ0TTR5NU9MaHR6d2Ita3FDMWZvYk1pNXpJV0JSVHNvT2dFamIwYlE?oc=5",
-  "date": "Sun, 20 Sep 2026 00:30:03",
+  "date": "Sun, 20 Sep 2026 07:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-25"
