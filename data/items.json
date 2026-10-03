@@ -96,6 +96,132 @@
   "first_seen": "2026-10-03"
  },
  {
+  "id": "bandai-4582770054927000",
+  "maker": "バンダイ",
+  "name": "アニメ『薬屋のひとりごと』 カプセルラバーマスコット3",
+  "price": 300,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770054927000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258564_2.jpg",
+  "release_text": "2026年10月 第5週",
+  "release": "2026-10",
+  "variety": "全9種",
+  "age": "15才以上",
+  "description": "アニメ『薬屋のひとりごと』のカプセルラバーマスコットの第3弾！全種描きおこしイラストを使用しています！",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "bandai-4582770054934000",
+  "maker": "バンダイ",
+  "name": "【フラットガシャポン/ジャンボカードダス】アニメ『薬屋のひとりごと』 クリアポスター3",
+  "price": 200,
+  "category": "フラット",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770054934000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258637_2.jpg",
+  "release_text": "2026年10月 第5週",
+  "release": "2026-10",
+  "variety": "全12種",
+  "age": "15才以上",
+  "description": "アニメ『薬屋のひとりごと』のクリアポスター3弾が登場！コレクション性の高いイラストをラインナップ！",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "qualia-2098",
+  "maker": "クオリア",
+  "name": "みんなのかわいい　おやしらズ　ぬいぐるみ",
+  "url": "https://www.qualia-45.jp/product/view/2098",
+  "image": null,
+  "release": "2026-05",
+  "release_text": "2026年5月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "qualia-2094",
+  "maker": "クオリア",
+  "name": "こびとづかん　カプリウムコレクション",
+  "url": "https://www.qualia-45.jp/product/view/2094",
+  "image": null,
+  "release": "2026-05",
+  "release_text": "2026年5月",
+  "price": 500,
+  "variety": "全4種",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "qualia-2097",
+  "maker": "クオリア",
+  "name": "DaisukeKondo　もこもこポーチ",
+  "url": "https://www.qualia-45.jp/product/view/2097",
+  "image": null,
+  "release": "2026-05",
+  "release_text": "2026年5月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "qualia-2099",
+  "maker": "クオリア",
+  "name": "コギまるけ　マスコットフィギュア　コーギーとシジュウカラ",
+  "url": "https://www.qualia-45.jp/product/view/2099",
+  "image": null,
+  "release": "2026-05",
+  "release_text": "2026年5月",
+  "price": 400,
+  "variety": "全4種",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "qualia-2100",
+  "maker": "クオリア",
+  "name": "すきまハムスター　マスコットフィギュア2",
+  "url": "https://www.qualia-45.jp/product/view/2100",
+  "image": null,
+  "release": "2026-01",
+  "release_text": "2026年1月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "qualia-2067",
+  "maker": "クオリア",
+  "name": "こびとづかん　ソフビフィギュア2",
+  "url": "https://www.qualia-45.jp/product/view/2067",
+  "image": null,
+  "release": "2025-10",
+  "release_text": "2025年10月",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "qualia-2102",
+  "maker": "クオリア",
+  "name": "ピングー（PINGU）™　のぬいぐるみ2",
+  "url": "https://www.qualia-45.jp/product/view/2102",
+  "image": null,
+  "release": "2025-08",
+  "release_text": "2025年8月",
+  "price": 500,
+  "variety": "全6種",
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "qualia-2101",
+  "maker": "クオリア",
+  "name": "つまんだどうぶつたち3　マスコットボールチェーン",
+  "url": "https://www.qualia-45.jp/product/view/2101",
+  "image": null,
+  "release": "2024-03",
+  "release_text": "2024年3月",
+  "price": 300,
+  "variety": "全5種",
+  "first_seen": "2026-10-03"
+ },
+ {
   "id": "qualia-2073",
   "maker": "クオリア",
   "name": "はにわとどぐうとこふんの巾着",
@@ -401,6 +527,43 @@
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-03"
+ },
+ {
+  "id": "gnews-e633bb77a15d737a",
+  "kind": "news",
+  "maker": "hobby Watch",
+  "name": "ガシャポン「キン肉マン ドットフィギュアチャーム2」10月第1週発売！",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11Z2dZOTJLQTRUTW80cm8zc1FhOW5aNU5OWlQ4c09mRWdTZFFIbG44aS0xOWg3alhFUGMyQkpJZnFOREY3Mlg1REJURk11R0VndDRLc3c1U25XUHRNV0liTG9URUtsNDQ?oc=5",
+  "date": "Sat, 03 Oct 2026 15:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "gnews-bb458fed8c31160c",
+  "kind": "news",
+  "maker": "千葉テレビ放送株式会社",
+  "name": "ガシャポン「キン肉マン ドットフィギュアチャーム2」10月第1週発売！",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01bEZ4UHMzUkRkNWdtOHZwRjZZRkNla1M0bk9YY3ZCVGp0UEdFeW54R1AtNjZOaWhrNU5lUHZ3OE92TUFEbkFxbVF5Qy1yY2JGYlAtSXdxVDEyX3lQSHRJ?oc=5",
+  "date": "Sat, 03 Oct 2026 15:14:31",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-03"
+ },
+ {
+  "id": "bandai-4582770026689000",
+  "maker": "バンダイ",
+  "name": "プリキュアオールスターズ 変身ダイキャストチャーム＆パッケージ5",
+  "price": 400,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770026689000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258582_2.jpg",
+  "first_seen": "2026-10-02",
+  "release_text": "2026年11月未定",
+  "release": "2026-11",
+  "variety": "全10種",
+  "age": "15才以上",
+  "description": "歴代変身アイテムのダイキャストチャームとミニチュア玩具パッケージがセットになった豪華仕様第5弾！\nボールチェーンver.とカニカンver.の2種類をラインナップ！"
  },
  {
   "id": "bandai-4582770055627000",
@@ -1074,7 +1237,7 @@
  {
   "id": "gnews-b80971bc6938bd72",
   "kind": "news",
-  "maker": "prtimes.jp",
+  "maker": "PR TIMES",
   "name": "『LOVOT[らぼっと]』のガシャポン®新作！ふわふわとした手ざわりが愛らしい 「ふわふわフロッキーチャーム」が2026年10月第５週より順次登場 | GROOVE X 株式会社のプレスリリース",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFWTZDTGRnLTJyd3J4ZUF5aEFtTGFWTTJTd0hoZzNBaTVRem9iVDV6WFV0T3R6MW9NbUhOazlxUWVhRkk4UFRuZzFKeERkdnpQXzZ5N0NpV3VUbFA5TkhUMTh0Z0FxUnR5VFE?oc=5",
   "date": "Thu, 01 Oct 2026 02:00:02",
@@ -1682,16 +1845,6 @@
   "description": "週刊少年サンデーコミックスの人気作品が、ミニチュアサイズの豆本シリーズ「豆ガシャ本」になって登場！\n『タッチ』『らんま1/2』『今日から俺は!!』『うしおととら』『名探偵コナン』『MAJOR』の名作6作品をラインナップ。"
  },
  {
-  "id": "bandai-4582770026689000",
-  "maker": "バンダイ",
-  "name": "プリキュアオールスターズ 変身ダイキャストチャーム＆パッケージ5",
-  "price": 400,
-  "category": "ガシャポン",
-  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770026689000",
-  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258582_2.jpg",
-  "first_seen": "2026-10-02"
- },
- {
   "id": "bandai-4570118184191000",
   "maker": "バンダイ",
   "name": "KPOPガールズ！ デーモン・ハンターズ ミニCDコレクション",
@@ -1699,7 +1852,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4570118184191000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258626_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "2025年6月にNETFLIXで配信され、全世界で歴史的にヒットしたアニメ映画「KPOPガールズ！ デーモンハンターズ」より、世界の音楽チャートを席巻した人気楽曲をイメージしたミニCDコレクションが登場！"
  },
  {
   "id": "bandai-4570118186768000",
@@ -1709,7 +1867,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4570118186768000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258588_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "サンリオキャラクターズがBabyになっためじるしアクセサリーが登場！\nふわふわ質感のフロッキー仕様めじるしアクセサリーです！\n※本商品は、初回発売後、複数回の出荷を予定しております。"
  },
  {
   "id": "bandai-4570118197733000",
@@ -1719,7 +1882,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4570118197733000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258595_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "全長約12cmの超ビッグサイズ！コジコジからカプキャラが新登場です！"
  },
  {
   "id": "bandai-4570118201928000",
@@ -1729,7 +1897,12 @@
   "category": "プレミアム",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4570118201928000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258630_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全4種",
+  "age": "15才以上",
+  "description": "カプセルケースを組み合わせて、あなただけのアパートメント作りが楽しめる「CAPSULE APARTMENT」にパワーパフ ガールズが登場！"
  },
  {
   "id": "bandai-4582769927409000",
@@ -1739,7 +1912,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769927409000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258629_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全7種",
+  "age": "15才以上",
+  "description": "雪印メグミルクのゼリー＆プリンシリーズがミニチュアチャーム化！\nスプーン付きで豪華ダブルチャーム仕様！"
  },
  {
   "id": "bandai-4582769995118000",
@@ -1749,7 +1927,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995118000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258625_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "大人気のクレヨンしんちゃん めじるしアクセサリーが、ぶりぶりざえもんの着ぐるみを着て登場！着ぐるみ部分はクリア仕様になっています。\n※本商品は、初回発売後、複数回の出荷を予定しております。"
  },
  {
   "id": "bandai-4582769995316000",
@@ -1759,7 +1942,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995316000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258611_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "絶好調の「ぜんまいざむらい」から「まちぼうけ」が新登場！並べるとからくり大江戸のみんながのんびりすごすシーンがお手元で広がります！"
  },
  {
   "id": "bandai-4582769995545000",
@@ -1769,7 +1957,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995545000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258584_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "「Novelbright」のメンバーがならぶんです。になって登場！"
  },
  {
   "id": "bandai-4582770026528000",
@@ -1779,7 +1972,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770026528000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258583_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "お文具さん達がお惣菜の姿に！？透明パックに入ったミニチュアマスコットが登場です。付属のシールはお好きなところに貼ってくださいね♪"
  },
  {
   "id": "bandai-4582770027020000",
@@ -1789,7 +1987,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027020000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258620_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "大人気の「ボンボンドロップシール」のミニチュアチャーム第2弾が登場です！\n※本商品は、初回発売後、複数回の出荷を予定しております。"
  },
  {
   "id": "bandai-4582770027150000",
@@ -1799,7 +2002,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027150000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258577_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "大好評のフィギュアシリーズ「まちぼうけ」に、「はなかっぱ」が登場！まちぼうけてる切ない表情がとっても可愛い！"
  },
  {
   "id": "bandai-4582770027211000",
@@ -1809,7 +2017,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027211000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258642_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全8種",
+  "age": "15才以上",
+  "description": "LINEスタンプで人気の「ジャージカップル」が、いろんなところにつけられる「ぷっくりめじるしアクセサリー」で登場！\nペアでおそろいにしてもかわいい♡"
  },
  {
   "id": "bandai-4582770027242000",
@@ -1819,7 +2032,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770027242000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258575_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "しんちゃんたちがおべんとうの中身になりきった！？おべんとうマスコットが登場！"
  },
  {
   "id": "bandai-4582770033618000",
@@ -1829,7 +2047,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770033618000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258556_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "ずっとあなたを待っている…をコンセプトとした、儚い可愛さが詰まった大好評のフィギュアシリーズ「まちぼうけ」に、スーパーマーケットのテーマが登場！\n集めて並べれば、SNS映えする面白い写真や可愛い写真が撮れます！"
  },
  {
   "id": "bandai-4582770071016000",
@@ -1839,7 +2062,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770071016000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258544_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月 第2週",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "15才以上",
+  "description": "大人気の「たまごっち UFOスイング」がオーロラ仕様になって登場★\nUFOとキャラクターはカニカンで接続されているためキャラクターの付け替えも楽しめる！\n※本商品は、初回発売後、複数回の出荷を予定しております。"
  },
  {
   "id": "bandai-4582770053784000",
@@ -1849,7 +2077,12 @@
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770053784000",
   "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258572_1.jpg",
-  "first_seen": "2026-10-02"
+  "first_seen": "2026-10-02",
+  "release_text": "2026年10月未定",
+  "release": "2026-10",
+  "variety": "全5種",
+  "age": "3才以上",
+  "description": "たまごの殻をぎゅっと押し込むと、時間差でポンっ！アンパンマン達が顔を出すギミックマスコット。高さ約7cmのビッグボリュームです。たまご型のミニプレートも付属。"
  },
  {
   "id": "gnews-d04247f0d11577cb",
@@ -1887,7 +2120,7 @@
  {
   "id": "gnews-a7afce2348caddfa",
   "kind": "news",
-  "maker": "prtimes.jp",
+  "maker": "PR TIMES",
   "name": "「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」より新作カプセルトイが続々と登場決定！",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41aDJIdzhSMnh5Z09PX3dHOWpNWnlLa2x3czNpc3A3TjZuZG9RSmhTR3UxbjRITTVUSUxDRzR4Sm85cFVXMUkyUWpYM3MxME9Cdmk2YUVLZjJPT3JJNk5ydzhDelVmLVRWZlE?oc=5",
   "date": "Thu, 01 Oct 2026 02:30:02",
@@ -2008,7 +2241,7 @@
  {
   "id": "gnews-2cc85b35a9dd769f",
   "kind": "news",
-  "maker": "game.watch.impress.co.jp",
+  "maker": "GAME Watch",
   "name": "カプセルトイ「サルゲッチュ めじるしアクセサリー2」、10月第5週より発売",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GQ2VBcngwZjNPNDhiNVlTTGRJclpiaTNmZ3Q3cXBVc2g2QXVDbE5ZaDAzTHVYTGJpSmhyX1FEQ1ZsdHZCWGhjZmtycjlpZDZBRVVudDB1VXZDN0VjMUVzRTgydmR1dw?oc=5",
   "date": "Thu, 01 Oct 2026 01:49:47",
@@ -2030,7 +2263,7 @@
  {
   "id": "gnews-ef0ddd0abd7ea32b",
   "kind": "news",
-  "maker": "game.watch.impress.co.jp",
+  "maker": "GAME Watch",
   "name": "【あつ森】「どうぶつの森 めじるしアクセサリー」が10月第5週に発売決定！",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vd29QcExrUTlGVElhVUJDRHJ5dVM5YzVQS0VVV0tKMjJsRmJoSW1QZHhycXFLa25wZkk0a0d6aUY1UHU0MXpQcTVoS0N0Mk95MDRiSGZGV1lBVG5rMDY3S3ZjUXZLUQ?oc=5",
   "date": "Thu, 01 Oct 2026 01:27:11",
@@ -2552,7 +2785,7 @@
  {
   "id": "gnews-94d1f9f081e5fe24",
   "kind": "news",
-  "maker": "手塚治虫 公式サイト",
+  "maker": "tezukaosamu.net",
   "name": "【新商品】カプセルトイ『ブラック・ジャック ピノコ ぬいぐるみポーチ』発売！",
   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YYUw3ZFlpek0tTW1IM2Z0eDJRWWF2bHhoZVBOYWJYSHNDZ3YycFhWeWE3Q0VudUdpaW5lSXVnRDJpYmtfZTZXY3JrZ2tWb0NzZThDUTlpWk5UOGp4S0E?oc=5",
   "date": "Tue, 29 Sep 2026 01:50:33",
@@ -2676,7 +2909,7 @@
   "maker": "Yahoo!ニュース",
   "name": "熱海にバンダイ公式ガシャポン専門店 新商品中心に310面を展開（みんなの経済新聞ネットワーク）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTU11U01CTjhtc0R3WGdEcFUwb00tV3pZNFptTXplQ0pwV0xPaHVzNGNHNl9NRlc0ZTZVTjlLWm9zN2loZnlvRkZMT2dSZWZqbXVaQjh4cHlWRnEtMlRsbno0YVhGekg3MmpVRlBZYWhwTm0tcnI0RXZaS0xad2M?oc=5",
-  "date": "Sun, 27 Sep 2026 21:07:33",
+  "date": "Sun, 27 Sep 2026 20:50:18",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-27"
