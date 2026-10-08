@@ -1,5 +1,203 @@
 [
  {
+  "id": "gnews-845ebcfdd31c8c4b",
+  "kind": "news",
+  "maker": "PR TIMES",
+  "name": "雪印メグミルク×バンダイ 「雪印メグミルク ミニチュアチャーム～ゼリー＆プリンシリーズ～」 2026年10月より全国の「ガシャポン®」自販機にて順次発売！",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wOGtBT09KRHE4c0ZvWUNzbjNGRmVvbjdrNU1ob2RkTEhZX0ZySFpJeUVCMlBWSzJIMlNSNWM4bGVGUEYtTkNOcWZlclFob0J6MkF2bXpvVDBJM25aYXczaFozU0JzLWxmc0E?oc=5",
+  "date": "Mon, 05 Oct 2026 02:00:02",
+  "release": "2026-10",
+  "release_text": "2026年10月",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "stasto-decorapicjujutsushimetsu",
+  "maker": "スタンド・ストーンズ",
+  "name": "デコラPICアクリル 呪術廻戦 －死滅回游－ 四廻戦",
+  "url": "https://stasto.co.jp/products_ss/decorapicjujutsushimetsu/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/04/DecrapicAcrilJujutsuNew.jpg",
+  "release": "2026-09",
+  "release_text": "2026年04月, 2026年09月発売",
+  "price": 300,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-22b931ffe30ad09b",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "ガシャポン「Lil ala mode」ミニチュアパッケージチャームが10月第3週発売！キューピッドや日焼けなど色んなお洋服のムース全5種",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZV2pwcW1CSHNLSFUtYWY5QWRxMDlTZ1ZTajhNTVFhSXFCeTVaTVJNMVJ5VU9IWUh5ZFBNaHB4QmNUVnBnU1JyZEZOSFlxc1hWNGFKYmN4c3BRSHBYbTJ6Y25La1E4ZV9LV0E?oc=5",
+  "date": "Wed, 07 Oct 2026 07:45:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-6041e39464c78f0a",
+  "kind": "news",
+  "maker": "ムーミン公式サイト",
+  "name": "【カプセルトイ】「ムーミン 巾着＆ポーチコレクション」がカプセルトイに登場！10月下旬より発売！",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFSGFZeHJnTEJVa1pDTVhkWUZ6XzJFSGowNFU2T3JIM2hZcE00ZnQxVnEyTnpRNnVvZzVNVW1iNUJ3MGN0QWpESy1QYVBzSUZ6a0czMDVsd3ZaR3NiRUxFNDhn?oc=5",
+  "date": "Wed, 07 Oct 2026 03:01:05",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-da0f562fbdf524c7",
+  "kind": "news",
+  "maker": "マイナビニュース",
+  "name": "【10月発売】サンリオ新作カプセルトイ36商品を一挙紹介! ボンボンドロップチャームやふわふわめじるしアクセなど",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ERjItc1pLUFJjajdDN1JUeV9lVGstdzk4NHh6aUVsMGhXVUNMN0RSRnVfem9pTjFWMkNycGJfajBtTGlXN29iZ2Yzd3lCV3JNMHBTWVFhVFEtTk5n?oc=5",
+  "date": "Wed, 07 Oct 2026 07:04:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-aaaafd8f4a8820d8",
+  "kind": "news",
+  "maker": "PR TIMES",
+  "name": "「東海バスオリジナルカプセルトイ」を10月16日(金)発売",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XTUtWMWt0NlFuOExUSGVKSnpyWUREZDh0ZHgtc3lJVlY0UGMyYmU4NlQtdWxLcVdoVzdjTjR6YV8yUFBiOExXM0lGYkI3dFU2RE53b1IwbW9PeEtHYXk1dFl6ZHl0Ri1URmc?oc=5",
+  "date": "Wed, 07 Oct 2026 04:01:05",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-12b1fc39d51d8766",
+  "kind": "news",
+  "maker": "Gamer",
+  "name": "「ダライアス」カプセルトイ第2弾「ダライアス ミニギュアコレクション グレートシング級」が発売決定！",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01aWFKWlhVbDJLdzJKeDdmUnZDWFJsYU1MLVVmSUxVV2Y1M1owZjlib05Nc0hiT24zRTlBZ1R4MktyMG0tMGgxWXAtendTb3RncjdoZg?oc=5",
+  "date": "Wed, 07 Oct 2026 06:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-2296f4505fe9c774",
+  "kind": "news",
+  "maker": "hobby Watch",
+  "name": "バナナ×インコのチャーム！ カプセルトイ「バナナインコアピるチャーム」10月10日発売",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CMks3V0pLcUxSU0MwMTltWmZseHFIOGhuYnd5ejNQQlJjZm5QUEhGQUZmMmFmOGRGOHdwT1BpRkxBQmZNNFpHTWozeUtHSWd1X2NBZVpGM1pTaUtxc00wdVlVdmh5WGM?oc=5",
+  "date": "Wed, 07 Oct 2026 03:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-d612498ae15fc0d5",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "【だいぞう】DAISO公式キャラ、カプセルトイ「おかおポーチ」発売 クレーンゲーム用「BIGぬいぐるみ」も（オトナンサー）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13em5UdUxhMVpXaTE4MUNqWm1lU1VYMjVRQmhPeVZJSVRZXzlVZFdPTEtDeXVROFNhNFJRUDI2dmVoLTg4aDRyVENqemtYNUpJVnhqakZvdU85eUVPX0dFN1JqU1NLV1BEcDYxZlMtcThXcW5JTEo4NnRueTczQUU?oc=5",
+  "date": "Wed, 07 Oct 2026 08:45:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-0f0835e8ed10f6bc",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「くまのプーさん」ピグレットは“あのポーズ”！ガシャポン「 ＜TAROUT＞ マスコットスイング」全5種が10月第3週より発売",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tVUl3d0ZsczV1bUVvMnZHVXVKU09lODNMTnp5cEF5SFpnTkJuVXBld0E5a29SYTlPUDN2Rjg0N3RfMmE3UnVCZmxRNHFjSnhjSFhiTlVWekpMM0N1ZnhHV2FBalhSSFNINmc?oc=5",
+  "date": "Wed, 07 Oct 2026 08:45:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-94cf28bdf373a2e2",
+  "kind": "news",
+  "maker": "PR TIMES",
+  "name": "本日で発表から40周年10月7日(水)は「ダライアスお披露目の日」! カプセルトイ第2弾発売決定",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRd1F0dTdzNXRpcEVLUjJESGN0NEtPTWVwUFlXM2dhbk5HQTNkYnphUVVxMF9BZ1VFZ0Z5TzRvTFl4Mk5oM3lyWFJyTE10UWRWeVFfNFQxMTdjMzg1M3lVbjdsNnVBbGFoLUE?oc=5",
+  "date": "Wed, 07 Oct 2026 02:00:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-f8a1b0207c8ae1a0",
+  "kind": "news",
+  "maker": "マイナビニュース",
+  "name": "【モー娘。】あの曲の衣装も!「モーニング娘。」 コスチュームチャーム、ガシャポンに登場!",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HdzRWem5sdWI5aWZyWUY0VkFHUEFsekdNOFZCSWRXS2VJVVJOY21aT1JwUjRjbmpBeE9uWHZVclVubVkwZk9aZkpuWk9oYmltUGpiT202MVROWXhV?oc=5",
+  "date": "Thu, 08 Oct 2026 00:11:31",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-83f179be8283e07c",
+  "kind": "news",
+  "maker": "マイナビニュース",
+  "name": "【10月発売】モンチッチカプセルトイ9商品を紹介! バブルヘッドドールやがまぐちキーホルダーの再販など注目アイテムがラインアップ",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NaHdPRzV5WFlqbDZKbS01NzU0TW9RZklrYXFKTlhhLW16Z1VONElSMlF0MkNQUnZTRnRDQzB2dDdMQU1LSnZEOXdLXzlGaE5WOUFVX0pMWVJPVV9h?oc=5",
+  "date": "Wed, 07 Oct 2026 09:00:53",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-0a34db5463b1448c",
+  "kind": "news",
+  "maker": "au Webポータル",
+  "name": "【10月発売】サンリオ新作カプセルトイ36商品を一挙紹介! ボンボンドロップチャームやふわふわめじるしアクセなど",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QOXdFZGtTRmFFWXFyNmtlRldTNjQyak5CS2JyVWZTWkd3NE9qV0VFMWF3UWFUQlZpazZtTFJvM09FMm5RSll6QWdPSVN3amtjbk94RlFsVk9ieWRTeTRTaW9kQkk4T0k1MTU4OFFn?oc=5",
+  "date": "Wed, 07 Oct 2026 07:04:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-bb417132c39b8e16",
+  "kind": "news",
+  "maker": "ニコニコニュース",
+  "name": "【カプセルトイ新商品】いろんな運気が上がっちゃうかも！？「開運ポーチ」10月13日（火）から順次発売！",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nUW5WMFk4VjlLWTF5YkFOa0xzY0FRVXJOZjNCOEtiUUM3Nk1CdmE5eEFXaU9RQ2dET1B1WVpsaFRQbVNnME55SE95ZG9yWE9OYnRjYW1aVUJ1M2k4QUc5R05jbnBSdndialM0dElCWXU5Mm5pMW9jSU5Zdw?oc=5",
+  "date": "Wed, 07 Oct 2026 05:45:42",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-1eefda8753e67faf",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "お文具さんたちがお惣菜の姿に！？ガシャポン「お文具といっしょ」マスコット全5種、“広告の品”シール付き（インサイド）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QbG91c0hLNFpSeThsc0tFSjM5dWlQWGpkbk1IX0lmdWlKXzU3dW93RTJ6VlBCWGxsTk1PUmVuNVNZX0xBMlZGdW44RTIxU1V2S25rVlBTcVBjQVpHR2Zhbno3ZWt4Wkc0WWtiTEZYcUlxbnU0TkpoTlNhb3l0VVk?oc=5",
+  "date": "Sun, 04 Oct 2026 00:15:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-28d3d3cc5902eebe",
+  "kind": "news",
+  "maker": "Infoseek",
+  "name": "【カプセルトイ新商品】いろんな運気が上がっちゃうかも！？「開運ポーチ」10月13日（火）から順次発売！",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MUjFIcUtwMVdCajR0ZDAxWE5OREJMMTlXQUpxcjdTQU1pbF9CNHZRam5ROUxab1BjSEd4TTZ1OGpuc042YVZPZ081UTFQcUhMTXRxWEdJZ3dxRVVRbnJuUi1WN01rRjVKd1U4a201YVc1dw?oc=5",
+  "date": "Wed, 07 Oct 2026 02:45:22",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "gnews-820417e8f90bbbdd",
+  "kind": "news",
+  "maker": "マイナビニュース",
+  "name": "【アイカツ!】キュートなコーデのめじるしアクセサリー、ガシャポンオンラインに登場!「ドレス型のめじるしほしすぎる」「エンジェルアリス天才かよ」",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sS1VUMGJGUjItdXJHV3MybFBadldOR0s2WkQwazk1N3Uyelhqc2lUdTNUbkp2dVZfaTVxcS11V1VWN0J2VE9KSEN5TXdZRHl5TTE3RU9KYm1BeFYw?oc=5",
+  "date": "Wed, 07 Oct 2026 06:18:54",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-08"
+ },
+ {
   "id": "toyscabin-4589415440695",
   "maker": "トイズキャビン",
   "name": "【再販】踏切コレクション2",
@@ -3274,7 +3472,7 @@
   "maker": "Yahoo!ニュース",
   "name": "熱海にバンダイ公式ガシャポン専門店 新商品中心に310面を展開（みんなの経済新聞ネットワーク）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTU11U01CTjhtc0R3WGdEcFUwb00tV3pZNFptTXplQ0pwV0xPaHVzNGNHNl9NRlc0ZTZVTjlLWm9zN2loZnlvRkZMT2dSZWZqbXVaQjh4cHlWRnEtMlRsbno0YVhGekg3MmpVRlBZYWhwTm0tcnI0RXZaS0xad2M?oc=5",
-  "date": "Sun, 27 Sep 2026 20:50:18",
+  "date": "Mon, 28 Sep 2026 07:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-27"
@@ -7785,6 +7983,28 @@
   "first_seen": "2026-09-01"
  },
  {
+  "id": "stasto-pankettsumejirushi",
+  "maker": "スタンド・ストーンズ",
+  "name": "パンケッツめじるしマスコット",
+  "url": "https://stasto.co.jp/products_ss/pankettsumejirushi/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/PanketsuMejirushi.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月発売",
+  "price": 300,
+  "first_seen": "2026-09-01"
+ },
+ {
+  "id": "stasto-mandore-2",
+  "maker": "スタンド・ストーンズ",
+  "name": "マンドレイクコレクションめじるしマスコット",
+  "url": "https://stasto.co.jp/products_ss/mandore-2/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/MandreMejirushi.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月発売",
+  "price": 300,
+  "first_seen": "2026-09-01"
+ },
+ {
   "id": "kitan-forest_buzikaeru4",
   "maker": "キタンクラブ",
   "name": "カエルの森工房 無事カエルストラップ弐　山野草色",
@@ -7922,28 +8142,6 @@
   "release": "2026-09",
   "release_text": "2026年09月発売",
   "price": 400,
-  "first_seen": "2026-09-01"
- },
- {
-  "id": "stasto-pankettsumejirushi",
-  "maker": "スタンド・ストーンズ",
-  "name": "パンケッツめじるしマスコット",
-  "url": "https://stasto.co.jp/products_ss/pankettsumejirushi/",
-  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/PanketsuMejirushi.jpg",
-  "release": "2026-09",
-  "release_text": "2026年09月発売",
-  "price": 300,
-  "first_seen": "2026-09-01"
- },
- {
-  "id": "stasto-mandore-2",
-  "maker": "スタンド・ストーンズ",
-  "name": "マンドレイクコレクションめじるしマスコット",
-  "url": "https://stasto.co.jp/products_ss/mandore-2/",
-  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/MandreMejirushi.jpg",
-  "release": "2026-09",
-  "release_text": "2026年09月発売",
-  "price": 300,
   "first_seen": "2026-09-01"
  },
  {
