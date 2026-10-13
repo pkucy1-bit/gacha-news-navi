@@ -1,5 +1,73 @@
 [
  {
+  "id": "kitan-dogeza2_mc",
+  "maker": "キタンクラブ",
+  "name": "続・土下座 マーカーチャーム",
+  "url": "https://kitan.jp/products/dogeza2_mc/",
+  "image": "https://kitan.jp/wp-content/uploads/2026/10/Zoku_DP.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月中旬",
+  "price": 300,
+  "variety": "全8種",
+  "description": "株式会社キタンクラブのカプセルトイ（ガチャガチャ）商品「続・土下座 マーカーチャーム」の商品詳細ページです。",
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "gnews-b0fcbe37df52094a",
+  "kind": "news",
+  "maker": "アットプレス",
+  "name": "『AngryBabyz(アンベビ)』のポーチつきエコバッグが カプセルトイで登場！10月28日(水)より順次発売",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGUTdBbjU3VTF6Wkw4YjRwNDUxTjJEa2lsWGJMUHluQkhkQVlJY1NXT0VyOUdXWll6WHdpcWp4aFh1NDYzbG5oM3lsMFMyUQ?oc=5",
+  "date": "Tue, 13 Oct 2026 00:30:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "gnews-957c558864ed0405",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "伊東・修善寺・下田で「東海バスオリジナルカプセルトイ」を10月16日発売！（ベストカーWeb）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYMTdDRzVZZkdNVmxRb25OSzBuaDlUZzFWbXVmaWZNdnhhdE52b0V1aldBOWZIYWt6dlh4T0NDNWVZU0hVX1BHZzczbmpfVl9UM0xHaUhqaXBORU45VnZoQlZXcGV2U0VLc180NWxDNzlONXJIYWdsdW5vLVpxcWs?oc=5",
+  "date": "Sun, 11 Oct 2026 10:00:44",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "gnews-5133d93ecde32ac8",
+  "kind": "news",
+  "maker": "hobby Watch",
+  "name": "ガチャ「ゼルダの伝説 ヒストリカルチャーム＋」10月上旬発売。トライフォースデザインの全12種がラインナップ",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQYUlwU0R5R2FRZGczbzh4YzQ2OVgtTU1zWGQ2QW82TXRBTU9jbVMyQjktUnFzNlZsN0ZuZGJwN09aRV9SLUlWY0hCV2xHZTEwMl9tQXJJZnlLQmNlT2RMLVJXU3lwYmM?oc=5",
+  "date": "Sun, 11 Oct 2026 15:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "gnews-e1a6c796fd349664",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "【たまごっち】「あかん、かわい過ぎる」 30周年の “めじるしアクセサリー” 11月発売に、ファン 「全種類欲しい！」「“パリピ”な おやじっち」（LASISA）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNHgxb1VOdU1sOGNQN0pOWDZjdDQ1aWVyemZUWjBVT3RGXzNxMm9sTGhZcDlTU1R2TXdXdjdCbHFRVnhWWGZaX3ZEdEVQRTkxUTJNMW1RLXozWFV6eUx1Y3VLa2J4UGZUbXFOODhUWXFlRnhkanhlZVB6c09pUWs?oc=5",
+  "date": "Sun, 11 Oct 2026 23:15:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "gnews-42e93da83900d436",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「ハリー・ポッター」便利なミラーコレクションがガシャポンで発売！キラキラ加工のカエルチョコレートや爆発ボンボンなど全5種 1枚目の写真・画像",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vREV3cTllWFFqYXEtVlE2VURzb3ZZSXFNbml6a1JuMEExUDdwREhOa1BUUjU2LThKRzNvZnlubEJySmxGS2hQcktLSUc2cno2ZGJPRGNUeEdXNHVhQm4yWGhsOHZieHAwdHd2SmphSmhEMG5YckhObzNR?oc=5",
+  "date": "Sun, 11 Oct 2026 01:00:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-13"
+ },
+ {
   "id": "gnews-0fc46942613b4747",
   "kind": "news",
   "maker": "マイナビニュース",
@@ -345,7 +413,7 @@
   "maker": "Yahoo!ニュース",
   "name": "「待ってた！」『ガンダムSEED』新作ガシャポンにファン歓喜 「ラインナップ神」「争奪戦か」（マグミクス）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOXBMLXp3ZnF0ZFdZM0ZHWjJlSGp1VWFhTDZPWG9TQ2Y2ekMxVzRlNFoxY0wwRFhEbHFWR29Jd3VLa09uMV9YTnBfM3o3ZjlVenlFbDBVWnZscHU5Rko4dWFxTkdRTEhHYWZqTmdCc2NVYWs4ZW5aVDZ4bUNWdkE?oc=5",
-  "date": "Fri, 09 Oct 2026 21:10:00",
+  "date": "Sat, 10 Oct 2026 16:42:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-10"
@@ -1724,7 +1792,7 @@
   "id": "gnews-b095a75b8a58da13",
   "kind": "news",
   "maker": "PR TIMES",
-  "name": "「SEKAI NO OWARI 銀テープストラップ」カプセルトイ 大好評のvol.1の再販売と、待望のvol.2の発売が決定！2026年10月23日(金)より順次発売開始！ | 株式会社ローソンエンタテインメントのプレスリリース",
+  "name": "「SEKAI NO OWARI 銀テープストラップ」カプセルトイ 大好評のvol.1の再販売と、待望のvol.2の発売が決定！2026年10月23日(金)より順次発売開始！",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DRmxnTlNrUlJiUm0wWnlMYjR1VGQyTlhaRllYN3MtVk1yNDNLMlhRM19Pb0ZQcnhaSFpoWjRaTXpadEQ1ZmREZmdSWFlRNURNSEVTQVA3NHpvbTFrbUtJbWlnVHlsWktOc1E?oc=5",
   "date": "Thu, 08 Oct 2026 09:00:01",
   "release": "2026-10",
@@ -2031,7 +2099,7 @@
   "maker": "ムーミン公式サイト | Moomin Official Website",
   "name": "【カプセルトイ】「ムーミン 巾着＆ポーチコレクション」がカプセルトイに登場！10月下旬より発売！",
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFSGFZeHJnTEJVa1pDTVhkWUZ6XzJFSGowNFU2T3JIM2hZcE00ZnQxVnEyTnpRNnVvZzVNVW1iNUJ3MGN0QWpESy1QYVBzSUZ6a0czMDVsd3ZaR3NiRUxFNDhn?oc=5",
-  "date": "Wed, 07 Oct 2026 03:01:05",
+  "date": "Wed, 07 Oct 2026 03:01:58",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-08"
@@ -5487,7 +5555,7 @@
   "maker": "anan",
   "name": "回すたびにときめく！ 2026年上半期カプセルトイヒット大賞",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NR1pkc3JRUG1mRExtTS01ZXJJSVVCRVJxQmRYZEpBRkQyNFJ6MVVRcXJjQ2NyajR4TWFqbTdsaG11SnQzNjBGQS04dlc0c1otN2QyakIyaC1ESEtYdjlN?oc=5",
-  "date": "Sun, 27 Sep 2026 02:30:34",
+  "date": "Wed, 07 Oct 2026 07:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-27"
