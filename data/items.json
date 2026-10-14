@@ -1,5 +1,104 @@
 [
  {
+  "id": "gnews-af8b45deff08749a",
+  "kind": "news",
+  "maker": "レスポンス（Response.jp）",
+  "name": "「ウェッジモーターサイクル」のカスタムバイクが1/32サイズのカプセルトイに、2027年1月発売",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwRVg2b1FUay1FdTVEMkhpeGtneVhJWGhoLTBjRFZ6OUJfbHU0UnYwSnBhNExhWEYzQ1BhSVNUVW5GbDZHR190T2FuUjRvVE8xOExnZ2tMd0dObk9JYzNF?oc=5",
+  "date": "Tue, 13 Oct 2026 11:00:03",
+  "release": "2027-01",
+  "release_text": "2027年1月",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "prtimes-000134693-000000492",
+  "kind": "news",
+  "maker": "アイピーフォー",
+  "name": "平成女児の憧れがぎゅっと詰まった「ナルミヤキャラクターズ　アソートコレクション」がカプセルトイに登場！",
+  "url": "https://prtimes.jp/main/html/rd/p/000000492.000134693.html",
+  "date": "2026-10-13",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "gnews-d4afc9aaf14b90d0",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "応援してるチームが欲しい！「Jリーグ」めじるしアクリルに「鹿島アントラーズ」はじめ計20種が、カプセルトイで10月下旬発売",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92ckRPRlB5R3J6ZE55WTdxeWZEM29PYzFBTlFoN0RiTTRlTmJHdXA3NjBNWG9ka2p1Ujk0Mml2RVJHMzlCS0hJOVhvaTg0M2l5R1JGWGVyMl9TRHViTkpVTm4zbWJQZ1o1QjUxV2lOVlVZT285UWg2a2hVYWJCUjA?oc=5",
+  "date": "Tue, 13 Oct 2026 08:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "gnews-c72b1d7d9c8e466e",
+  "kind": "news",
+  "maker": "電撃ホビーウェブ",
+  "name": "今度は社長も土下座!?キタンクラブのカプセルトイ「続・土下座 マーカーチャーム」が10月16日（金）発売予定！",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JZ2NfaWpqNDJFUk5URV9wOG81dlRRVUJpZHk5ZE16WXBYemNOYjZtUDYySnRIbDk4aEtvaUc4NDJiT3M2dDQxNkU0UjgzMEVR?oc=5",
+  "date": "Tue, 13 Oct 2026 05:30:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "gnews-29ab46b5effba323",
+  "kind": "news",
+  "maker": "STRAIGHT PRESS",
+  "name": "東海バスのオリジナルカプセルトイが登場！伊東・修善寺・下田の限定商品を発売",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRZ29tMzNlczdHQTdBSUdJX2EtbzdkTTVWQ1d4aTBWSUtGNWZYdnlIcmdQNHpPcUZWSnZSdWNMRFZCYmdFaEJCVXFEWFgycHJrTGd3?oc=5",
+  "date": "Tue, 13 Oct 2026 10:03:58",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "gnews-b8a22849d45b5b1b",
+  "kind": "news",
+  "maker": "コラボカフェ",
+  "name": "いれいす ふわふわカラフルマルチチャーム ガシャポン 10月発売!",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHNCNndybUJyRU1xZ3FTVEN1ckgtYlpwaG9hNlIxWmtINzZGWHBjdnVybjRmOGFMR1hrWWdtZzJTZ3hWdUVSZTE4WGk1LXRwcVAzT0d3X1l0bnRZSEo5NmF3OGFvU0k3d1pYRy0yX2xsbS1KVUg1dEc1ZmpFRHZRdDJuNGtLS2dycmtJcWZmMDZFcnVfNnRrbEJB?oc=5",
+  "date": "Tue, 13 Oct 2026 10:02:27",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "gnews-652d82fe416a3fb5",
+  "kind": "news",
+  "maker": "レスポンス（Response.jp）",
+  "name": "東海バス、伊東・修善寺・下田エリア限定カプセルトイを10月16日発売…各500円",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UUndNWHBZT2duOWFFYjMzVVdhM0VGUldER0tYOWc3Sl9MT2RjNjM1Qmp6eXJEMXVLTkIxYXRLbHlCVkNaczJfNl9TRHQxSjJnTXByWEJGLWFGYXB1WjIw?oc=5",
+  "date": "Tue, 13 Oct 2026 03:15:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "gnews-3ab23e437998a8f6",
+  "kind": "news",
+  "maker": "オリコンニュース",
+  "name": "ナルミヤキャラクターズ、巾着バッグ＆小物収納ポーチがカプセルトイで登場",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZMVFNRUszWXZaRGotVTZ6QVRUYnNSQVJUaWMyQ3BtTU5iS2pXNV9OTUZ2VVV2dVZvYnpubzl4NVJObG0zZjM0TnpUTmxBa04yLVJQUldB?oc=5",
+  "date": "Tue, 13 Oct 2026 04:27:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "gnews-cc361e2aadba33dc",
+  "kind": "news",
+  "maker": "玩具人 TOY PEOPLE",
+  "name": "T-ARTS『スーパーマリオブラザーズ』とことこヨッシーがカプセルトイに登場！ゼンマイで歩く全高約6cmの全6種",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxZjgwZW5CQzdkT3hmd2N3VzNCOGtEWl9JWWpKdGlaV1o2TFZmUm9udXV0OVRTSXpjRHlvT0NSSVhQRmhKMlNySW52ZUJVWmlH?oc=5",
+  "date": "Tue, 13 Oct 2026 12:53:36",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-14"
+ },
+ {
   "id": "kitan-dogeza2_mc",
   "maker": "キタンクラブ",
   "name": "続・土下座 マーカーチャーム",
@@ -95,7 +194,7 @@
   "maker": "Yahoo!ニュース",
   "name": "「ハリー・ポッター」便利なミラーコレクションがガシャポンで発売！キラキラ加工のカエルチョコレートや爆発ボンボンなど全5種",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3ZEVnZtbHRHSHZCR2RuUE95cmFTYm05N1NfYkpidWQzS19CcU5qZnliLVRzd0pvbThsNnl4eV9vS2VPdDh4REJhZnltREtSeGtwWGZ2RGRLaG03d3d3X1ZQM0lRb2JldXR2TXFkcTZpeHF6OWR3WktfVkUzUGh0dG1OTllFT1NidzlDTnNB?oc=5",
-  "date": "Sun, 11 Oct 2026 05:49:25",
+  "date": "Sun, 11 Oct 2026 01:00:03",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-12"
@@ -6731,7 +6830,7 @@
   "maker": "キャラグー",
   "name": "めじるしアクセサリー サンリオキャラクターズ３｜サンリオのガチャガチャ 発売日・価格・設置場所",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMSUFaN0FaT3lzMWNhSHpmZTFFc1A5RnNPZjNZU2FBSTZBTThteGM0bkhYVHNjTXNPd2FDbS0yZTl4UHBFVXZLSVAzTVVUVXJ1U1U5bm92NA?oc=5",
-  "date": "Thu, 17 Sep 2026 23:47:44",
+  "date": "Mon, 12 Oct 2026 23:57:59",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-18"
