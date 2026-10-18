@@ -1,5 +1,82 @@
 [
  {
+  "id": "gnews-1a86fdf8dced4b6c",
+  "kind": "news",
+  "maker": "徳島新聞デジタル",
+  "name": "妖怪が「警戒標識」に⁉ 道の駅大歩危でステッカーのカプセルトイ発売",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00QnE1RU9maGpDVUJXRVdnTkVTQmlvRE9sdjA2T3VoNngtTFVzdmNybnhnRnVJMzk0enhRb1JJU3dxWjhTUFRwMUdOTUo4RzBYUlhPWHh3?oc=5",
+  "date": "Sun, 18 Oct 2026 10:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-18"
+ },
+ {
+  "id": "gnews-83444c2b0d016511",
+  "kind": "news",
+  "maker": "GUNDAM Official Website",
+  "name": "「機動戦士ガンダム ならぶんです。ザク 2」ガシャポンオンラインにて予約スタート！「シャア専用ザクII」「ザクII」ほか全5種！",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIbHRDanA0cGdLQTNycnRYS01ZT0w0V0lZbE5qNUV3VjhhSmNmZjJmd1BTOVBadlVELU9hRkJZX0dtNFpOb0NMc0NINkY2UkljR3hMbEx1cThkTE8zSGlHeDN5ZWQtWFkz?oc=5",
+  "date": "Fri, 16 Oct 2026 05:38:43",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-18"
+ },
+ {
+  "id": "gnews-b22b86759b789f0c",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「TOM and JERRY」トムたちを“ぷにぷにし隊”！やわらかい触り心地、クリアカラーのフィギュア全4種がガシャポンで発売",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rYWtmV0t4NGRwVS1Xb2VSV2RhQkd5Y2wzb0d4WnMwbzhMQ2cxLWZwTTlGcks3UzFfaEltN2lIcmQzMkZUQ0N6X3VkQTB6b09lYzA5aFJrRGlOZnMtVHNkR3paZHBBMFNDMVE?oc=5",
+  "date": "Sun, 18 Oct 2026 00:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-18"
+ },
+ {
+  "id": "gnews-666dac3ac3bf49ce",
+  "kind": "news",
+  "maker": "GAME Watch",
+  "name": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55dWNJX05pbjF0a2pQWlMzWjRpSVFoM0dmWmtBNUV3U2I3S2NnTGRkTzZDMkpTbHI1eG5sUXlwdUllZVp0LUZaM2p3UHkwVjhUVm93RjNkeWI4cllaNGR0d05RNjhudw?oc=5",
+  "date": "Sat, 17 Oct 2026 15:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-18"
+ },
+ {
+  "id": "gnews-28737a689f392151",
+  "kind": "news",
+  "maker": "キャラグー",
+  "name": "牧場物語 スイングコレクション｜動物のガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SZktfRXh0NlFyWHVpVkhTWXV6c0ZUempUOXUxeWkxUGtNSVJpQzRsQUc5VFk3TmVwTndpMHVKSGFxLWl3ZXU0LWZ6bVZpdDltdGNqaGhkbw?oc=5",
+  "date": "Sun, 18 Oct 2026 00:45:13",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-18"
+ },
+ {
+  "id": "gnews-f3974179b4e81db4",
+  "kind": "news",
+  "maker": "キャラグー",
+  "name": "サンリオキャラクターズ 雪だるまふわふわめじるしアクセサリー｜サンリオのガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HMzloZUxCUFBuUVdfRjVsVEpVcWhQUmhZX0RCajNIMHFycGtGV1l5U284Z0NCN19hRFFxZTJCdWwyNU5qTjktYnNTOE01UGlVTGlpNUNiWQ?oc=5",
+  "date": "Sat, 17 Oct 2026 23:45:06",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-18"
+ },
+ {
+  "id": "gnews-52e56ac4df9d1655",
+  "kind": "news",
+  "maker": "キャラグー",
+  "name": "BT21 ベーカリーチャーム｜BT21のガチャガチャ 発売日・価格・設置場所",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSXdCQkFubWxjbGNoREJLRFA4Z0N2RUU4c0tOZWtaUVJYdUJUQy0zXzg1a05WMnVEWnZla3lYaGptby01T2RRcmtWQzhNSzVmVk1LWTRkZw?oc=5",
+  "date": "Sun, 18 Oct 2026 00:44:49",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-18"
+ },
+ {
   "id": "bandai-4582770121841000",
   "maker": "バンダイ",
   "name": "BT21 ベーカリーチャーム",
@@ -42,7 +119,7 @@
   "maker": "キャラグー",
   "name": "クレヨンしんちゃん まちぼうけ2｜クレヨンしんちゃんのガチャガチャ 発売日・価格・設置場所",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1MVpPcFc3TnJpYm40SVNoT3ZMR3k5SDAxUHhsSlYzaDhfaVM1eXZ2WTY4Y2VEOUxOOTJQVGI5THJRbXBMdzQzLWNGRWJINnVwSll3YkpCbw?oc=5",
-  "date": "Fri, 16 Oct 2026 23:45:27",
+  "date": "Sat, 17 Oct 2026 23:44:25",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-17"
@@ -254,7 +331,7 @@
   "maker": "キャラグー",
   "name": "パワーパフ ガールズ めじるしアクセサリー3｜パワーパフガールズのガチャガチャ 発売日・価格・設置場所",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPaHpjZkkwUF9ucFZib2tFbEd6TkJmSmMzX1B3NVJhdUw5bDJtSkVqRkhFZVlYblFldE16eHR1U2JfamFwSjZFSzlJZFZXT3U1cktoMGlaQQ?oc=5",
-  "date": "Fri, 16 Oct 2026 00:42:50",
+  "date": "Sat, 17 Oct 2026 23:48:02",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-16"
@@ -287,7 +364,7 @@
   "maker": "キャラグー",
   "name": "たまごっちのプチプチおみせっち グッズコレクション｜たまごっちのガチャガチャ 発売日・価格・設置場所",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zZjNMZDlOeXAzNm5hQ0VtNk1QQmx0dUEzSXRSeHpNeTVHUDM4UFJFdi1xMEg4enJrcHJoTmpjd1haLUN5N1dGM3JHRFByU2tOUEFRZ0lFTQ?oc=5",
-  "date": "Fri, 16 Oct 2026 00:41:16",
+  "date": "Sat, 17 Oct 2026 23:44:07",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-16"
@@ -7633,7 +7710,7 @@
   "maker": "キャラグー",
   "name": "ちいかわ カプセルステッキ｜ちいかわのガチャガチャ 発売日・価格・設置場所",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5USGZ5ZnBQbm1iNWxnNTI4clpLODVEUDVnQWNpcW0yQXhTSHBVWFQwa24ydmdCdHVmRWJYcEJuQllGcUZHMTdhZmY5WGVfZjdKMjNtVFM1NA?oc=5",
-  "date": "Thu, 17 Sep 2026 02:18:34",
+  "date": "Sat, 17 Oct 2026 23:43:04",
   "release": null,
   "release_text": null,
   "first_seen": "2026-09-18"
