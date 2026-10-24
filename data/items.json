@@ -1,5 +1,117 @@
 [
  {
+  "id": "kitan-sanrio_watch4",
+  "maker": "キタンクラブ",
+  "name": "サンリオキャラクターズ ダンボールウォッチ４",
+  "url": "https://kitan.jp/products/sanrio_watch4/",
+  "image": "https://kitan.jp/wp-content/uploads/2026/10/260824_sanriowatch4_DP.jpg",
+  "release": "2026-10",
+  "release_text": "2026年10月下旬",
+  "price": 500,
+  "variety": "全5種",
+  "description": "株式会社キタンクラブのカプセルトイ（ガチャガチャ）商品「サンリオキャラクターズ ダンボールウォッチ４」の商品詳細ページです。",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-ed64e2be743abebe",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "妖怪メダルからジバニャンたちが飛び出す！ガシャポン『妖怪ウォッチ』召喚メダルフィギュア全4種が発売",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16ekJZY1doWFVnaC1rcUI2MlFfLUI1NzludDJjWnJrM3ZCclY3MThla0psWGREQ05JVnMzYTJGajRyNnNlcUx6aGpERDd6U21YSkZNczFJcmp1eXZ4N0ZEOEMyNDB0SEU?oc=5",
+  "date": "Sat, 24 Oct 2026 22:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-465268febe75c816",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "ガシャポン＆箱売「機動戦士ガンダム MOBILE SUIT ENSEMBLE 31」10月第5週発売！（HOBBY Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BLWI2QUQ4R3lHZzZublFGc1lCTDBIbVRmRXJjUjdxWV9DRm5yaU9zMmltWG45bnF5UGNuLWF3VUdhUG1GUlFkM0djdjVpYkhqd2JTSE1TVEFSTmlqT290RjhBT2Y5ZXZrelJJTU1sbEZmcUVUa2Q1VE84V1NkeTg?oc=5",
+  "date": "Sat, 24 Oct 2026 15:09:07",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-2ef6b8aeba71f42d",
+  "kind": "news",
+  "maker": "GAME Watch",
+  "name": "ガシャポン「サルゲッチュ めじるしアクセサリー2」が10月第5週に発売。ゲットアミもラインナップ",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yMXY0Z1pqbnFMY2hZWktnNXNyY0o0VFl4N2Y5SXpQbnVLMWZTMjZHVnhtYThyOEJvekZSRkh3LXdLU3BhT2d1MnIxWFhhaDJUZGVIZDl0TGZoNlVaMmNZdGZUcVNjUQ?oc=5",
+  "date": "Sat, 24 Oct 2026 15:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-6cc13444f9f52395",
+  "kind": "news",
+  "maker": "Infoseek",
+  "name": "「かっけぇ！」『ガンダム』新作ガシャポン全5種に「ラインナップ最高」「ザクIIの武装が…」｜Infoseekニュース",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OcHQwRVl0VDNUMmpUMFU2RTM4bHNiUjhickx3Vl85dmo0SXRuMDMyUkZmUmVKRlFoYjdWMVJsd1ZFeW5YRkdHc3U2Tl8yXzVUVDB1OUNwdnpya1hHSW9F?oc=5",
+  "date": "Sat, 24 Oct 2026 21:20:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-16eeb765d17a6496",
+  "kind": "news",
+  "maker": "au Webポータル",
+  "name": "シナモロールも「やすみたい」…！？ ガシャポン「サンリオキャラクターズ がんばれないチャーム」全5種",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mbU1WUXhEb1JXVWVvREZLUGM0TnU4UFpoZ2FMYktRYnhMak1IWEkxR0dqTGt3QzBpNk9sd3lyLXlzN3JSbUtEalVBWFJUY2xaNjdRTkJvQXBCV1Y4LUN3YnFSTzBRLWhfVWJCV2Jn?oc=5",
+  "date": "Sat, 24 Oct 2026 15:38:29",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-73ae3f386d0da722",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "カプセルトイ「星のカービィ メタルめじるしアクセサリー」10月第5週発売。カービィたち7種が登場（GAME Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92bEhPTWpkS0U1Qld4Zm1hX1NVNmhVTzg2bzVGY3p2S1RyVTE0LVB6MFdQVlo2SjBpNkk2eWFvUWZzT0NNOWhTWVJ5WnFsa25LX0lZUDQ1dlEwNzI2OUs5ajdLQWJqVHVmNFVjSDBrWUVoOTBXNFRBZlBKLS16T0E?oc=5",
+  "date": "Sat, 24 Oct 2026 15:05:13",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-fb2324c6920280c8",
+  "kind": "news",
+  "maker": "hobby Watch",
+  "name": "かわいいプレゼントをお届け。カプセルトイ「サンリオキャラクターズ ダンボールウォッチ4」が10月23日より発売",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxeXdJbnpWdHVFMElnVmlzVndrWjUyNmZNRklBenhHYWRrdTVNdjdmVlNMZC1kUVFTQ3R5WHlwVVBoS0theFFaX3NRUVBkemZrR096cnZvOWF4QmxlZjhaZTF4aVpJWWs?oc=5",
+  "date": "Fri, 23 Oct 2026 02:51:11",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-f0070e2ddebf5af3",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「仮面ライダーマイス」も収録！超精密カプセルトイ「HG レジェンドライダー」で剣、響鬼ら4体が立体化",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lWDhyNUdCQkFaY0d6MFpsUldHbUJFbUtzTTlWN01VMzcwTmpiTEZxMDVtZXNBUVlCaURWNlRlY0J4Umo5YzNiT2dBVWQwWXlmTHBEMDJOcnc3TVNhVWhlazU5LWJMYl94Q0E?oc=5",
+  "date": "Sat, 24 Oct 2026 01:50:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "gnews-0df84db10cff57ff",
+  "kind": "news",
+  "maker": "Webikeプラス",
+  "name": "【開封レビュー】ホンダの大人気モデル「CB400 SF」と「Rebel 250」が、カプセルトイ「1/64 フィギュアキーホルダー」になって登場!",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NWdlOFItV0ZMelJZV08yRG45MFBkam5TalVjbU8tNWE2NXQ1d21nLUhzbGo0QUY4RWRadHFEMjF4N1piekp1dmZSV1FQMUJsT0RfeUdR?oc=5",
+  "date": "Fri, 23 Oct 2026 02:46:09",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-24"
+ },
+ {
   "id": "gnews-b3b515d6c48c7add",
   "kind": "news",
   "maker": "電撃ホビーウェブ",
@@ -59,7 +171,7 @@
  {
   "id": "gnews-de10c364c217e662",
   "kind": "news",
-  "maker": "GUNDAM Official Website",
+  "maker": "gundam official site",
   "name": "ガシャポン「CAPSULEVERSE 機動戦士ガンダム 01」10月第5週より順次発売！カプセルで飾る新たなリアルフィギュアブランドが始動！",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ISnFhUG9DTjFsV2JzUDVNSUljaG1CWFVpTlRTS3Rza3Q3dWNqSENQbnRBRlU5d1IzYzZfVU5GakpZWHlHd0w2WEJBbklFSjVXM1VGV1Y0d1poblRaWTFjZU00TzRVRXFE?oc=5",
   "date": "Fri, 23 Oct 2026 08:01:46",
