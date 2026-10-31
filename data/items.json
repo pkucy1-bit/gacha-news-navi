@@ -1,5 +1,130 @@
 [
  {
+  "id": "bandai-4582770129465000",
+  "maker": "バンダイ",
+  "name": "GUNDAM × hololive production カプセルラバーマスコット1",
+  "price": 500,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770129465000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258534_1.jpg",
+  "release_text": "2026年10月 第5週",
+  "release": "2026-10",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "ガンダム×ホロライブプロダクションのコラボイラストを使用したカプセルラバーマスコットが登場！",
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-9ae1218f6866e917",
+  "kind": "news",
+  "maker": "GUNDAM Official Website",
+  "name": "ガシャポン「GUNDAM × hololive production カプセルラバーマスコット1」全国のガシャポン自販機ほかで発売中！",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VSzNwS2htVTFTb2pTTHM0ZTkwRUZKTHBVaUxMRDljamljTnltZk5fRHNTSjF6R0RxbFBVd2NxZ1ptNGNsYVRmYUdELVY1R0tqOXpJdEN3T0hvbGZQMTRWVmNJYTZtUWV2?oc=5",
+  "date": "Fri, 30 Oct 2026 12:05:06",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-8795c12005325de1",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "ガシャポン「ガンダム」×「ホロライブ」コラボイラストのラバマスが発売！ぬいアーマー姿の「サザビー×星街すいせい」など全6種",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjN25zWnp4Ykhfd3NTWXJzRXdjT3YzWC1GSi1wQVB5VkVPU2R0RHp5NDNWWUFaN3VXMDlkelhtQmtrMHIyZWRtOW9CckRxNXcydHZucmswWWloVVhJZlJIb29nYmgtcUdtZWc?oc=5",
+  "date": "Fri, 30 Oct 2026 03:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-f9f6164c1bdd8c8a",
+  "kind": "news",
+  "maker": "ONE PIECE.com",
+  "name": "バンダイのガシャポン®から「CHOPPER’s めじるしアクセサリー」が発売決定！",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xXzVIeWJZTnNaR3Nhc1VGYjd0ZGhiV19zQ2hMTWhieG9lWlh6dHEtZUl0YW00MmtneWtWSVpEaFpTN19WWU1EZkg1TDlkN3lxNmF0RFVB?oc=5",
+  "date": "Fri, 30 Oct 2026 03:06:16",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-260c76c7a935d23f",
+  "kind": "news",
+  "maker": "Hobby JAPAN Web",
+  "name": "大人気作品『HUNTER×HUNTER』がHGシリーズ新作として登場！ゴン、キルア、クラピカ、レオリオと主要キャラクターがラインナップ【ガシャポン®最新情報】",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15bDlSckI4dWtja0Nzc0RqS21vMDJOclRQM0JRNkRqejJuaE9WcDZZNXZyNHBqeTN0WnRPV2NxOHY0Um80X3UxaQ?oc=5",
+  "date": "Fri, 30 Oct 2026 14:59:21",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-0eb7896d8fa63154",
+  "kind": "news",
+  "maker": "ニコニコニュース",
+  "name": "バンダイ公式の「ガシャポン(R)」大型専門店が登場",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyMTJsT1I2UXl1NTRpNF84NnRUR29Eb3RCMHVLWnpoMmRsNGVxTzJZb1JnU2F4bTJnRWRydWhiLTVBV29ocU5WX0U3elJhV01FcDVaM3lXSmd1QkxuVVJOazU0a1BIdXJ3RUFTQzJ5UkpoNVhzbS0yY0s0bw?oc=5",
+  "date": "Fri, 30 Oct 2026 09:45:18",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-1477607d25dd544e",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "『ドラクエ』スライムや竜王たちをデザイン！合計16種の「モンスターコレクタブルコイン」がカプセルトイで10月31日発売",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50aVV0QnZBT0dmbC1MOVFfczdHOE1XazY5SHpGb0FrQVRSdnl6V1lZaG1Xb0ZHZUJDZEhIRTFRU3BSUWxicWlrd0xNQmZ0NEgtblh5UU5SLXd0UUFOd2tDQnQ2U0N4SHpaakE?oc=5",
+  "date": "Fri, 30 Oct 2026 02:55:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-0cfcfc1e30333c73",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "『ドラクエ』スライムや竜王たちをデザイン！合計16種の「モンスターコレクタブルコイン」がカプセルトイで10月31日発売 2枚目の写真・画像",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oT2lDUWdmaF95V3ZiS21OVkU0aVVtTGl4OHdQVVA1aVhLMi12RmVHeTNNelF3VU1NR3lveHlidW1RZFFldlJVcU5ob1VzaWI0WW5qd3Q1RkFCWUV6bmdLS3R4MjJRcVVoaEh3Ynowb1V5eWNlc3pVU2x3?oc=5",
+  "date": "Fri, 30 Oct 2026 02:55:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-6de333ed1dd794c2",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "ガシャポン「ガンダム」×「ホロライブ」コラボイラストのラバマスが発売！ぬいアーマー姿の「サザビー×星街すいせい」など全6種 2枚目の写真・画像",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pejVPamJZUG1WbFYtSjhpMGd6dHpiQm5GVmw3RVZnaGtlTjExa1VvTDZWUldtaGJEMnJtSHlhcVNKSi1nRUVpYmNNNWJGeHZHakpyNWNOYzd2dDhUSS1lM2NqNTI2QlVJVURONmtPN0dWVHF5ZGRN?oc=5",
+  "date": "Fri, 30 Oct 2026 03:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-dc5e0874c83f521c",
+  "kind": "news",
+  "maker": "コラボカフェ",
+  "name": "グルーミー リールかぷぐるみ カプセルトイ 11月中旬より順次発売!",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXVFaHVmM2RBNjBJSFVlUjI5dVRSZm5NTW1MOFYtcktFT0tRamdBWEw5M0dPRHRIb3BBMm5sOEc1MjRvUUJUbUJiaktYbzRCV1pabzlrRUJDa2g5UFR4YjhURF9xXzc5UXpfanJVZUdQU3VFdUFLMXV3VlBTZ01sZVZTVzRMa0RuSDEyUW5raw?oc=5",
+  "date": "Fri, 30 Oct 2026 05:05:56",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
+  "id": "gnews-6fcda6ec02cc3261",
+  "kind": "news",
+  "maker": "Infoseek",
+  "name": "「サンリオキャラクターズ」ウサハナたちのユニット「チアリステイルズ」マスコットがガシャポン展開！ポンポンを持った可愛らしい姿で立体化",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wWGxyLU9Wd2poVVNURjNTeThxYkh2Z2R6NnhzNjVVWmtxMldJTUU4UVhWVHY4dFRxN2FSUDhBNl90SXgxYjdxOHh6QU44b1laWXBTaUNDSUhvMEFzS0Zj?oc=5",
+  "date": "Thu, 29 Oct 2026 03:10:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-10-31"
+ },
+ {
   "id": "bandai-4582770068832000",
   "maker": "バンダイ",
   "name": "とんがり帽子のアトリエ めじるしアクセサリー",
@@ -266,7 +391,7 @@
   "maker": "Hobby JAPAN Web",
   "name": "HG仮面ライダーに平成のレジェンドライダー「剣」「響鬼」「ビルド」が勢揃い！さらに現在放送中の『仮面ライダーマイス』もラインナップ！【ガシャポン®最新情報】",
   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiNHFjTGNzZ3RPX054U0V4T2hDdlJSOG1sdXJkYVRvQ04wN2FDdzE4YklON3dSTDU4S25tYkFSMXhmSEJxN3JnWQ?oc=5",
-  "date": "Wed, 28 Oct 2026 11:27:59",
+  "date": "Wed, 28 Oct 2026 11:03:36",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-29"
@@ -1522,7 +1647,7 @@
   "maker": "ムーミン公式サイト | Moomin Official Website",
   "name": "ガシャポンより「MOOMIN カプセルボトルチャーム」が発売！",
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51MkpicjdTZzd6S1ZjaWI3Znd2RUpwMHRVLVJJdDVmMHJULUdzUXFNMGxEYk53Q3JVVjJndlAySUdpblJtUUlDVDN0VmFFUkRBcGNZRURiY1hHaWtodE1hU3N3?oc=5",
-  "date": "Mon, 19 Oct 2026 07:00:00",
+  "date": "Mon, 19 Oct 2026 03:03:14",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-20"
