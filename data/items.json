@@ -1,5 +1,60 @@
 [
  {
+  "id": "gnews-b79dc7029edcf7fa",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「たまごっち」カラフルマルチチャームが11月第3週ガシャポンオフィシャル限定再販！まめっちなど全6種、カラフルでマルチに使える",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Tkk5WlhOWUxvQ21TbFlIamJ4WGxudTNsQUxOWXNpbTg4ZV85TlRwLXMwY1c2aUFUd3VKalJRZ05hWkpEVGx0MDMwQ2tyaGwxZjVtNDRsLWRzOTI3UmN0Z2lyZTJaTEFJV2c?oc=5",
+  "date": "Fri, 06 Nov 2026 07:30:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "gnews-bb16a1109c2bcd71",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "昭和・平成・令和のゴジラが“バブルヘッド”姿で集結！1回500円で頭部が揺れるギミック付き（オタク総研）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBubDJsN09rQXBPY1JzNzFkb04waDVFbVlxM0dMZFhGWGJ6NG9KTDcwSGg0dlZvYXplLXJOVm1lcjF6bEZTVjRrRWV3Z0VvNzdNNTVWT3B4dXJuNFVGcGtNaGFMeFgzLVJkNWc3VTFzSmV5RnB4WjZCVnFGcU9CeWc?oc=5",
+  "date": "Sun, 08 Nov 2026 13:12:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "gnews-790c406875e76541",
+  "kind": "news",
+  "maker": "電撃ホビーウェブ",
+  "name": "アニメ『桜蘭高校ホスト部』がガシャポン「つまんでつなげてますこっと」シリーズに初登場！藤岡ハルヒらを可愛いつままれ姿でラインナップ！",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUVlyY0hnUjNqTUVIRG1lMjRwVUx6bDdXOUdHTVZManRYYUNzaG5qbmt2dFpRdnQyenZPSk0wRjZCQUpsTjI5MG5COXdmb0Nj?oc=5",
+  "date": "Fri, 06 Nov 2026 04:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "gnews-0cd8e3d2c423fd96",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "ふかふかのスクイーズ仕様！「ドラえもん」ベーカリーチャームがガシャポン展開、のび太やアンキパンなど全5種",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqSC1yYVVid1o2VFQzTDBqaXh5LVA3OWlJVXo0bVJkRTc1OWpOUld0c05vd2lVUjdlcDAwZ1Joa0ZZdVZrTXRZby01MXNDMGMyel9HUm1QZ0lIMEkwbHozQXBZS1BWMzZtRlE?oc=5",
+  "date": "Sun, 08 Nov 2026 01:15:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-09"
+ },
+ {
+  "id": "gnews-3ae1cc0b451c5dfa",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "ジャパン感じるミニチュア！ カプセルトイ「ジャパン カプセルコレクション」11月10日発売 (HOBBY Watch)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzJYbDNHblVWT1lqdXkxbnhyLXlWdnZ5dGNDSTJYbGJOdXpzZXgxUTRaM2JUQkQ0U1lPbXFFQ2tOdkl5Q1RLWFYxeXE4Q0pWMnVGTWJ4OHFLR2NCNjNmOUZLcHhRbkFfUERRY3hxV0tBNzVsVHpYNWE4VzBvaVZUV2hNS1V1cXVwazA3Vzhn?oc=5",
+  "date": "Wed, 04 Nov 2026 03:28:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-09"
+ },
+ {
   "id": "gnews-e440e84927d5c688",
   "kind": "news",
   "maker": "電撃ホビーウェブ",
@@ -812,7 +867,7 @@
   "maker": "Yahoo!ニュース",
   "name": "「なんのメカ…？」『ガンダム』新作ガシャポンの“渋すぎる”全5種に「欲しすぎる」「マニアック過ぎ笑」（マグミクス）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tdEpROGJXQUdYXzdPQUk0czFUaEVNQVBRQXZuVURSdmNzMHk3TS02Mk9mVTN5cXV6MkZZdngzYmpKUm1FQXhidFRRSFJkeFJmRzhuMVAxVGxNcFdKX2UzRlVodzN3WTA1cHQteEp6dndQbThOTjBZcnhEWTJaVFU?oc=5",
-  "date": "Wed, 04 Nov 2026 00:02:34",
+  "date": "Tue, 03 Nov 2026 20:50:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-11-04"
