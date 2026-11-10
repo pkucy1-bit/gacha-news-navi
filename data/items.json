@@ -1,5 +1,182 @@
 [
  {
+  "id": "gnews-7d2e25a5724e20b7",
+  "kind": "news",
+  "maker": "ドラゴンボールオフィシャルサイト",
+  "name": "「ドラゴンボール つまんでつなげてますこっと」が発売決定！ 2026年12月よりガシャポン®自販機シリーズから順次登場予定!!",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QcEVQWUNpZnZSYXozS3BxdERqSUE2MWh4NjFXNUlnNl9iRlNGMFNRdnBjTGN6QTFVTGtrV0JKaXRMeHdvU2llaGRMb0dzSDRjVk1TVDcyYXBjNDFmUGRz?oc=5",
+  "date": "Tue, 10 Nov 2026 01:02:04",
+  "release": "2026-12",
+  "release_text": "2026年12月",
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "stasto-3dgachakimetsu",
+  "maker": "スタンド・ストーンズ",
+  "name": "3Dファイルシリーズ 鬼滅の刃 ガチャガチャマシーン 肆ノ型",
+  "url": "https://stasto.co.jp/products_ss/3dgachakimetsu/",
+  "image": "https://stasto.co.jp/web/wp-content/uploads/2026/06/GachaKimetsu06.jpg",
+  "release": "2026-11",
+  "release_text": "2026年11月発売",
+  "price": 100,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "qualia-2147",
+  "maker": "クオリア",
+  "name": "にっこりーノ　ハウステンボスのぬいぐるみ3",
+  "url": "https://www.qualia-45.jp/product/view/2147",
+  "image": "https://www.qualia-45.jp/media/1/0/7/1/0/5/107105_255x296.jpg?t=1794197745",
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "price": 500,
+  "variety": "全6種",
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-602fb727d1509f66",
+  "kind": "news",
+  "maker": "PR TIMES",
+  "name": "ケーキに乗ったメレンゲドールみたいなサンリオキャラクターたちのフィギュアコレクション「サンリオキャラクターズ メレンゲドールコレクション」が2026年11月下旬より順次全国のカプセルトイ自販機にて発売",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ibnlSWHpFRWJpalMwSkQzUWpDeTVRdlZ4MURITmtrUlRqQlo2bHVjUm0yNk9OSXJrVDlJdWRZUEdlX1d5d1hwSWJGRFpZaUZHRmUzdm1ELTZ1VFFxd3YydUUxQXYtYmY4QkE?oc=5",
+  "date": "Tue, 10 Nov 2026 01:00:03",
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-bdf21616367b6a15",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "ガシャポン「ドラゴンボール つまんでつなげてますこっと」が12月発売！つまみ上げられた姿が可愛い「孫悟空」「ベジータ」たち全5種（インサイド）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JRXU3Ny05a3BWVWE5cHNWblJZdGQ0eDQ2R2lmQ2cxdGI5bm5nMGstY003MHZ1dUthTEhCN0QyNEs5XzdxbWc0TmZmOE4teTRKWXlTNko0cmVlMFY2djhlUjE4TTZXZ0w3X1pWR2lQWlh4RVJORkxpOTdzMzlocnc?oc=5",
+  "date": "Tue, 10 Nov 2026 02:40:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-1bbe9f0dcab71444",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "グローグーも可愛く立体化！「スター・ウォーズ／マンダロリアン」フィギュア付きのボトルキャップ全5種が、ガシャポンで発売",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lMGdhRmFGdkFZQzI1MWJaNkstYW1heW11NlpORzRqTkVSSWRaOUJKTGpXdW0zbkpkTnY0aDdDVE9xTEw4bkVVOFdLcVV0QnJLWWdZSUo0RUh4WmF5YU9zUjhTa2oxT2pOWUE?oc=5",
+  "date": "Mon, 09 Nov 2026 05:00:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-498dcc7c4257bf58",
+  "kind": "news",
+  "maker": "4Gamer.net",
+  "name": "わしゃがなTVの最新動画では，いろいろなカプセルトイを開封する模様をお届け",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9adkozNE5uUHllV0pTU0JEcHZ0Mmc3TUtvXzRJai1ReVdvelZod0t5LVRuT1AzRmt0Uzh4VzhORktyOXhxcS1VZVJfcEllb1gwSzFJTkRxVFdVS2xvRjRmV2NBaw?oc=5",
+  "date": "Mon, 09 Nov 2026 11:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-27c1414a42c2cf1a",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "サンリオ、「ポムポムプリン」たちのカプセルトイ！ 「サンリオキャラクターズ メレンゲドールコレクション」11月下旬発売",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yMHZZMTk5dHY4SmpOaXQyOEU0SWxmOUg5LVdsbndqR0pzU0h1eE1vMVZJc0RhSVVvc2JhclluVGROdU5Md1Jhbm42MktaMFFyX1g1dlYzTWE3SjUtZk1UaTlXWGRoTmlNNmdPdzMyN05oOE9qcjV4UGRFNmdnQjg?oc=5",
+  "date": "Tue, 10 Nov 2026 02:32:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-39df2f4b7b19459b",
+  "kind": "news",
+  "maker": "Mantan Web",
+  "name": "新商品●柴犬愛が止まらない社長が、商品化した「しっぽぷるぷる」卸売り販売を開始！75mmカプセルに入るサイズでカプセルトイとしてピッタリ",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xejV5MlotY1Z2WmRtZGlISVNkR2xSQWRLN012ek1BbDUtekljT1lic0lJWlVQWVZBZ0Y3RWtLWVh5LWpCUVRNWDJkYUVpbEh3Z0xrS3NfM1BxSTBJbnROWm5IWXBBcVFDUHJwem1GTk9uZEh0aVE?oc=5",
+  "date": "Mon, 09 Nov 2026 22:33:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-3747804728ad6df4",
+  "kind": "news",
+  "maker": "電撃ホビーウェブ",
+  "name": "存在しない架空の教育番組をコンセプトに生まれた人気コンテンツ『教育番組』の「めじるしフィギュア」がカプセルトイとしてエイチエムエーから登場！タマ、パウル、はかせなど全6種",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XNE1XeWI1SVFqbjJNcFM0Q3hpY3RyTHd2bV82V2VaSzhGTTBXT1RNMVB0a0dhWGlYTUdxTm03TnFhZGswV1R6Snh3d1FnT0JB?oc=5",
+  "date": "Fri, 06 Nov 2026 06:30:25",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-5915eacd7373609b",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「ちいかわ」 マルチカラーパウダーが11月第3週ガシャポン展開！容器は漫画1コマ風デザイン全6種、コンパクトで持ち運びに便利",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaeHBhTGo4MFBSdndmM3lwZDk3ZlRGbUJSUElMMEkwM3NZTnNGQlN0TTZaMzY4ZGVaTlVqUTdtSE16WjE3cWszVXZOZzNjWkNkU2hqTEM5T3dFU3RiVDBibXM0LWNQcDhQVEE?oc=5",
+  "date": "Mon, 09 Nov 2026 07:00:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-67d795c7498ff79b",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "淡いブルーエンジェルのハローキティ、シナモロールたちが可愛い！ガシャポン「サンリオキャラクターズ」スイング全6種が限定再販",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xVmtpWUdDbFJkS0VNWXUyQzBvbXhiY0JHcVhjYzVhcW5fNVBtQ0ZpVUloZVlybHJOQ05Bc3V6S3EwbDlsZkdQbXo1eUJncXpFTFJwZWFfYVJrRUlfMzExTG1FZHNnWXAzNmc?oc=5",
+  "date": "Mon, 09 Nov 2026 06:45:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-c139943aaa5cafac",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "文鳥で持物アピ！ カプセルトイ「文鳥アピるチャーム」11月12日発売 (HOBBY Watch)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTZqa3FKWnlhN1BTeUtJNGI1eDRGaDY2Nm9UandyNEZSbDl5UksxYTk4S1dyYkRJNE9PNm5ZSFc1MTBnWTNYQzVKaTdoLU9SMXVkRDdZTm5mZDN5TW9GZUw1QWMzTmZORkpUbXllaVBEQzNocG1haUxTOHNUOGN1Q1BpbkoyX2FsRmc0UDNB?oc=5",
+  "date": "Mon, 09 Nov 2026 03:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-9b2ee69461173f1b",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "文鳥で持物アピ！ カプセルトイ「文鳥アピるチャーム」11月12日発売（HOBBY Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRd2I3R0JoRllJM25SZXg3RXBLQWh5cE1tdnZobjduR3EwLXdNaWhSNWgyTUhtNVJUakFEdklfa1lJYlNqVkF4NnVTOXNHamZIVTVNVFBlUzQzYnRwMWtORHg4Nm5ZRlh2TWVXQmRjNXhHT1BrT1JNOThWZ1dYYmc?oc=5",
+  "date": "Mon, 09 Nov 2026 03:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-7cddab10be44fc10",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "「ゴジラ」モスラやキングギドラがモコモコに♪ アップリケ風キーホルダーのカプセルトイ登場（アニメ！アニメ！）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2RUpKbnFIelNSMEhZU1dOXzh0VmxoY0ZoRF9waEUzWEphellZM3FFUFRIVWFOS3Jwby1QUmZkMVNCSUZTLU9kcmhlSWhjWjZrcV9VLTJhcGJjNzNfamIxQVFDWDZuaTgtc082LUk4ampWeFp5TU9XY3V6VmlDRkk?oc=5",
+  "date": "Thu, 05 Nov 2026 08:00:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
+  "id": "gnews-5726189c8d1f1ce5",
+  "kind": "news",
+  "maker": "ｄメニューニュース",
+  "name": "天使と小悪魔、2つの姿を一度に楽しめる！ガシャポン「サンリオキャラクターズ」アートトイに、マイメロディやクロミたち全4種",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFpLSlFrSHdSSzB3d01PUzhaN05hTVNzZC1PNjlZV3ZSSl9QTUVmTmFZbW9kdU1IQldhSldENkFQUldrSDl6dUl2QmpPWU5QdlZRaDVaTlFzTUhfRllYTDJmYk4wT1pXUjlhNVRsMzFQOE41NTlUV1lXenFJZWlwd1ZNQzJUY2FfVTkybE5pVUJqcnl10gGHAUFVX3lxTE1Pam5qSF9rTXJsT21aclZzYlpidmpxR1pNM0VEODhKR3JIZWlacFNZMUpXQWdnUF9OaUJjWHlIb1RNVGd5V2NpWTMxTl9qaDBEOGtwZWdUSWRNMnNSVG1EUVdpMnlJRTgzeno2VmpLalFIZU5oZzdXSHR1T0dzUXVrb2M4WHBxYw?oc=5",
+  "date": "Mon, 09 Nov 2026 07:15:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-10"
+ },
+ {
   "id": "gnews-b79dc7029edcf7fa",
   "kind": "news",
   "maker": "インサイド",
@@ -422,18 +599,6 @@
   "first_seen": "2026-11-05"
  },
  {
-  "id": "qualia-2106",
-  "maker": "クオリア",
-  "name": "こびとづかん めじるしフレンズ クリアver.",
-  "url": "https://www.qualia-45.jp/product/view/2106",
-  "image": "https://www.qualia-45.jp/media/1/0/7/0/6/3/107063_255x296.jpg?t=1793578864",
-  "release": "2026-08",
-  "release_text": "2026年8月",
-  "price": 400,
-  "variety": "全6種",
-  "first_seen": "2026-11-05"
- },
- {
   "id": "qualia-2136",
   "maker": "クオリア",
   "name": "にっこりーノ クリスマスのぬいぐるみ2 ニューカラーバージョン",
@@ -441,7 +606,9 @@
   "image": "https://www.qualia-45.jp/media/1/0/7/0/9/3/107093_255x296.jpg?t=1793579364",
   "price": 400,
   "variety": "全5種",
-  "first_seen": "2026-11-05"
+  "first_seen": "2026-11-05",
+  "release": "2026-11",
+  "release_text": "2026年11月"
  },
  {
   "id": "qualia-2135",
@@ -449,6 +616,20 @@
   "name": "にっこりーノ 縁起物のぬいぐるみ",
   "url": "https://www.qualia-45.jp/product/view/2135",
   "image": "https://www.qualia-45.jp/media/1/0/7/0/9/2/107092_255x296.jpg?t=1793579293",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-11-05",
+  "release": "2026-11",
+  "release_text": "2026年11月"
+ },
+ {
+  "id": "qualia-2106",
+  "maker": "クオリア",
+  "name": "こびとづかん めじるしフレンズ クリアver.",
+  "url": "https://www.qualia-45.jp/product/view/2106",
+  "image": "https://www.qualia-45.jp/media/1/0/7/0/6/3/107063_255x296.jpg?t=1793578864",
+  "release": "2026-08",
+  "release_text": "2026年8月",
   "price": 400,
   "variety": "全6種",
   "first_seen": "2026-11-05"
@@ -749,6 +930,18 @@
   "first_seen": "2026-11-04"
  },
  {
+  "id": "qualia-2137",
+  "maker": "クオリア",
+  "name": "にっこりーノ アイドルのバラエティコレクション",
+  "url": "https://www.qualia-45.jp/product/view/2137",
+  "image": "https://www.qualia-45.jp/media/1/0/7/0/9/4/107094_255x296.jpg?t=1793579416",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-11-04",
+  "release": "2026-11",
+  "release_text": "2026年11月"
+ },
+ {
   "id": "qualia-2134",
   "maker": "クオリア",
   "name": "お仕事を頑張っている人の応援 アクリルキーホルダー ４",
@@ -838,16 +1031,6 @@
   "image": "https://www.qualia-45.jp/media/1/0/7/0/9/9/107099_255x296.jpg?t=1793580006",
   "price": 400,
   "variety": "全4種",
-  "first_seen": "2026-11-04"
- },
- {
-  "id": "qualia-2137",
-  "maker": "クオリア",
-  "name": "にっこりーノ アイドルのバラエティコレクション",
-  "url": "https://www.qualia-45.jp/product/view/2137",
-  "image": "https://www.qualia-45.jp/media/1/0/7/0/9/4/107094_255x296.jpg?t=1793579416",
-  "price": 400,
-  "variety": "全6種",
   "first_seen": "2026-11-04"
  },
  {
@@ -1111,6 +1294,18 @@
   "first_seen": "2026-11-03"
  },
  {
+  "id": "qualia-2144",
+  "maker": "クオリア",
+  "name": "こびとづかん めじるしフレンズ",
+  "url": "https://www.qualia-45.jp/product/view/2144",
+  "image": "https://www.qualia-45.jp/media/1/0/7/1/0/1/107101_255x296.jpg?t=1793580493",
+  "price": 400,
+  "variety": "全6種",
+  "first_seen": "2026-11-03",
+  "release": "2025-12",
+  "release_text": "2025年12月"
+ },
+ {
   "id": "qualia-2128",
   "maker": "クオリア",
   "name": "こびとづかんのぬいぐるみ３",
@@ -1135,6 +1330,18 @@
   "first_seen": "2026-11-03"
  },
  {
+  "id": "qualia-2146",
+  "maker": "クオリア",
+  "name": "通勤ねこ マスコットボールチェーン ２",
+  "url": "https://www.qualia-45.jp/product/view/2146",
+  "image": "https://www.qualia-45.jp/media/1/0/7/1/0/4/107104_255x296.jpg?t=1793581231",
+  "price": 300,
+  "variety": "全6種",
+  "first_seen": "2026-11-03",
+  "release": "2024-11",
+  "release_text": "2024年11月"
+ },
+ {
   "id": "qualia-2132",
   "maker": "クオリア",
   "name": "あまやどり マスコットフィギュア",
@@ -1155,26 +1362,6 @@
   "release": "2024-04",
   "release_text": "2024年4月",
   "price": 300,
-  "variety": "全6種",
-  "first_seen": "2026-11-03"
- },
- {
-  "id": "qualia-2146",
-  "maker": "クオリア",
-  "name": "通勤ねこ マスコットボールチェーン ２",
-  "url": "https://www.qualia-45.jp/product/view/2146",
-  "image": "https://www.qualia-45.jp/media/1/0/7/1/0/4/107104_255x296.jpg?t=1793581231",
-  "price": 300,
-  "variety": "全6種",
-  "first_seen": "2026-11-03"
- },
- {
-  "id": "qualia-2144",
-  "maker": "クオリア",
-  "name": "こびとづかん めじるしフレンズ",
-  "url": "https://www.qualia-45.jp/product/view/2144",
-  "image": "https://www.qualia-45.jp/media/1/0/7/1/0/1/107101_255x296.jpg?t=1793580493",
-  "price": 400,
   "variety": "全6種",
   "first_seen": "2026-11-03"
  },
@@ -1808,7 +1995,7 @@
   "price": 500,
   "category": "ガシャポン",
   "url": "https://gashapon.jp/products/detail.php?jan_code=4582770056044000",
-  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000260529_2.jpg",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000260529_1.jpg",
   "release_text": "2026年11月 第3週",
   "release": "2026-11",
   "variety": "全5種",

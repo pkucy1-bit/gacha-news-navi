@@ -16,7 +16,9 @@ button:disabled{opacity:.6;cursor:default}
 </style></head><body>
 <h1>Instagram投稿 生成結果</h1>
 <p>画像を長押し(右クリック)で保存 → Instagramでカルーセル投稿してください。</p>
-<div class="set"><h2>2026-11-08</h2>
+<div class="set"><h2>2026-11-10</h2>
+<div class="strip"><img src="2026-11-10/01_cover.png" loading="lazy"><img src="2026-11-10/02_page1.png" loading="lazy"><img src="2026-11-10/03_page2.png" loading="lazy"><img src="2026-11-10/04_cta.png" loading="lazy"></div>
+<button onclick="copyCap('2026-11-10', this)">キャプションをコピー</button></div><div class="set"><h2>2026-11-08</h2>
 <div class="strip"><img src="2026-11-08/01_cover.png" loading="lazy"><img src="2026-11-08/02_page1.png" loading="lazy"><img src="2026-11-08/03_cta.png" loading="lazy"></div>
 <button onclick="copyCap('2026-11-08', this)">キャプションをコピー</button></div><div class="set"><h2>2026-11-07</h2>
 <div class="strip"><img src="2026-11-07/01_cover.png" loading="lazy"><img src="2026-11-07/02_page1.png" loading="lazy"><img src="2026-11-07/03_cta.png" loading="lazy"></div>
@@ -38,11 +40,7 @@ button:disabled{opacity:.6;cursor:default}
 <div class="strip"><img src="2026-10-30/01_cover.png" loading="lazy"><img src="2026-10-30/02_page1.png" loading="lazy"><img src="2026-10-30/03_page2.png" loading="lazy"><img src="2026-10-30/04_page3.png" loading="lazy"><img src="2026-10-30/05_page4.png" loading="lazy"><img src="2026-10-30/06_page5.png" loading="lazy"><img src="2026-10-30/07_page6.png" loading="lazy"><img src="2026-10-30/08_page7.png" loading="lazy"><img src="2026-10-30/09_page8.png" loading="lazy"><img src="2026-10-30/10_page9.png" loading="lazy"><img src="2026-10-30/11_page10.png" loading="lazy"><img src="2026-10-30/12_cta.png" loading="lazy"></div>
 <button onclick="copyCap('2026-10-30', this)">キャプションをコピー</button></div><div class="set"><h2>2026-10-28</h2>
 <div class="strip"><img src="2026-10-28/01_cover.png" loading="lazy"><img src="2026-10-28/02_page1.png" loading="lazy"><img src="2026-10-28/03_page2.png" loading="lazy"><img src="2026-10-28/04_page3.png" loading="lazy"><img src="2026-10-28/05_page4.png" loading="lazy"><img src="2026-10-28/06_page5.png" loading="lazy"><img src="2026-10-28/07_page6.png" loading="lazy"><img src="2026-10-28/08_page7.png" loading="lazy"><img src="2026-10-28/09_cta.png" loading="lazy"></div>
-<button onclick="copyCap('2026-10-28', this)">キャプションをコピー</button></div><div class="set"><h2>2026-10-26</h2>
-<div class="strip"><img src="2026-10-26/01_cover.png" loading="lazy"><img src="2026-10-26/02_page1.png" loading="lazy"><img src="2026-10-26/03_cta.png" loading="lazy"></div>
-<button onclick="copyCap('2026-10-26', this)">キャプションをコピー</button></div><div class="set"><h2>2026-10-25</h2>
-<div class="strip"><img src="2026-10-25/01_cover.png" loading="lazy"><img src="2026-10-25/02_page1.png" loading="lazy"><img src="2026-10-25/03_cta.png" loading="lazy"></div>
-<button onclick="copyCap('2026-10-25', this)">キャプションをコピー</button></div>
+<button onclick="copyCap('2026-10-28', this)">キャプションをコピー</button></div>
 <script>
 async function copyCap(name, btn){
   const t = await (await fetch(name + '/caption.txt')).text();
