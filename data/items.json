@@ -1,5 +1,145 @@
 [
  {
+  "id": "skjapan-2611-piyonotebook",
+  "maker": "エスケイジャパン",
+  "name": "ぴよ手帖　ふわもこポーチコレクション2",
+  "url": "https://www.sk-japan.co.jp/capsule-toy/archive/2611-piyonotebook",
+  "image": "https://www.sk-japan.co.jp/wp-content/uploads/2026/11/ぴよ手帖_ふわもこポーチコレクション2_DPPOP_キャラとる-scaled.webp",
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "skjapan-2611-loverabbit",
+  "maker": "エスケイジャパン",
+  "name": "ラブラビット　ふわふわデニムポーチ",
+  "url": "https://www.sk-japan.co.jp/capsule-toy/archive/2611-loverabbit",
+  "image": "https://www.sk-japan.co.jp/wp-content/uploads/2026/11/ラブラビット_ふわふわデニムポーチ_DPPOP_キャラとる-scaled.webp",
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "skjapan-2611-gokigenpanda",
+  "maker": "エスケイジャパン",
+  "name": "ごきげんぱんだ　ふわふわデニムポーチ2",
+  "url": "https://www.sk-japan.co.jp/capsule-toy/archive/2611-gokigenpanda",
+  "image": "https://www.sk-japan.co.jp/wp-content/uploads/2026/11/ごきげんぱんだ_ふわふわデニムポーチ2_DPPOP_キャラとる-scaled.webp",
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-3af2e6d5289e6b40",
+  "kind": "news",
+  "maker": "いこーよニュース",
+  "name": "スタバ初ガチャ＆ミスドのヤドン＆マック新フルーリーも！2026年11月後半トレンド",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b3ZabEZ6TG0xR1FNT0wzLVJDek1wZTBILXNxa0s2S2dTeXpIQUVaOHJnWExSS2lVWXNrRVNHNm54dXhhWjhlUmpyUENNdHdJSXc?oc=5",
+  "date": "Mon, 16 Nov 2026 03:01:19",
+  "release": "2026-11",
+  "release_text": "2026年11月",
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-2305f324c51fa862",
+  "kind": "news",
+  "maker": "hobby Watch",
+  "name": "ぬいをあったか冬仕様に！ カプセルトイ「ぬい用防寒グッズ」11月21日発売",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DNGRyWGt4YzE3X0pkYkI5UkpFaGhITjdYZjdRYW9qLVhSRGRnZE0zMjZFWFZjTGRoSW1VRm1pdVlhQ3dycnN0bm14Mm1QSGJ4c2ZwekZ2cjRZWGY4cWtVYnBmYWNrd3M?oc=5",
+  "date": "Wed, 18 Nov 2026 03:00:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-320a76b59e6d5d80",
+  "kind": "news",
+  "maker": "hobby Watch",
+  "name": "サンリオキャラクターズが水族館の人気者と戯れる。カプセルトイ「PUTITTO サンリオキャラクターズ 水族館1」が11月27日より順次発売",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1bW13RkMyUktDU1FCQ29ZS0RSbTctZ2czNGRVS2FUOEhtVWJpa1ZyMVR1RUJBQjlwNjlnT0w1SF9NSGxOWlpRZEQxTWRZSDVmNnhuX0RqUU1WZHVsM1BHaUF6NXJuR1k?oc=5",
+  "date": "Wed, 18 Nov 2026 02:40:07",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-cbf0b3d978b13caa",
+  "kind": "news",
+  "maker": "朝日新聞",
+  "name": "【カプセルトイ】ゴジラがモコモコのチャームに変身！ あの怪獣たちのアップリケ風キーホルダーが11月下旬から順次発売",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5abXpaSWw0VVQ4LVc1N2M2eFJpV1VqeVNFQWVIWFczWTc3ZVhJa1FfXzB3NGg1d2pKWkViQUhCWWxsRFY3ZVd1RHE1ZFlJNzFNamM0R1BhZw?oc=5",
+  "date": "Sun, 15 Nov 2026 22:30:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-927fccb23a1ceab3",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "「すとぷり」めじるしアクセサリーがガシャポンにて発売！頭に王冠を乗せた姿が可愛い、莉犬やジェルたち全5種（インサイド）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUSjV5UUFabWFKUTdzZjA0eEtidmR3Z0REUjVHdWpDLS05TUU0Y2h1LUoxMzhNcjJjRHBlNXhtUjhnRGpzUjNla0lQNjBEXzUxSWRSSEhQSEJ2YUVSTy1LY1NjbjRzNzJ1SWRZSnZoVGpkMTg0NXVoMlZCUmZUdDg?oc=5",
+  "date": "Sat, 14 Nov 2026 22:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-0fe3c112ab236eaa",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "『FF10』キャラクタータグキーホルダーがカプセルトイにて発売！デフォルメされたティーダやワッカたちに加えて、シーモアとジェクトなど全9種（インサイド）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lY0otVG9zbU45R3otRl9Ga0laY2dRdDBKTlRVRzVRVVpqd2JMYUZvZzM1WDVwT2tVQWFHcWJwY1JPUGdKSmdBYnhaeDNkX252TTlLT21zYVN0cC12R2c2LU5ZMVJaa2EyeVd3ZDlTNmw0VnJhR0ZUQlZRUnI1LVU?oc=5",
+  "date": "Mon, 16 Nov 2026 01:15:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-846c16b6698a837b",
+  "kind": "news",
+  "maker": "アニメ！アニメ！",
+  "name": "「サンリオ」カプセルトイが登場！ キティ×イルカ、キキララ×エイ、ポチャッコ×カワウソ…水族館の人気者と戯れる",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oU3RaM3JuVzQ2czRtMVlnUHQ2bzdpNXZmLW9KelJ3R1FHWEVDTjBVTmlPODJ5WS1CanBMUTd0eU93RUVBY01CSG5Ya1FJTk56NXFoTjNFckxCeDNodU9FbGtn?oc=5",
+  "date": "Wed, 18 Nov 2026 08:00:04",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-1b749f92a84eff4f",
+  "kind": "news",
+  "maker": "いいものタウン",
+  "name": "スターバックス初のカプセルトイ『スターバックス ジョイフル カプセル』が発売。人気ビバレッジやフードをモチーフにした“ぬいチャーム”が登場",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKbDZvbUlFS2lIQ3d6bVlIajYwdFhYMjFEa011REV2SlQtVy1ZdVJycmpMN2tjdFlncFo5LXlqcGNvSTFaZlp2c01vWjlyQnM?oc=5",
+  "date": "Wed, 18 Nov 2026 03:00:04",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-9742693cef54d305",
+  "kind": "news",
+  "maker": "LASISA",
+  "name": "【スタバ】11月18日発売の初カプセルトイ「ジョイフル カプセル」買い方・注意点まとめ！ 1会計2点まで＆ドライブスルー一時休止も",
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBDVEJPb2NFcC0zUEg1R2NyUVJjbU1yemlseXBMaVMtNXlGbGRyMnlFQ2IxanZWWDRHcXBYYklyczFJQzQ5?oc=5",
+  "date": "Tue, 17 Nov 2026 22:35:36",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "gnews-f2ac20b5d386a1a7",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "『クロノ・トリガー』カプセルトイ2商品が順次発売！クロノやマールたちをドット絵で描いたアクリルブロック、キャライラストのタグキーホルダーも（インサイド）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45Y01XNGc5RWtYM0UybllrZ2NCVGctU1R0Q1VWeWdNb3BrSm9OQmphd1VvS1lzTkR5WDJnNU13N29fc3dfTGZxOEJPN0NIZGQtQnk1SnMzTC1tNlRvUU5pdW1YWHBDYnhWOG5XQ3Q2X0RwdEtZcW9Ra2JPdXhrU0U?oc=5",
+  "date": "Fri, 13 Nov 2026 02:30:03",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-19"
+ },
+ {
   "id": "gnews-66c914e5f4605719",
   "kind": "news",
   "maker": "hobby Watch",
@@ -130,7 +270,7 @@
   "id": "gnews-72f4b685cad9aefc",
   "kind": "news",
   "maker": "朝日新聞",
-  "name": "「買えるか不安」【スタバ】『初のカプセルトイ』11/18発売。人気メニューのチャーム化に「どれも可愛い」と話題",
+  "name": "「朝8時でもう完売」11/18発売【スタバ初のガチャ】に行列。SNSで交換を募る声も",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CWXBwZm5NRXQ0Q1VFeE9RRXNfN2N6cXppVnE5YmxSbXVKMHpMcG5HSHdCMllXekpidjhfazdBVk4tS1JpU3pCdnZtaWc1MjFNU0ExWk4wUQ?oc=5",
   "date": "Mon, 16 Nov 2026 22:20:00",
   "release": null,
@@ -162,7 +302,7 @@
  {
   "id": "gnews-be5b2d83d7ecc540",
   "kind": "news",
-  "maker": "ドラえもん公式サイト｜ドラえもんチャンネル",
+  "maker": "ドラえもんチャンネル",
   "name": "「ドラえもん ベーカリーチャーム」がバンダイのガシャポン®に登場！",
   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3Mm5EczN2MTRnbUhfWGwxMHpxY2lWYUpoVUNLZ3R0UTlmeHZrVFJWWGttVjlHd0ZIRExMWXBuTHlFaFNhUGpWbk1CRWE?oc=5",
   "date": "Fri, 13 Nov 2026 00:59:59",
@@ -3922,7 +4062,7 @@
   "maker": "ONE PIECE.com",
   "name": "バンダイのガシャポン®から「CHOPPER’s めじるしアクセサリー」が発売決定！",
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xXzVIeWJZTnNaR3Nhc1VGYjd0ZGhiV19zQ2hMTWhieG9lWlh6dHEtZUl0YW00MmtneWtWSVpEaFpTN19WWU1EZkg1TDlkN3lxNmF0RFVB?oc=5",
-  "date": "Fri, 30 Oct 2026 03:06:16",
+  "date": "Fri, 30 Oct 2026 07:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-10-31"
