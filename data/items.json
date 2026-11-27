@@ -1,5 +1,86 @@
 [
  {
+  "id": "bandai-4582770158557000",
+  "maker": "バンダイ",
+  "name": "NCT WISH Twinkle ゴム",
+  "price": 300,
+  "category": "ガシャポン",
+  "url": "https://gashapon.jp/products/detail.php?jan_code=4582770158557000",
+  "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000261556_2.jpg",
+  "release_text": "2027年4月未定",
+  "release": "2027-04",
+  "variety": "全6種",
+  "age": "15才以上",
+  "description": "半立体のクリア素材マスコットが付いたヘアゴムが登場！\n髪を結ぶのはもちろん、バッグなどに付けてもかわいいアイテムです。",
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "gnews-9644360323e97368",
+  "kind": "news",
+  "maker": "インサイド",
+  "name": "「ちいかわ」新商品が11月27日11時より発売！チョコサプ2やカプセルトイなど、“クリニック”以外にも注目アイテム多数",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45d3hiYWpXNkJaaU9YRWRHc2N5bW45TDNRSXVqNUpybkdSUzFOUFhJYkdyUWJNTnFSaW1vTUk2VGtGQTRoNGtJX0QyTHJBckRsUHlQMTVQb3FaMlNRN05ZMnFDSDdtbDBDSUE?oc=5",
+  "date": "Fri, 27 Nov 2026 00:25:05",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "gnews-b11283d45c49dbcd",
+  "kind": "news",
+  "maker": "Infoseek",
+  "name": "【カプセルトイ新商品】「オーロラシャカシャカお菓子チャーム」が11月30日（月）から順次発売！",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Eczl6OHNEcmp5dlJiUFlycDBPZmgtNkNBbDRubUE1bjlPS2RDSXI2a0FJMzRNRVJkdVhZel9LWVMyYWNoYVdtYzBWYXVZT0lLbGpKVGk0UXYwSDJKTEZQcThuTTJUcUZZOW5PeXZhZ1RVZw?oc=5",
+  "date": "Thu, 26 Nov 2026 13:10:02",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "gnews-9887f8b81e199be9",
+  "kind": "news",
+  "maker": "Hobby JAPAN Web",
+  "name": "ドップやセイバーフィッシュ、マゼラ・アタックやキュイなど“脇役メカ”を集めた「ガンダムメカ」第2弾が発売！既存のモビルスーツとアンサンブルと並べてガンダムの世界をより広げよう【ガシャポン®最新情報】",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRTUxPMXhsX0ZmVWc4Um43b0pTcDk2Sk1wV3pPdXNPSHBad2RxcldNeFZaVUs5eHBqTHpkYnNXZm5rcDg3bUo4dg?oc=5",
+  "date": "Thu, 26 Nov 2026 10:27:30",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "gnews-679a9b117f5c6807",
+  "kind": "news",
+  "maker": "Yahoo!ニュース",
+  "name": "振ってシャカシャカ楽しい！ カプセルトイ「オーロラシャカシャカお菓子チャーム」が11月30日から順次発売（HOBBY Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1LXJ1SGsxM1REUV92QmVJcEJveGJsYzFPVHdzYUFPTUNBeWgyam5YTXBlMFQtQWFrVU1JSFlsajR2VXB4THo4S3V4TGdqbDVfbWF3RHpXSDNya0N2M2VnbHJzTmJ3VHhKdFhxNVJpX1BpZ1RwWkxxSnNsRUZNMjg?oc=5",
+  "date": "Thu, 26 Nov 2026 01:59:00",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "gnews-3ae04a8196d473cd",
+  "kind": "news",
+  "maker": "ニコニコニュース",
+  "name": "ミッフィーのふわもこ刺繍が可愛い「サガラ刺繍ポーチ」がカプセルトイに登場！",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13czhhRWhYMGR4RjlTdnRTcjlucVl0dWRPd1NOdE0zNzhGUk1nMmVmaGFKZXEzcmVab2tlY05FNWJ2T0ZINXZMVmdpbE5jWnNtQUp4UmNrMjl4aUdwRlhXUDVfdEhRTWRX?oc=5",
+  "date": "Thu, 26 Nov 2026 13:00:28",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-27"
+ },
+ {
+  "id": "gnews-9f9705e93f062add",
+  "kind": "news",
+  "maker": "Infoseek",
+  "name": "【カプセルトイ新商品】「ふわっとシマエナガちゃんダイカットポーチ」が11月30日（月）から順次発売！",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PYTRNcXZqS2xHYnlKVlRJS1JhajExdC1ZazR1U2R3VUd6anJPZVBCUmVCdHBJNi1VQjB3d3kzZG9ZQUl1aGVGWjI5U25WcW9yc3BVekhBWDdzWlJKZl8wQWY5Q2VzMHgwOEwxYktPdXZsZw?oc=5",
+  "date": "Thu, 26 Nov 2026 01:01:33",
+  "release": null,
+  "release_text": null,
+  "first_seen": "2026-11-27"
+ },
+ {
   "id": "gnews-68bd872a0e713c84",
   "kind": "news",
   "maker": "Yahoo!ニュース",
@@ -60,7 +141,7 @@
   "maker": "Yahoo!ニュース",
   "name": "レア枠やばっ！『ドラクエ』新作カプセルトイのラインナップ全7種に「全部アタリ」「りゅうおうほしい」（マグミクス）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NnhGTEpiTUhkb1g4em96YkpFbFRsMTR2bHViWFlWZmxYYlNWNGZRLVhmbDlzdllIaEg3TnFEMzJJR1VhNEhSbDRJVEJ1TElwYlZFRjVzNHdkOTQ1OElTU1dhNEtfTTZOdEVCNDVxR21uWGx2UGlieDYya2hjcE0?oc=5",
-  "date": "Wed, 25 Nov 2026 21:30:00",
+  "date": "Thu, 26 Nov 2026 16:42:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-11-26"
@@ -866,10 +947,10 @@
  {
   "id": "gnews-20caa8efad1f8baa",
   "kind": "news",
-  "maker": "GUNDAM Official",
+  "maker": "GUNDAM.INFO",
   "name": "ガシャポン「機動戦士ガンダム CAPSULE INDEX 04」11月第4週より順次発売！「νガンダム」「アリュゼウス」ほか全4種！",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zdkh5WHVXXzhCWUxsQmhrT045QmdPcE9jOHBPQVBPcFM2SkpnX295MW1MX0lYUExYbzViZUlldW1jdk40SEpqRnh6THdLZXRVU0tCVHVhZWV6cFBJb0NzMHFmemNTak02?oc=5",
-  "date": "Fri, 20 Nov 2026 11:16:19",
+  "date": "Sat, 21 Nov 2026 03:15:59",
   "release": null,
   "release_text": null,
   "first_seen": "2026-11-21"
@@ -2099,7 +2180,7 @@
   "maker": "hobby Watch",
   "name": "雪の結晶8種！ カプセルトイ「雪の結晶アピるチャーム」11月18日発売 粉雪、氷華、銀華、深雪など",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRHZ1dGJtbHZDUFhXVkktZlVKUl8xNzF5R0tFLTBGS1NCU2lfRUswT3BqeUxkUVpnX2w4ZHdVOFNpMUZMY0ZBQUZYcUQ0WktSLWlTYzVISDBrQU4tZzgtdXJ5Q2FndDg?oc=5",
-  "date": "Thu, 12 Nov 2026 03:00:00",
+  "date": "Thu, 12 Nov 2026 08:00:00",
   "release": null,
   "release_text": null,
   "first_seen": "2026-11-14"
